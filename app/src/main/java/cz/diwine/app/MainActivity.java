@@ -5,6 +5,7 @@ import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.SearchView;
 import androidx.appcompat.widget.Toolbar;
+import androidx.core.content.ContextCompat;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -33,7 +34,7 @@ public class MainActivity extends AppCompatActivity   {
     RecyclerAdapter adapter;
     ArrayList<String> list;
 
-    String varietyNames[]={"ACOLON (Ac)","AGNI (Ag)","ALIBERNET (Al)","ANDRÉ (An)","ARIANA (Ar)","AURELIUS (Au)","AUXERROIS","BLAUBURGER",
+    String varietyNames[]={"ACOLON","AGNI","ALIBERNET","ANDRÉ","ARIANA","AURELIUS","AUXERROIS","BLAUBURGER",
             "CABERNET CORTIS","CABERNET DORSA","CABERNET MORAVIA","CABERNET SAUVIGNON","CERASON","DĚVÍN","DORNFELDER","ERILON","FLORIANKA",
             "FRANKOVKA","FRATAVA","HIBERNAL","CHARDONNAY","IRSAI OLIVER","JAKUBSKÉ","KERNER","KOFRANKA","LAUROT","LENA","MALVERINA","MEDEA",
             "MERLOT","MERY","MODRÝ PORTUGAL","MUŠKÁT MORAVSKÝ","MUŠKÁT OTTONEL","MÜLLER THURGAU","NATIVA","NERONET","NEUBURSKÉ","PÁLAVA","RINOT",
@@ -44,6 +45,7 @@ public class MainActivity extends AppCompatActivity   {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        getWindow().setStatusBarColor(ContextCompat.getColor(MainActivity.this,R.color.bckgColor));
         //getSupportActionBar().show();
         SearchView searchView=  findViewById(R.id.search_bar);
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);

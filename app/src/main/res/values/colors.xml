@@ -13,6 +13,8 @@
     <color name="transparent">#00CC3100</color>
     <color name="semiTransparentColor">#20ffffff</color>
     <color name="titleColor">#B6B6B6</color>
+    <color name="bckgColor">#1a1a1a</color>
+    <color name="bckgColorDetail">#1a1a1a</color>
 
 
 

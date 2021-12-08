@@ -113,7 +113,7 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
             itemView.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
-                    Toast.makeText(context, "Clicked on "+data[getAdapterPosition()], Toast.LENGTH_SHORT).show();
+//                    Toast.makeText(context, "Clicked on "+data[getAdapterPosition()], Toast.LENGTH_SHORT).show();
 
                     if (data[getAdapterPosition()].equals("AUXERROIS"))
                     {
@@ -130,6 +130,26 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
                     if (data[getAdapterPosition()].equals("PÁLAVA"))
                     {
                         Intent intent=new Intent(context,PalavaActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("ACOLON"))
+                    {
+                        Intent intent=new Intent(context,AcolonActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("AGNI"))
+                    {
+                        Intent intent=new Intent(context,AgniActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("ALIBERNET"))
+                    {
+                        Intent intent=new Intent(context,AlibernetActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("ANDRÉ"))
+                    {
+                        Intent intent=new Intent(context,AndreActivity.class);
                         context.startActivity(intent);
                     }
                 }

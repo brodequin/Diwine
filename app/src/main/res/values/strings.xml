@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">DIWINE</string>
     <string name="action_settings">Settings</string>
@@ -9,6 +10,252 @@
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
-</resources>
+
+    <!-- ODRŮDY -->
+
+    <!-- PÁLAVA -->
+
+    <string name="barva_palava">Zlatavě žlutá, ve větší vyzrálosti jantarová / medová až hrozinková s meruňkovými odlesky.</string>
+    <string name="vune_palava">Převážně nese tóny jednoho z kříženců - Tramínu červeného. Aromatická, ovocná, s medově kořenitou dezertností a přezrálými tóny hrozinek, meruněk a broskví. Květinová, s převahou muškátu,
+        někdy i vanilky. Tóny čajové růže, manga a banánu (exotického ovoce).</string>
+    <string name="stolovani_palava">Hodí se ke kořenitému jídlu či sladké úpravě masa. Také k uzeným a pařeným sýrům a dezertům.</string>
+    <string name="chut_palava">Plná, dlouhotrvající, kořenitá, elegantní, harmonická, s vyšší kyselinou a často podpořená vyšším obsahem cukru. Ovocná, s přezrálými tóny hrozinek, meruněk a broskví.</string>
+    <string name="popis_palava">Pálava je bílá moštová odrůda vzniklá křížením odrůd Tramín červený x Müller Thurgau. Asi nejlepších výsledků dosahuje především v Mikulovské podoblasti, v okolí obcí Perná,
+        Pavlov nebo Bulhary, dále pak v Lechovicích, Popicích nebo Čejkovicích. Pálava je často automaticky vnímána jako víno sladké, tedy s vyšším zbytkovým cukrem, ale zdaleka to není pravidlo.
+        Právě v suché verzi objevíme kouzlo a krásu téhle odrůdy.Do Státní odrůdové knihy zapsaná v r. 1977. Vyšlechtěná Ing. Josefem Veverkou ve
+        Šlechtitelské stanici Velké Pavlovice a Perné. \n\n
+         Hrozen je středně velký, kónický s menšími křídly, bobule malá, šedočervená, tuhá odolná slupka, intenzívní tramínové chuti. Zralost na přelomu září – října. Víno je kořenité, velmi podobné vínu Tramín
+        červený s mírnými tóny jiných aromatických odrůd např. Irsai Oliver příp. muškátových odrůd. \n\n
+        Zkratka: Pa \n\n
+        Držitel šlechtitelských práv v ČR: není.\n
+        Udržovatel odrůdy v ČR: kód 603 Šlechtitelská stanice vinařská Velké Pavlovice, a.s. 691 06 Velké Pavlovice 565, kód 604 Ing. Miloš Michlovský, CSc. Družstevní 818, 691 03 Rakvice, kód 749 Ing.
+        Alois Tománek 687 09 Boršice 671, kód 982 AMPELOS, ŠLECHTITELSKÁ STANICE VINAŘSKÁ ZNOJMO, a.s. 671 24 Vrbovec 274. \n\n
+    Zdroje informací: \n www.vinazmoravyvinazcech.cz/, Wikipedie, www.znalecvin.cz/, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015</string>
+
+
+    <!--ACOLON-->
+
+       <string name="vune_acolon">Třešně / Višně, borůvky, lesní ostružiny, čokoláda a kořenitost. Ve vůni najdeme i jemný nádech švestek, která se obecně připisuje jednomu z kříženců - Dornfelderu.</string>
+       <string name="chut_acolon">Převážně červené ovoce. Víno s dobrou texturou a plným tělem.</string>
+       <string name="barva_acolon">Velmi tmavá</string>
+       <string name="popis_acolon">Acolon je modrá moštová odrůda, zapsaná v r. 2011 do Státní odrůdové knihy ČR. Vyšlechtěná v r. 1971 ve Státním výukovém a výzkumném ústavu pro vinohradnictví a ovocnictví ve
+           Weinsbergu (SRN), křížením odrůd Frankovka x Dornfelder, šlechtitel Bernd Hill. Hrozen je střední až velký, středně hustý až hustý, bobule středně velká, oválná, modročerná, dužina je zabarvena do
+           světlejší červené barvy. Víno je frankovkového typu, má vyšší barevné odstíny, ve vůni je typické červené ovoce, v chuti výrazná, ale jemná sametová tříslovina.
+           Odrůdová vína mívají vyšší obsah zbytkových cukrů, než vína z rodičovských odrůd. Mají ještě intenzivnější barevnost, jsou plná, jemně ovocitá a harmonická,
+           s dobrou strukturou a s decentní tříslovinou, dobře vyzrávají a jsou vhodná i k barikové úpravě. Bezcukerný extrakt vín v dlouhodobém průměru je vysoký, 25,8 g/l.\n\n
+       Zkratka: Ac \n\n
+   Držitel šlechtitelských práv ČR: není \n
+   Udržovatel odrůdy v ČR: kód 1160 VERITAS spol. s r.o., Vrchní 7, 683 54 Bošovice \n\n
+       Zdroje informací: \n www.vinazmoravyvinazcech.cz/, Wikipedie, www.znalecvin.cz/, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+       </string>
+
+
+    <!--AGNI-->
+
+    <string name="vune_agni">Muškátová a jemně ovocná, doplněná květinovými tóny.</string>
+    <string name="chut_agni">Plná, příjemná, s jemnou tříslovinou. Ve vůni a chuti můžeme hledat muškát a exotické tóny.</string>
+    <string name="barva_agni">Intenzivní, tmavočervená, nadprůměrně sytá.</string>
+    <string name="stolovani_agni">Vína se podávají k dezertům a k sýrům se zelenou plísní, rozhodně jsou zajímavá též samostatně, jako specifický typ červených muškátových vín.</string>
+    <string name="popis_agni">Agni je modrá aromatická moštová odrůda vzniklá křížením odrůd André x Irsai Oliver. V r. 2001 zapsaná do Státní odrůdové knihy ČR. Vyšlechtěna ve ŠS V. Pavlovice a ŠS Perná kolektivem šlechtitelů:
+Jan Havlík, Ing. Ludvík Michlovský, Ing. František Zatloukal. Je bujného růstu, středně hustého olistění a má malé až střední hrozny s malými bobulemi modročerné barvy s výrazným muškátovým aromatem.
+Odolnost proti houbovým chorobám je střední. Její pěstitelské nároky zatím nejsou plně odzkoušeny.Hrozny dosahují vysoké cukernatosti a zrají brzy. Víno je plné, zvláštního, pro červená vína nezvyklého
+ typu s výrazným muškátovým aromatem. Mohlo by se asi uplatnit při výrobě vín dezertních. Odrůdová vína nejsou příliš vhodná k archivaci. \n\n
+Zkratka Ag.\n\n
+udržovatel odrůdy: 604, Doc. Ing. Miloš Michlovský, CSc, Družstevní 818, 691 03 Rakvice. Držitel šlechtitelských práv: Doc. Ing. Miloš Michlovský, CSc.\n\n
+       Zdroje informací: \n www.vinazmoravyvinazcech.cz/, Wikipedie, www.znalecvin.cz/, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+       </string>
+
+    <!--ALIBERNET-->
+
+    <string name="vune_alibernet">Po jednom z kříženců - Cabernetu. Ve vůni můžeme dále hledat černý rybíz, lesní ovoce, ostružiny, vanilku, či čokoládu.</string>
+    <string name="chut_alibernet">Středně plná až plná, drsnější - při horších ročnících s vyšší tříslovinou a kyselinkou. Borůvky, čokoláda, ostružiny, lesní ovoce.</string>
+    <string name="barva_alibernet">Intenzivní červená.</string>
+    <string name="stolovani_alibernet">Hodí se ke spárkaté zvěřině  a skopovému masu, hovězímu guláši a měkkým sýrům s bílou plísní. </string>
+    <string name="popis_alibernet">Využívaná hlavně jako barvířka. Pěstuje se na 0,08 % plochy vinic ČR. Zápis do Státní odrůdové knihy 1975.\n
+Byla vyšlechtěna na ukrajinském Vědecko-výzkumném ústavu pro vinohradnictví v Oděse. V okolí se pěstuje pod názvem Oděsskij čornyj. Alibernet je více rozšířen na Slovensku, kde v teplejších
+        podmínkách je kvalita vína kabernetového typu zvláště dobrá. Odrůda vznikla křížením Alicante Bouschet x Cabernet Sauvignon.
+        Růst je bujný, listy středně velké, pětilaločné, sytě zelené a na podzim se barví do intenzivní červeně. Hrozen je rozložitý, velký, řídký. Bobule střední velikosti, černomodré s
+        ojíněním a s tmavě červeně zbarvenou dužninou a šťávou. Příchuť dužniny je kabernetová. Odolnost proti houbovým chorobám i proti mrazu je dobrá. Vyžaduje výborné polohy, protože zrání hroznů je pozdní.
+        Sklizně jsou pravidelné a vysoké. Hrozny mají vyšší obsah kyselin, zvláště při vysoké sklizni a v horším ročníku.\n
+Víno může dosahovat velmi dobrou jakost a může být i dostatečně plné při snížené sklizni na keř a v teplých podmínkách. Z vyšších sklizní je řídké, méně barevné, s nepříjemně vysokým obsahem kyselin.
+        Při odpovídajícím ošetřování vinice lze produkovat odrůdová vína. Jinak to je odrůda vhodná do směsí, jimž dodává barvu a kabernetové aroma.\n\n
+        Zkratka Al.\n\n
+       Zdroje informací: \n www.vinazmoravyvinazcech.cz/, Wikipedie, www.znalecvin.cz/, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+       </string>
+
+
+    <!--ANDRÉ-->
+
+    <string name="barva_andre">Intenzivní - tmavě červená, rubínová či granátová.</string>
+    <string name="vune_andre">Ostružiny, lesní plody (borůvky), káva, švestková povidla, černé koření. </string>
+    <string name="chut_andre">Středně plná. Třísloviny výrazné, hebké. Zráním se třísloviny harmonizují, měknou a jsou sametovější.</string>
+    <string name="stolovani_andre">Třísloviny hebké, výrazné.</string>
+    <string name="popis_andre">André je modrá moštová odrůda vzniklá křížením Frankovka x Svatovavřinecké. V r. 1980 zapsaná do Státní odrůdové knihy. Vyšlechtěna ve šlechtitelské stanici V. Pavlovice
+        v r. 1961 šlechtitelem Ing. Jaroslavem Horákem. Název odrůdě byl dán podle Ch. C. Andrého (1763 – 1831, zakladatel spolku na podporu šlechtění ovoce v Brně).
+Hrozen je středně velký, hustý na krátké stopce, bobule střední, pevná slupka s vysokým obsahem barviva. Víno je při redukované úrodě hroznů plné, harmonické. U zralých vín aromatické tóny borůvek,
+        ostružin a povidel. Víno má dobrý potenciál pro zrání v dřevěných sudech.
+        Nejvíce se s odrůdou setkáme ve Velkopavlovické podoblasti, nicméně zajímavá André se rozhodně dělají i na Slovácku či Mikulovsku.\n\n
+Zkratka An.\n\n
+Udržovatel odrůdy v ČR: 603 – Šlechtitelská stanice vinařská Velké Pavlovice a.s., 691 06 Velké Pavlovice 565 a 982 – Ampelos, Šlechtitelská stanice vinařská Znojmo, a.s.,  671 24 Vrbovec 274.
+Držitel šlechtitelských práv v ČR: Šlechtitelská stanice vinařská Velké Pavlovice. a.s..\n\n
+       Zdroje informací: \n www.vinazmoravyvinazcech.cz/, Wikipedie, www.znalecvin.cz/, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015, evinice.cz
+       </string>
+
+
+
+
+
+
+       // VINAŘSKÝ SLOVNÍK
+       <string name="slovnikobsah">
+
+       <b>Adstringentní</b>\n
+   Stahující pocit v chuťových buňkách způsobený tříslovinami vína.\n\n
+
+   <b>Agrafa</b>\n
+   Kovová spona zajišťující korkovou zátku před vystřelením při kvašení šumivého vína v sektové lahvi.\n\n
+
+   <b>Agrární komora České republiky</b>\n
+   Nevládní organizace reprezentující a obhajující zájmy podnikatelů ze zemědělství, potravinářství a lesnictví ČR. Vznikla v roce 1992 podle zákona č. 301/92 Sb. o
+           Hospodářské komoře ČR a Agrární komoře ČR. Je tvořena 61 okresní a regionální agrární komorou (OAK, RAK) a 26 členskými společenstvy (odborným svazem).
+           Představenstvo AK ČR je složeno z 28 zástupců členů a prezidenta, dozorčí radu tvoří 10 zástupců členů a předseda. Sídlo je v Olomouci, AK ČR má úřad v Praze.
+           Jedním z členských společenstev je i Svaz vinařů České republiky.\n\n
+
+   <b>Aldehyd</b>\n
+   Aromatické aldehydy vznikají z ligninu třapiny a semen révy. Z alifatických aldehydů je nejvíce acetaldehydu, který způsobuje zvětralou příchuť při styku se vzduchem.\n\n
+
+   <b>Alkohol</b>\n
+   Hlavní složkou alkoholů obsažených ve víně je ethanol vznikající kvašením cukrů obsažených v moštu a výtěžnost se pohybuje kolem 51 %. Jeho obsah se vyjadřuje v % obj.
+           nebo g/l (1 % obj. alkoholu = 8 g/l). Viz celkový, přirozený, skutečný obsah alkoholu.\n\n
+
+   <b>Alkoholické víno</b>\n
+   Je takové víno, jehož obsah alkoholu není vyvážen s ostatními složkami a tento je senzoricky velmi snadno identifikovatelný.\n\n
+
+   <b>Americké druhy révy</b>\n
+   Na americkém kontinentu vznikly druhy révy s různě vysokou odolností proti révokazu, háďátkům a houbovým chorobám. Užívá se jich při šlechtění podnoží a rezistentních odrůd
+           révy vhodných pro alternativní vinohradnictví.\n\n
+
+   <b>Amfora</b>\n
+   Nádoba na víno z pálené hlíny s úzkým hrdlem, dole zašpičatělá, užívaná kdysi v Řecku a v Římě.\n\n
+
+   <b>Ampelografie</b>\n
+   Nauka o druzích a odrůdách révy. Obecná zahrnuje systematiku, klasifikaci a metodiku ampelografických sledování. Speciální obsahuje popisy odrůd. Viz ampelografické znaky.\n\n
+
+   <b>Antokyany</b>\n
+   Červená barvina obsažená v mladých č.vínech v množství 200-500 mg/l. Existuje větší množství látek tohoto typu v závislosti na odrůdě révy. Jejich molekula obsahuje jednu
+           nebo dvě molekuly glukózy . Při stárnutí vína molekuly glukózy vypadávají. Monoglukozid malvidol+B3 je hlavním červeným barvivem odrůd V.vinifera, kdežto jeho diglukozid
+           je obsažen v některých amerických druzích révy a v některých americko-evropských křížencích. Chromatograficky se přítomnost diglukozidu dá zjistit a tím se prokazoval
+           přídavek vína přímoplodných hybridů do vín z odrůd evropských. Antokyany vytvářejí polymerizací a kondenzací sloučeniny s tříslovinami až do koloidální velikosti molekul,
+           které pak mohou z vína vypadávat chladem, použitím čiřidel nebo stárnutím.\n\n
+
+           <b>Aperitiv</b>\n
+   Alkoholický nápoj podávaný před jídlem, který má povzbudit chuť k jídlu. Bývají to lihoviny nebo vína dezertní či vína ledová, případně bobulové výběry.\n\n
+   <b>AREV (Sdružení evropských vinařských regionů)</b>\n
+   Organizace vznikla v roce 1988, nyní má 50 členů. Členy se stávají vlády jednotlivých regionů, nikoliv jejich vinařské svazy. Prezidentem AREV může být zvolena pouze osoba zastávající vrcholnou volenou funkci ve státní správě členského regionu (prezident, předseda vlády, hejtman atd.). Sídlo je ve Štrasburku. Součástí AREV je CEPV Evropská rada vinařů, jejímiž členy se stávají zástupci vinařských svazů v jednotlivých členských regionech. CEPV ze svého středu volí viceprezidenta AREV. Tato organizace je partnerem Komise ES při přijímání nových předpisů ES sektoru vína, napomáhá k vzájemnému porozumění v rámci Evropy při prosazování oprávněných zájmů jednotlivými členskými regiony. ČR byla přijata za pozorovatele v roce 2000, během roku 2001 státní správa ČR zvažuje plné členství. Všechny ostatní vinařské členské a kandidátské země EU, s výjimkou Slovenska, již plnoprávnými členy jsou.\n\n
+   <b>Aroma vína</b>\n
+   Aroma vína je soubor látek přírodního původu, které jsou obsaženy ve víně a které lze senzoricky zachytit při čichové a chuťové zkoušce. Jsou zpravidla těkavé a do vína přicházejí buďto jako: 1. primární z hroznů a moštu, 2. sekundární při zpracování, kvašení a zrání, 3. terciální biochemickými vazbami primárních a sekundárních, např. při dlouhodobém zrání vína v láhvi (ležácký buket ). Aromatické látky ve vůni mohou být dobrým ukazatelem odrůdy, geografického původu, stáří vína a také jeho zdravotního stavu.\n\n
+   <b>Aromatické víno</b>\n
+   Je každé víno u kterého je čichem zjistitelná příjemná odrůdová vůně hroznů, případná vůně získaná ležením vína v láhvi. Podle intenzity vůně jsou vína málo, silně nebo vysoce aromatické. Intenzita je odvislá od odrůdy, polohy vinice a ročníku. Také průběh kvašení má vliv na intenzitu vůně. Při teplotě kvasícího moštu okolo 20°C se snižuje o 10-30 %, při 25°C o 50 % a při 30°C až o 75 %.\n\n
+   <b>Aromatizované víno</b>\n
+   Podle nařízení Rady (EHS) č. 1601/1991 se aromatizovaným vínem rozumí nápoj z vína případně s přidaným hroznovým moštem, částečně zkvašeným hroznovým moštem a/nebo čerstvým hroznovým moštem, jehož kvašení bylo zastaveno přidáním alkoholu a který byl aromatizován pomocí přírodních aromatických látek a/nebo přírodních aromatických přípravků a/nebo aromatickými bylinami a/nebo kořením a/nebo potravinami určenými k aromatizaci; který byl zpravidla přislazen a až na výjimky případně obarven karamelem; který má minimální skutečný obsah alkoholu nejméně 14,5 % objemových, maximální skutečný obsah alkoholu nižší než 22 % objemových a minimální celkový obsah alkoholu nejméně 17,5 % objemových. U produktů, které jsou podle označeny jako „suché“ nebo „extra suché“, je však stanoven minimální celkový obsah alkoholu, v závislosti na uvedených případech, na 16 % nebo 15 % objemových. Podíl vína použitého při přípravě aromatizovaného vína musí v konečném produktu před obohacením činit nejméně 75 %. Pojmenování „aromatizované víno“ lze nahradit pojmenováním „vinný aperitiv“.\n\n
+   <b>Assemblage</b>\n
+   Sestavování základního vína pro výrobu sektu z různých partií vín.\n\n
+   <b>Autolýza kvasnic</b>\n
+   Dusíkaté látky a bílkoviny ve víně se přetvářejí na různé štěpné produkty a aminokyseliny, které podstatně ovlivňují chuť a buket vína. Nejrozsáhlejší autolýza kvasinek probíhá během ležení vína na kvasnicích do prvního stáčení. Delším ležením vína na kvasnicích se kvalita vína snižuje a při nedostatku kyselin ve víně a při vyšší teplotě může dojít i k degradaci vína.
+   Autolýza kvasnic se využívá jen při výrobě šumivých vín kvašením v láhvích, hlavně ke konci fermentace, kdy lyzující kvasinky působí pozitivně na tvorbu žádaných senzorických vlastností, tj. chuti, vůně a perlení. Při výrobě šumivých vín tankovou metodou se přidávají do základního vína „lyzátní vína“, to znamená vína ponechaná nejméně 3 měsíce na kvasničných kalech.
+   Ve starší literatuře byla autolýza označována jako „samostravování kvasnic“.\n\n
+   <b>Bacchus</b>\n
+   Starořímský bůh vinných keřů, hroznů a vína. Bílá, raná, moštová odrůda révy z křížení (Sylvánské zelené x Ryzlink rýnský ) x Müller Thurgau vyšlechtěná ve výzkumném ústavu Geilweilerhof v SRN. Dává lehká, aromatická vína. Není zapsána ve Státní odrůdové knize.\n\n
+   <b>Barrique</b>\n
+   Dubový sud o velikosti 225 l užívaný původně ve francouzském vinařském regionu Bordeaux ke zrání červených vín. Dnes rozšířený po celém světě nejen ke zrání, ale i k vyluhování zvláštních aromatických látek z dubu.\n\n
+   <b>Barva bobulí</b>\n
+   Slupky bobulí mají barvu zelenou, žlutou, jantarovou, růžovou, růžově fialovou, modrou nebo černou. Kromě základní barvy bývá různobarevné líčko.\n\n
+   <b>Batonáž</b>\n
+   Promíchávání kvasnic ve víně (batonage) rozprostře kvasnice rovnoměrně v celém objemu a mělo by se provádět zpočátku alespoň 2x týdně, na závěr již postačuje 1x za 14 dnů. Promíchávání kvasnic brání oxidaci a autolýzou kvasnic se získávají krémovější vína.\n\n
+   <b>Bezcukerný extrakt</b>\n
+   Odečtením hodnoty zbytkového cukru od veškerého extraktu zůstává bezcukerný extrakt, jehož hodnota by u bílých, tichých vín neměla klesnout pod 17 g/l.\n\n
+   <b>Bílkovinné zákaly</b>\n
+   Vína obsahující ještě termolabilní bílkoviny jsou při teplotách nad 20 °C náchylné k vytvoření kalů ve víně. Působení tepla nerozpustné bílkoviny změní na rozpustné a ty se projeví jako bílý sediment ve formě šedých pruhů. Proto vína s vyšším obsahem bílkovin musí být ošetřena bentonitem. Dávky bentonitu se určují podle výsledku testu na bílkoviny.\n\n
+   <b>Bílkoviny ve víně</b>\n
+   Bílkoviny mohou být ve víně buď jednoduché – proteiny, vytvářející při štěpení aminokyseliny nebo složené – proteidy. Souhrnně se označují jako dusíkaté látky. Zdrojem bílkovin ve víně jsou kvasinky, a to makromolekuly jejich buněčné blány, které jsou vlastními nositeli biochemických projevů života. Kvasničná buňka obsahuje 30-75 % dusíkatých látek.
+   Bílkoviny jsou termolabilní při zahřátí na 70 °C nebo působením alkoholu se srážejí jako sedlina.Tato vlastnost se využívá při čiření vína prostředky obsahující bílkoviny (želatina ).\n\n
+   <b>Biologické odbourávání kyselin</b>\n
+   Viz kvašení jablečno-mléčné.\n\n
+   <b>Biovíno</b>\n
+   Víno pocházející z kontrolované biologické (ekologické) produkce.\n\n
+   <b>Bobule</b>\n
+   Bobule tvoří hrozen. Skládá se ze stopky, slupky, dřeně a peciček. Ze stopky mohou do vína přecházet tvrdé třísloviny, hrubé bylinné tóny a oxidační enzymy, proto se doporučuje hrozny odzrňovat (zbavit stopek). Slupka obsahuje polyfenoly, barviva (antokyany a flavonoidy), aromatické látky a minerály. V dřeni bobule převládá voda, kyseliny (k. vinná, k. jablečná aj.), cukry, bílkoviny aj. Peciček může být v bobuli několik a nebo také žádná (viz bezsemenné odrůdy ). Pecičky obsahují velmi hrubé taniny a olej, jejichž vyloužení do vína je nežádoucí. Z peciček lze olej získávat dalším procesem zpracování a tento je mimořádně cenný nejen v kuchyni, ale také v kosmetice.\n\n
+   <b>Brut</b>\n
+   Suché šumivé víno, v němž může být nejvýše 15 g/l zbytkového cukru. Označení extra brut se užívá pro velmi suché š.víno do 4 g/l cukru.\n\n
+   <b>Buket vína</b>\n
+   Souhrn vůní vzniklých při ležení vína v sudech a lahvích.\n\n
+   <b>Burčák</b>\n
+   Podle zákona č. 321/2004 Sb. a nařízení Rady (ES) č. 1493/1999 je burčák definován jako částečně zkvašený hroznový mošt obsahující nejméně 1 % obj. skutečného obsahu alkoholu a nejvýše 3/5 celkového obsahu alkoholu. Musí přitom být získán výlučně z vinných hroznů sklizených a zpracovaných v ČR. V podstatě tato definice znamená, že burčákem je kvasící hroznový mošt, který obsahuje alespoň 40 % nezkvašených cukrů. Je to oblíbený nápoj v ČR a v Rakousku. Obsahuje vysoké množství vitamínů skupiny B.
+   Dodatek dle novely vinařského zákona: Nabízen může být mezi 1. srpnem a 30. listopadem kalendářního roku, v němž byly vinné hrozny sklizeny.\n\n
+   <b>Cibéby</b>\n
+   Při přezrávání hroznů se jejich bobule výparem vody scvrkávají, hrozinkovatí. Vznikají hrozinky neboli cibéby. Z nich se tvoří hrozinkové výběry – přírodní polosladká či sladká vína s vysokým zbytkem nezkvašeného cukru a s vůní hrozinek.\n\n
+   <b>Claret, klaret</b>\n
+   Bílé víno vyrobené z modrých hroznů. Lisují se buď celé hrozny nebo se hrozny odzrní a z drti se nechá odtékat první bezbarvý mošt bez lisování.\n\n
+   <b>Cukernatost</b>\n
+   Obsah cukrů v bobulích hroznů je jedním z hlavních ukazatelů sklizňové zralosti. Během zrání se sleduje pomocí refraktometru, ve vylisovaném moštu také moštoměrem, jehož údaj je základem pro kategorizaci vín.\n\n
+   <b>Cuvée</b>\n
+   Tento výraz má mnoho významů:\n
+   1. První podíl moštu při lisování „Vin de cuvée“.\n
+   2. Množství vína kvašeného v jedné nádobě.\n
+   3. Množství vína sceleného v jedné nádobě.\n
+   4. Množství vína sceleného z různých nádob, ale stejné odrůdy a stejného původu.\n
+   5. Výrazy „Premiére cuvée“ a „seconde cuvée“ označují jen zatřídění, to znamená jen relativní kvalitu vína.\n
+   6. Francouzský název pro směs vín připravovanou pro šumivé víno v Champagne.\n\n
+   <b>Čich</b>\n
+   Vnímání a rozlišování látek rozpuštěných ve vzduchu, popř. ve vodě. Čidlo je umístěno ve sliznici horní části dutiny nosní. Má plochu asi 4 cm2 a je složeno z tisíců čichových buněk, které vyrůstají z pokožkového epitelu.\n\n
+   <b>Degustace</b>\n
+   Senzorické hodnocení vína se opírá o jeho posouzení degustací – ochutnáním. Viz organoleptické posouzení vína.\n\n
+   <b>Degustační miska</b>\n
+   Speciální miska ze stříbra nebo nerezu, používaná k degustaci zejména v Burgundsku. Dno je vypouklé a různě zdobené, což umožňuje posoudit sílu a odstín barvy v rozličných úhlech světla. Vypoukliny přispívají také k lepšímu uvolňování aromatických látek. Výhodou degustační misky je, že k posouzení vína stačí malé množství, zbytky není třeba odlévat. Mezi jednotlivými vzorky je lépe misku vyplachovat následujícím vínem, protože kapky vody by mohly ovlivnit posuzované víno. Další výhodou degustační misky je to, že je malá, nerozbitná a degustátor ji používá jako svou osobní kapesní pomůcku.\n\n
+   <b>Degustátor</b>\n
+   Degustátor je člověk, který provádí senzorické hodnocení vína. Degustátor musí mít nejen náležité odborné znalosti o víně, jeho složení, vlastnostech a výrobě, ale i praktické zkušenosti s hodnocením vína. Své schopnosti by měl prokázat složením degustátorských senzorických zkoušek. Dobrý degustátor se udržuje v dobré fyzické a psychické kondici a své znalosti a schopnosti neustále zdokonaluje.\n\n
+   <b>Dekantace</b>\n
+   Oddělení čistého moštu nebo vína od usazených kalů stočením.\n\n
+   <b>Dezertní vína</b>\n
+   Starší název pro vína různým způsobem upravovaná pomocí přídavku vínovice nebo konzumního lihu, koncentrovaného moštu, výluhu aromatických bylin apod. Dnes patří do skupiny aromatizovaných nebo likérových vín.\n\n
+   <b>Digestiv</b>\n
+   Název pro termín digestiv pochází z francouzštiny a znamená „pro trávení. Označuje nápoje, které přicházejí zpravidla na závěr menu a mají za úkol usnadnit trávení. V závislosti na podávaných pokrmech (sýr, moučník, ovoce, sušenky) se podávají především vína těžšího typu (vermuty, portské ), likéry (např. bylinné hořké - suché i sladší) a nebo destiláty (např. grappa, cognac, metaxa).\n\n
+   <b>Dochuť vína</b>\n
+   Dochuť vína (fr.: arriére-gout, angl.: résidual taste, after-taste) je soubor tónů chuti, které vystoupí až na závěr celkového chuťového vjemu a které jsou zjevně odlišné od vjemů počátečních. D. může být příjemná, neutrální i nepříjemná. Právě prvně v dochuti se objevuje jedna z nemocí vína – myšina.\n\n
+   <b>Dry</b>\n
+   Anglický výraz pro suché víno, často se užívá u sektů.\n\n
+   <b>Enolog</b>\n
+   Podle definice O.I.V. z roku 1975 je enolog osoba, která na základě svých vědeckých a technických poznatků a vědomostí je schopna plnit přesně definované funkce s ohledem na spolehlivé praktiky. O.I.V. stanovuje velmi podrobný program vzdělávání pro dosažení titulu „enolog“.
+   Podle všeobecného pojetí ve je Francii označována za enologa osoba, jejíž vědecké znalosti jsou potvrzené diplomem úředně stanoveným zákonem ze dne 19. 3. 1955. Technické a praktické znalosti enologa jsou tak rozsáhlé, že mu dovolují být plně zodpovědným za zpracování hroznů a ošetřování vína dokáže vykonat analýzy hroznů a vína a samozřejmě dokáže využít tyto analýzy. Musí být schopný stále sledovat nové poznatky z enologie a tyto zavádět a využívat. Enolog je technikem pro vinařství. Viz enologie.\n\n
+   <b>Enologie</b>\n
+   Enologie (z řeckého oinos = víno, logos = věda) je vědní obor pojednávající o víně, to je o surovině na jeho výrobu, o výrobě, ošetřování, stabilizaci, nemocech a vadách, zrání, přirozených přeměnách a účincích vína. Enologie zahrnuje znalost vykonávaní všech analytických rozborů vína a využití těchto, znalost organoleptického ohodnocení vína a znalost použití jejich výsledků, dále znalost všech surovin a pomocných materiálů používaných ve vinařství a znalost organizace výroby vína, od zpracování základní suroviny, po expedici hotových výrobků. Enologie se přednáší na odborných školách středních a vysokých a je tématem dizertačních prací pro dosažení vysokoškolských titulů a akademických hodností.\n\n
+   <b>Etiketa</b>\n
+   Nařízení Rady (ES) č. 1493/1999 stanovuje předepsané údaje pro etiketu vína a údaje, které mohou být na etiketě uvedeny, pokud to umožňuje členský stát. Podrobnosti jsou pak rozvedeny v nařízení Komise (ES) č. 753/2002. Národní zvláštnosti uvádí zákon č. 321/2004 Sb. Tím je dáno, že každý členský stát EU má poněkud odlišný vinařský zákon v oblasti značení vína a také etiketa se pak částečně odlišuje podle jednotlivých států.\n\n
+   <b>Evidenční číslo jakosti</b>\n
+   Soubor číselných a písmenných znaků, které sestávají z čísla rozhodnutí SZPI o zatřídění příslušného vína a z označení vzorku vína.\n\n
+   <b>Evidenční číslo jakosti vína</b>\n
+   Podle zákona č. 321/2004 Sb. a v souladu s předpisy ES je nutné na etiketě vína s přívlastkem uvádět evidenční číslo jakosti. Tímto číslem se rozumí soubor číselných a písmenných znaků složených z čísla rozhodnutí SZPI o zatřídění vína a z označení vzorku vína.\n\n
+   <b>Expediční likér</b>\n
+   Podle nařízení Rady (ES) č. 1493/1999 jde o produkt, který se přidává do kupáže za účelem dosažení požadované chuti šumivého vína. Může obsahovat pouze sacharosu, hroznový mošt, částečně zkvašený hroznový mošt, zahuštěný hroznový mošt, rektifikovaný moštový koncentrát, víno nebo jejich směs, případně s přídavkem vinného destilátu.\n\n
+   <b>Extrakt ve víně</b>\n
+   Veškeré látky zůstávající po odpaření z určitého množství vína nazýváme extrakt. Jsou to: cukry, kyseliny, minerální látky, třísloviny, barviva, glycerin, bílkoviny. Množství extraktu kolísá podle odrůdy, ročníku, vyzrálosti hroznů, podle množství hroznů zrajících na jednom keři. Červená vína mají více extraktu nežli bílá. Pod pojmem bezcukerný extrakt rozumíme zůstatkové množství extraktivních látek po odečtení zkvasitelných cukrů. Při tom zůstává 1 g cukrů jako nezkvasitelné. Viz analytický rozbor vína.\n\n
+   <b>Fádní víno</b>\n
+   Chuťové vlastnosti vína zvýrazňuje obsah kyselin, které mu dodávají pitelnost a svěžest. Je-li kyselin nedostatek, zvláště v bílém víně, říkáme o něm, že je fádní.\n\n
+   <b>Glukóza</b>\n
+   Jednoduchý cukr (monosacharid), zkvasitelný kvasinkami. Na počátku zrání hroznů převažuje glukóza, později se obsah obou cukrů vyrovná. V moštu z vysoce vyzrálých hroznů je více glokózy, fruktóza se rychleji prodýchává. Ve vínech s vyšším zbytkovým cukrem je více fruktózy, kvasinky přednostně zkvašují glukózu.\n\n
+   <b>Glycerol</b>\n
+   Je trojsytný alkohol nasládlé chuti, který dodává vínu plnou a hladkou chuť. Vzniká ve víně jako vedlejší produkt alkoholového kvašení.\n\n
+   <b>Grappa</b>\n
+   Destilát získaný ze zkvašených matolin po lisování bílých odrůd nebo z matolin po vylisování červeného vína. Jeho hrubá chuť se zjemňuje ležením. Pojmenování grappa se užívá v Itálii, ve Francii se tento destilát nazývá marc.\n\n
+
+
+   </string>
+
+
+       <string name="hello_first_fragment">Hello first fragment</string>
+       <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+
+
+   </resources>

@@ -1,17 +1,16 @@
 package cz.diwine.app;
 
-import android.app.Activity;
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
 
-public class PalavaActivity extends AppCompatActivity {
+public class AcolonActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_palava);
-        getWindow().setStatusBarColor(ContextCompat.getColor(PalavaActivity.this,R.color.bckgColorDetail));
+        setContentView(R.layout.activity_acolon);
+        getWindow().setStatusBarColor(ContextCompat.getColor(AcolonActivity.this,R.color.bckgColorDetail));
     }
 }

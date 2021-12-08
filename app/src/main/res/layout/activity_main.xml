@@ -63,7 +63,7 @@
             android:layout_width="245dp"
             android:layout_height="97dp"
             android:layout_gravity="center"
-            android:paddingTop="10dp"
+            android:paddingTop="5dp"
             app:srcCompat="@drawable/diwinelogo2"
             />
 
@@ -73,6 +73,8 @@
             android:layout_height="match_parent"
             android:layout_gravity="center"
             android:layout_marginTop="3dp" />
+
+
 
 
     </LinearLayout>
@@ -102,6 +104,8 @@
         android:background="@color/white"
         app:headerLayout="@layout/nav_header"
         app:menu="@menu/main_menu" />
+
+
 
 
 

@@ -25,6 +25,18 @@
             android:name=".PalavaActivity"
             android:exported="true" />
         <activity
+            android:name=".AcolonActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AgniActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AlibernetActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AndreActivity"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
