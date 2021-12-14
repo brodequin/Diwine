@@ -123,7 +123,7 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
 
                     if (data[getAdapterPosition()].equals("BLAUBURGER"))
                     {
-                        Intent intent=new Intent(context,BlauBurgerActivity.class);
+                        Intent intent=new Intent(context,BlauburgerActivity.class);
                         context.startActivity(intent);
                     }
 
@@ -152,6 +152,32 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
                         Intent intent=new Intent(context,AndreActivity.class);
                         context.startActivity(intent);
                     }
+                    if (data[getAdapterPosition()].equals("ARIANA"))
+                    {
+                        Intent intent=new Intent(context,ArianaActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("AURELIUS"))
+                    {
+                        Intent intent=new Intent(context,AureliusActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("CABERNET CORTIS"))
+                    {
+                        Intent intent=new Intent(context,CabernetcortisActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("CABERNET DORSA"))
+                    {
+                        Intent intent=new Intent(context,CabernetDorsaActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("CABERNET MORAVIA"))
+                    {
+                        Intent intent=new Intent(context,CabernetMoraviaActivity.class);
+                        context.startActivity(intent);
+                    }
+
                 }
             });
         }

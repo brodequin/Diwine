@@ -101,7 +101,7 @@
         android:layout_gravity="start"
         android:paddingTop="10dp"
         android:fitsSystemWindows="false"
-        android:background="@color/white"
+        android:background="@color/drawer_bckg"
         app:headerLayout="@layout/nav_header"
         app:menu="@menu/main_menu" />
 

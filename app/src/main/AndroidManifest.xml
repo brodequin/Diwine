@@ -16,7 +16,7 @@
             android:name=".VinarskyActivity"
             android:exported="true" />
         <activity
-            android:name=".BlauBurgerActivity"
+            android:name=".BlauburgerActivity"
             android:exported="true" />
         <activity
             android:name=".AuxerroisActivity"
@@ -36,6 +36,22 @@
         <activity
             android:name=".AndreActivity"
             android:exported="true" />
+        <activity
+            android:name=".ArianaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AureliusActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CabernetcortisActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CabernetDorsaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CabernetMoraviaActivity"
+            android:exported="true" />
+
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"

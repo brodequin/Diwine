@@ -9,6 +9,8 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
+    <string name="navbar_title_slovnik"><font color = "#B6B6B6">Vinařský slovník</font></string>
+    <string name="navbar_title_kruhy"><font color = "#B6B6B6">Aromatické kruhy</font></string>
 
 
     <!-- ODRŮDY -->
@@ -30,7 +32,7 @@
         Držitel šlechtitelských práv v ČR: není.\n
         Udržovatel odrůdy v ČR: kód 603 Šlechtitelská stanice vinařská Velké Pavlovice, a.s. 691 06 Velké Pavlovice 565, kód 604 Ing. Miloš Michlovský, CSc. Družstevní 818, 691 03 Rakvice, kód 749 Ing.
         Alois Tománek 687 09 Boršice 671, kód 982 AMPELOS, ŠLECHTITELSKÁ STANICE VINAŘSKÁ ZNOJMO, a.s. 671 24 Vrbovec 274. \n\n
-    Zdroje informací: \n www.vinazmoravyvinazcech.cz/, Wikipedie, www.znalecvin.cz/, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015</string>
+    Zdroje informací: \n www.znalecvin.cz, www.vinazmoravyvinazcech.cz, Wikipedie,publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015</string>
 
 
     <!--ACOLON-->
@@ -46,7 +48,7 @@
        Zkratka: Ac \n\n
    Držitel šlechtitelských práv ČR: není \n
    Udržovatel odrůdy v ČR: kód 1160 VERITAS spol. s r.o., Vrchní 7, 683 54 Bošovice \n\n
-       Zdroje informací: \n www.vinazmoravyvinazcech.cz/, Wikipedie, www.znalecvin.cz/, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+       Zdroje informací: \n www.znalecvin.cz, www.vinazmoravyvinazcech.cz, Wikipedie,publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
        </string>
 
 
@@ -62,7 +64,7 @@ Odolnost proti houbovým chorobám je střední. Její pěstitelské nároky zat
  typu s výrazným muškátovým aromatem. Mohlo by se asi uplatnit při výrobě vín dezertních. Odrůdová vína nejsou příliš vhodná k archivaci. \n\n
 Zkratka Ag.\n\n
 udržovatel odrůdy: 604, Doc. Ing. Miloš Michlovský, CSc, Družstevní 818, 691 03 Rakvice. Držitel šlechtitelských práv: Doc. Ing. Miloš Michlovský, CSc.\n\n
-       Zdroje informací: \n www.vinazmoravyvinazcech.cz/, Wikipedie, www.znalecvin.cz/, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+       Zdroje informací: \n www.znalecvin.cz, www.vinazmoravyvinazcech.cz, Wikipedie,publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
        </string>
 
     <!--ALIBERNET-->
@@ -80,7 +82,7 @@ Byla vyšlechtěna na ukrajinském Vědecko-výzkumném ústavu pro vinohradnict
 Víno může dosahovat velmi dobrou jakost a může být i dostatečně plné při snížené sklizni na keř a v teplých podmínkách. Z vyšších sklizní je řídké, méně barevné, s nepříjemně vysokým obsahem kyselin.
         Při odpovídajícím ošetřování vinice lze produkovat odrůdová vína. Jinak to je odrůda vhodná do směsí, jimž dodává barvu a kabernetové aroma.\n\n
         Zkratka Al.\n\n
-       Zdroje informací: \n www.vinazmoravyvinazcech.cz/, Wikipedie, www.znalecvin.cz/, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+       Zdroje informací: \n www.znalecvin.cz, www.vinazmoravyvinazcech.cz, Wikipedie,publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
        </string>
 
 
@@ -89,7 +91,7 @@ Víno může dosahovat velmi dobrou jakost a může být i dostatečně plné p�
     <string name="barva_andre">Intenzivní - tmavě červená, rubínová či granátová.</string>
     <string name="vune_andre">Ostružiny, lesní plody (borůvky), káva, švestková povidla, černé koření. </string>
     <string name="chut_andre">Středně plná. Třísloviny výrazné, hebké. Zráním se třísloviny harmonizují, měknou a jsou sametovější.</string>
-    <string name="stolovani_andre">Třísloviny hebké, výrazné.</string>
+    <string name="stolovani_andre">Vína André jsou vhodná ke grilovaným masům a k tučnějším sýrům. Jsou vděčným doplňkem k tvrdým sýrům a tmavým a uzeným masům.</string>
     <string name="popis_andre">André je modrá moštová odrůda vzniklá křížením Frankovka x Svatovavřinecké. V r. 1980 zapsaná do Státní odrůdové knihy. Vyšlechtěna ve šlechtitelské stanici V. Pavlovice
         v r. 1961 šlechtitelem Ing. Jaroslavem Horákem. Název odrůdě byl dán podle Ch. C. Andrého (1763 – 1831, zakladatel spolku na podporu šlechtění ovoce v Brně).
 Hrozen je středně velký, hustý na krátké stopce, bobule střední, pevná slupka s vysokým obsahem barviva. Víno je při redukované úrodě hroznů plné, harmonické. U zralých vín aromatické tóny borůvek,
@@ -98,12 +100,130 @@ Hrozen je středně velký, hustý na krátké stopce, bobule střední, pevná 
 Zkratka An.\n\n
 Udržovatel odrůdy v ČR: 603 – Šlechtitelská stanice vinařská Velké Pavlovice a.s., 691 06 Velké Pavlovice 565 a 982 – Ampelos, Šlechtitelská stanice vinařská Znojmo, a.s.,  671 24 Vrbovec 274.
 Držitel šlechtitelských práv v ČR: Šlechtitelská stanice vinařská Velké Pavlovice. a.s..\n\n
-       Zdroje informací: \n www.vinazmoravyvinazcech.cz/, Wikipedie, www.znalecvin.cz/, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015, evinice.cz
+       Zdroje informací: \n www.znalecvin.cz, www.vinazmoravyvinazcech.cz, Wikipedie,publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+       </string>
+
+    <!--ARIANA-->
+
+    <string name="barva_ariana">Tmavá, rubínová.</string>
+    <string name="vune_ariana">Ve vůni a chuti můžeme hledat peckovité ovoce, třešně a višně. </string>
+    <string name="chut_ariana">Višně, třešně, jemné třísloviny.</string>
+    <string name="stolovani_ariana">Mladší odrůdová vína s ovocnými tóny jsou vhodná k červeným masům a sýrům s bílou plísní. Vyzrálejší vína skvěle doplňují hovězí maso a divočinu,
+        i v pikantnějších úpravách a také sýry s modrou plísní.</string>
+    <string name="popis_ariana">Ariana je modrá moštová odrůda vzniklá křížením (Ryzlink rýnský x Svatovavřinecké) x Zweigeltrebe. V r. 2001 zapsaná do Státní odrůdové knihy. Vyšlechtěna ve šlechtitelské stanici Perná Ing. Ludvíkem Michlovským a Františkem Zatloukalem.
+Hrozen je středně velký, hustý s krátkou až středně dlouhou stopkou, bobule je střední, kulatá, modročerná. Zrání odrůdy je v první polovině října. Víno je plné, tělnaté s vyšší intenzitou barvy.
+        Granátové zbarvení vína je spojeno s hebkými tříslovinami a širokou plností. Připomíná vyzrálá vína odrůdy Zweigeltrebe.
+\n\n
+Zkratka: Ar \n\n
+Držitel šlechtitelských práv v ČR: Doc. Ing. Miloš Michlovský, DrSc, Družstevní 818, 691 03 Rakvice.\n
+Udržovatel odrůdy v ČR: Doc. Ing. Miloš Michlovský, DrSc.\n\n
+       Zdroje informací: \n www.znalecvin.cz, www.vinazmoravyvinazcech.cz, Wikipedie,publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
        </string>
 
 
+    <!--AURELIUS-->
+
+    <string name="barva_aurelius">Zelenožlutá.</string>
+    <string name="vune_aurelius">Vůně podobná Ryzlinku rýnskému, ale intenzivnější, kdoulově-lipová. Dále pak květinové tóny a podtóny zralého ovoce - hrušky, jablka, broskve, či meruňky.  </string>
+    <string name="chut_aurelius">Víno až mohutné, harmonické, mírně kořenité s jemnou tříslovinou a kyselinkou, často s vyšším podílem zbytekového cukru. Sladší vína často připomínají chuť bonparů. </string>
+    <string name="stolovani_aurelius">Vína odrůdy Aurelius jsou v gastronomii využívána podobně jako vína RR. Jsou vhodná k lehčím úpravám drůbeže. Kabinetní vína jsou jedinečným doprovodem ke
+        studeným předkrmům a lehkým jídlům z drůbeže. Pozdní sběry se hodí k pstruhům a různým úpravám jiných ryb. Sladké výběry dobře ladí s dezerty.</string>
+    <string name="popis_aurelius">Aurelius je bílá moštová odrůda vzniklá křížením Neuburské x Ryzlink rýnský. V r. 1983 zapsaná do Státní odrůdové knihy. Vyšlechtěna ve šlechtitelské stanici
+        Perná šlechtiteli Ing. J. Veverkou a Ing. F. Zatloukalem. Hrozen je středně velký, kuželovitý, středně dlouhá stopka, bobule malé, kulaté s tenkou slupkou. Víno je charakteru Ryzlinku rýnského,
+        intenzivnější aroma, lipové, ovocné tóny. Charakterové chuťové vlastnosti – jablkové, kořenité tóny. \n
+        Při pečlivém ošetřování proti působení plísně šedé lze pravidelně docilovat vína s přívlastkem pozdní sběr nebo výběr hroznů. Kvalitní, plné víno s intenzivnějšími
+        aromatickými látkami širšího spektra, což vytváří určitou kořenitost, ale snižuje svižnost a eleganci vlastní vínům Ryzlinku rýnského.\n\n
+Zkratka Au\n\n
+Držitel šlechtitelských práv ČR:  604 Doc. Ing. Miloš Michlovský, CSc, Družstevní 818, 691 03 Rakvice \n
+Udržovatel odrůdy v ČR: 604 Doc. Ing. Miloš Michlovský, CSc a 982 AMPELOS, ŠLECHTITELSKÁ STANICE VINAŘSKÁ ZNOJMO, a.s., 671 24 Vrbovec 274.\n\n
+       Zdroje informací: \n www.znalecvin.cz, www.vinazmoravyvinazcech.cz, Wikipedie,publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+       </string>
+
+    <!--AUXERROIS-->
+
+    <string name="barva_auxerrois">Žlutozelená</string>
+    <string name="vune_auxerrois">Živá, jemná, decentní, výraznější než u Rulandského bílého. Lískové oříšky, ovoce.</string>
+    <string name="chut_auxerrois">Většinou se jedná o plná vína, s neutrální chutí a vyšším obsahem tříslovin. Svým charakterem připomíná Rulandské bílé (někde uváděno šedé).
+        Auxerrois je však plnější a má nižší kyselost.</string>
+    <string name="stolovani_auxerrois">Mladé víno Auxerrois je vhodné k předkrmům, k uzeným rybám nebo k plodům moře. Vyzrálé se pak hodí ke světlým masům a
+        výběry k plísňovým sýrům. Vzhledem k příbuznosti s Rulandským bílým či Chardonnay lze vína Auxerrois podávat k mírně upraveným hovězím a vepřovým masům či k drůbežím pokrmům.
+        Vyzrálé víno pak k bažantovi či divočině. Vína s vyšší kyselostí taktéž k ústřicím. Mezi sýry volíme měkké sýry s bílou plísní. Dále je vhodné k paštikám, hustším polévkám a bílým omáčkám.</string>
+    <string name="popis_auxerrois">Auxerrois (ochzchroá) je původní francouzská bílá moštová odrůda, vzniklá pravděpodobně náhodným křížením starobylé odrůdy Heunisch (přivezenou do Evropy Huny)
+        a Pinot Noir (Rulandské modré). V r. 2004 zapsaná do Státní odrůdové knihy. Odrůda je příbuzná burgundským odrůdám Pinot Blanc, Chardonnay Blanc, Pinot Gris, Pinot Noir.
+        V zahraničí se označuje také Pinot Auxerrois, Auxerrois Blanc, Blanc de Laquenexy. Hrozen je středně velký, středně hustý s krátkou stopkou, bobule malé, kulaté žlutozelené.
+        Charakter vína velmi podobný odrůdě Chardonnay. Víno má zajímavé aromatické látky a jemné třísloviny.\n\n
+Zkratka Ax.\n\n
+Udržovatel odrůdy v ČR: 163 Výzkumný ústav rostlinné výroby, v.v.i., Drnovská 507, 161 06 Praha 6 – Ruzyně.\n
+Držitel šlechtitelských práv ČR: není \n\n
+       Zdroje informací: \n www.znalecvin.cz, www.vinazmoravyvinazcech.cz, Wikipedie,publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+       </string>
+
+    <!--BLAUBURGER-->
+
+    <string name="barva_blauburger">Intenzivní, tmavočervená s černým odstínem.</string>
+    <string name="vune_blauburger">Bylink y abobulové ovoce. Při dobré vyzrálosti borůvky a ostružiny. Připomíná odrůdu Frankovka.</string>
+    <string name="chut_blauburger">Ovoce, bylinky. Plné, sametové, harmonické, bohaté na extrakt a obsah alkoholu, avšak s nižším obsahem tříslovin a kyselinky.</string>
+    <string name="stolovani_blauburger"></string>
+    <string name="popis_blauburger">Blauburger je modrá moštová odrůda, zapsaná ve Státní odrůdové knize ČR v r. 2011. Jejím původem je Rakousko. Šlechtitelem odrůdy byl Dr. Friedrich Zweigelt ve
+        Spolkovém ústavu pro vinařství a ovocnářství v Klosterneuburgu v r. 1923, je to kříženec Modrý Portugal x Frankovka. Blauburger je rozšířený poměrně i v Maďarsku, kde je například uznaný do
+        klasického maďarského cuvée zn. Egri Bikavér (býčí krev), ve kterém jinak převládá Kékfrankos (Frankovka). U nás je milovníky vína Blauburger mnohdy zaměňován s odrůdou Rulandské modré, která
+        se v Rakousku nazývá Blauburgunder. V Rakousku se Blauburger pěstuje na téměř tisíci hektarech. Velmi vhodný k barikování a archivaci (Wiki uvádní, že se k dlouhé archivaci naopak nehodí).
+        Plné zralosti dosahuje počátkem října.\n
+Držitel šlechtitelských práv v ČR: není\n\n
+Udržovatel odrůdy v ČR: 1229 Ing. Pavel Mayer, Gorkého 13, 692 01 Mikulov.\n\n
+       Zdroje informací: \n www.znalecvin.cz, www.vinazmoravyvinazcech.cz, Wikipedie,publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+       </string>
+
+    <!--CABERNET CORTIS-->
+
+    <string name="barva_cabernetcortis">Intenzivní.</string>
+    <string name="vune_cabernetcortis">Kořenitost, bylinky.</string>
+    <string name="chut_cabernetcortis">Zpravidla vyšší obsah tříslovin. Charakter se podobná odrůdě Cabernet Sauvignon. Mladá vína se projevují silnou kořenitostí,
+        proto potřebují čas na zharmonizování. Doporučuje se tedy archivovat v dřevěných sudech.</string>
+    <string name="stolovani_cabernetcortis"></string>
+    <string name="popis_cabernetcortis">Cabernet Cortis je raná, interspecifická moštová odrůda révy (též hybridní odrůda, mezidruhové křížení, PiWi odrůda), určená k výrobě
+        červených vín, která byla vyšlechtěna roku 1982 v Německu, kříženec odrůd Cabernet Sauvignon a Solaris. Jako zajímavost lze uvést, že v katalogu VIVC je uveden původ Vitis vinifera.
+                Réva vinná (Vitis vinifera) odrůda Cabernet Cortis je jednodomá dřevitá pnoucí liána, dorůstající v kultuře až několika metrů. Kmen tloušťky až několik centimetrů je pokryt
+        světlou borkou, která se loupe v pruzích. Úponky umožňují této rostlině pnout se po pevných předmětech. Růst je středně bujný až bujný. Listy jsou středně velké, pentagonální,
+        tří až pětilaločnaté s mělkými až středně hlubokými výkroji, tmavě zelené, okraj listu je výrazně zoubkovaný, řapíkový výkroj je většinou otevřený, lyrovitý s ostrým dnem, někdy
+        úzce otevřený až uzavřený, řapík je často fialovorůžovoé barvy, stejně jako stopka hroznu, žilnatina listu v oblasti napojení řapíku je málo pigmentovaná antokyaniny.\n
+Oboupohlavní pětičetné květy v hroznovitých květenstvích jsou žlutozelené, samosprašné. Hrozny jsou středně velké (140 g), protáhle válcovité, volnější až středně kompaktní, bobule jsou malé
+        až středně velké (1,8 g), okrouhlé, fialovomodré až modročerné, silně ojíněné, dužina má kořenitou chuť.\n\n
+Udržovatel odrůdy v ČR: 1229 Ing. Pavel Mayer, Gorkého 13, 692 01 Mikulov.\n\n
+       Zdroje informací: \n www.znalecvin.cz, www.vinazmoravyvinazcech.cz, Wikipedie,publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+       </string>
 
 
+    <!--CABERNET DORSA-->
+
+    <string name="barva_cabernetdorsa">Intenzivní.</string>
+    <string name="vune_cabernetdorsa">Vína mají s charakteristickým aroma zelené papriky i výraznou chuť a vůni třešní. Přidává se i mírná kořenitost.</string>
+    <string name="chut_cabernetdorsa">Plná s výraznějšími tříslovinami. Třešně.</string>
+    <string name="stolovani_cabernetdorsa"></string>
+    <string name="popis_cabernetdorsa">Cabernet Dorsa je modrá moštová odrůda révy vinné vzniklá křížením odrůd Dornfelder x Cabernet Sauvignon. Vyšlechtěna ve Státním výukovém a výzkumném ústavu pro
+        vinohradnictví a ovocnictví ve Weinsbergu (SRN) šlechtitelem Dr. Helmutem Schleipem v r. 1971. Zapsaná do Státní odrůdové knihy SRN v roce 2003. Do Státní odrůdové knihy ČR zapsaná v r. 2011.
+Hrozen je střední až velký, hustota střední. Bobule středně velká až velká, kulatá, tmavě modré barvy. Víno je kabernetového typu, podobné odrůdě Dornfelder, v chuti charakterní lesní červené plody u
+        zralého vína tóny santalového dřeva. \n\n
+Doporučení zkratka: CD \n\n
+Držitel šlechtitelských práv v ČR: není \n\n
+Udržovatel v ČR: VERITAS spol. s r.o., Vrchní 7, 683 54 Bošovice\n\n
+       Zdroje informací: \n www.znalecvin.cz, www.vinazmoravyvinazcech.cz, Wikipedie,publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+       </string>
+
+    <!--CABERNET MORAVIA-->
+
+    <string name="barva_cabernetmoravia">Tmavě granátová.</string>
+    <string name="vune_cabernetmoravia">Černý rybíz, ostružiny, čokoláda, káva.</string>
+    <string name="chut_cabernetmoravia">Lze cítit jemné kabernetové tóny. Dále dostáváme černý rybíz, ostružiny, čokoládu a kávu.</string>
+    <string name="stolovani_cabernetmoravia">Hodí se ke steakům, zvěřině, k tmavému masu s hutnou úpravou, k polotvrdým sýrům holandského typu.</string>
+    <string name="popis_cabernetmoravia">Cabernet Moravia je modrá moštová odrůda vzniklá křížením Cabernet Franc x Zweigeltrebe. V r. 2001 zapsaná do Státní odrůdové knihy. Vyšlechtěna v
+        Moravské Nové Vsi Lubomírem Glosem.
+Hrozen je středně velký, středně hustý, bobule středně velké, kulaté modročerné. Sklizňové zralosti se dosahuje ve druhé polovině října. Víno je většinou tělnaté, kabernetového typu, někdy
+        výrazné až rušivé tóny černého rybízu.\n\n
+Zkratka CM \n\n
+Držitel šlechtitelských práv v ČR: 633 Lubomír Glos, Na výsluní 934, 691 55 Moravská Nová Ves\n\n
+       Zdroje informací: \n www.znalecvin.cz, www.vinazmoravyvinazcech.cz, Wikipedie,publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+       </string>
 
 
        // VINAŘSKÝ SLOVNÍK
