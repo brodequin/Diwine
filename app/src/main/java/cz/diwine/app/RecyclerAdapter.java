@@ -177,6 +177,87 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
                         Intent intent=new Intent(context,CabernetMoraviaActivity.class);
                         context.startActivity(intent);
                     }
+                    if (data[getAdapterPosition()].equals("CABERNET SAUVIGNON"))
+                    {
+                        Intent intent=new Intent(context,CabernetSauvignonActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("CERASON"))
+                    {
+                        Intent intent=new Intent(context,CerasonActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("DĚVÍN"))
+                    {
+                        Intent intent=new Intent(context,DevinActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("DORNFELDER"))
+                    {
+                        Intent intent=new Intent(context,DornfelderActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("DOMINA"))
+                    {
+                        Intent intent=new Intent(context,DominaActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("ERILON"))
+                    {
+                        Intent intent=new Intent(context,ErilonActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("FLORIANKA"))
+                    {
+                        Intent intent=new Intent(context,FloriankaActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("FRATAVA"))
+                    {
+                        Intent intent=new Intent(context,FratavaActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("FRANKOVKA"))
+                    {
+                        Intent intent=new Intent(context,FrankovkaActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("HIBERNAL"))
+                    {
+                        Intent intent=new Intent(context,HibernalActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("CHARDONNAY"))
+                    {
+                        Intent intent=new Intent(context,ChardonnayActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("IRSAI OLIVER"))
+                    {
+                        Intent intent=new Intent(context,IrsaiActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("JAKUBSKÉ"))
+                    {
+                        Intent intent=new Intent(context,JakubskeActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("KERNER"))
+                    {
+                        Intent intent=new Intent(context,KernerActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("KOFRANKA"))
+                    {
+                        Intent intent=new Intent(context,KofrankaActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("LAUROT"))
+                    {
+                        Intent intent=new Intent(context,LaurotActivity.class);
+                        context.startActivity(intent);
+                    }
+
 
                 }
             });

@@ -51,6 +51,59 @@
         <activity
             android:name=".CabernetMoraviaActivity"
             android:exported="true" />
+        <activity
+            android:name=".CabernetSauvignonActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CerasonActivity"
+            android:exported="true" />
+        <activity
+            android:name=".DevinActivity"
+            android:exported="true" />
+        <activity
+            android:name=".DornfelderActivity"
+            android:exported="true" />
+        <activity
+            android:name=".DominaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ErilonActivity"
+            android:exported="true" />
+        <activity
+            android:name=".FloriankaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".FratavaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".FrankovkaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".HibernalActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ChardonnayActivity"
+            android:exported="true" />
+        <activity
+            android:name=".IrsaiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".JakubskeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".KernerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".KofrankaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LaurotActivity"
+            android:exported="true" />
+
+
+
+
+
 
         <activity
             android:name=".MainActivity"
