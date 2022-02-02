@@ -11,6 +11,6 @@ public class BlauburgerActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_blauburger);
-        getWindow().setStatusBarColor(ContextCompat.getColor(BlauburgerActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(BlauburgerActivity.this,R.color.bckgColor));
     }
 }

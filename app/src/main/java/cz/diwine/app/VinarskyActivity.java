@@ -13,6 +13,6 @@ public class VinarskyActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_vinarsky);
-        getWindow().setStatusBarColor(ContextCompat.getColor(VinarskyActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(VinarskyActivity.this,R.color.bckgColor));
     }
 }

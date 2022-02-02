@@ -11,6 +11,6 @@ public class CabernetMoraviaActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_cabernetmoravia);
-        getWindow().setStatusBarColor(ContextCompat.getColor(CabernetMoraviaActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(CabernetMoraviaActivity.this,R.color.bckgColor));
     }
 }

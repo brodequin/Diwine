@@ -11,6 +11,6 @@ public class AcolonActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_acolon);
-        getWindow().setStatusBarColor(ContextCompat.getColor(AcolonActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(AcolonActivity.this,R.color.bckgColor));
     }
 }

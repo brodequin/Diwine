@@ -257,6 +257,136 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
                         Intent intent=new Intent(context,LaurotActivity.class);
                         context.startActivity(intent);
                     }
+                    if (data[getAdapterPosition()].equals("LENA"))
+                    {
+                        Intent intent=new Intent(context,LenaActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("MALVERINA"))
+                    {
+                        Intent intent=new Intent(context,MalverinaActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("MEDEA"))
+                    {
+                        Intent intent=new Intent(context,MedeaActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("MERLOT"))
+                    {
+                        Intent intent=new Intent(context,MerlotActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("MERY"))
+                    {
+                        Intent intent=new Intent(context,MeryActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("MODRÝ PORTUGAL"))
+                    {
+                        Intent intent=new Intent(context,PortugalActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("MUŠKÁT MORAVSKÝ"))
+                    {
+                        Intent intent=new Intent(context,MuskatmoravskyActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("MUŠKÁT OTTONEL"))
+                    {
+                        Intent intent=new Intent(context,OttonelActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("MÜLLER THURGAU"))
+                    {
+                        Intent intent=new Intent(context,ThurgauActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("NATIVA"))
+                    {
+                        Intent intent=new Intent(context,NativaActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("NERONET"))
+                    {
+                        Intent intent=new Intent(context,NeronetActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("NEUBURSKÉ"))
+                    {
+                        Intent intent=new Intent(context,NeuburskeActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("RINOT"))
+                    {
+                        Intent intent=new Intent(context,RinotActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("RUBINET"))
+                    {
+                        Intent intent=new Intent(context,RubinetActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("RULANDSKÉ BÍLÉ"))
+                    {
+                        Intent intent=new Intent(context,RulandskebileActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("RULANDSKÉ MODRÉ"))
+                    {
+                        Intent intent=new Intent(context,RulandskemodreActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("RULANDSKÉ ŠEDÉ"))
+                    {
+                        Intent intent=new Intent(context,RulandskesedeActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("RULENKA"))
+                    {
+                        Intent intent=new Intent(context,RulenkaActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("RYZLINK RÝNSKÝ"))
+                    {
+                        Intent intent=new Intent(context,RyzlinkrynskyActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("RYZLINK VLAŠSKÝ"))
+                    {
+                        Intent intent=new Intent(context,RyzlinkvlaskyActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("SAUVIGNON"))
+                    {
+                        Intent intent=new Intent(context,SauvignonActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("SAVILON"))
+                    {
+                        Intent intent=new Intent(context,SavilonActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("SEVAR"))
+                    {
+                        Intent intent=new Intent(context,SevarActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("SVATOVAVŘINECKÉ"))
+                    {
+                        Intent intent=new Intent(context,SvatovavrineckeActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("SVOJSEN"))
+                    {
+                        Intent intent=new Intent(context,SvojsenActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("SYLVÁNSKÉ ZELENÉ"))
+                    {
+                        Intent intent=new Intent(context,SylvanskezeleneActivity.class);
+                        context.startActivity(intent);
+                    }
 
 
                 }

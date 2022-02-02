@@ -11,6 +11,6 @@ public class JakubskeActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_jakubske);
-        getWindow().setStatusBarColor(ContextCompat.getColor(JakubskeActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(JakubskeActivity.this,R.color.bckgColor));
     }
 }

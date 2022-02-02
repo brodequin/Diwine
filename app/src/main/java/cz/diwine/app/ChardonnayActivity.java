@@ -11,6 +11,6 @@ public class ChardonnayActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_chardonnay);
-        getWindow().setStatusBarColor(ContextCompat.getColor(ChardonnayActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(ChardonnayActivity.this,R.color.bckgColor));
     }
 }

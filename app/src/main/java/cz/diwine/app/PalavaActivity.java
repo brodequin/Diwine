@@ -12,6 +12,6 @@ public class PalavaActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_palava);
-        getWindow().setStatusBarColor(ContextCompat.getColor(PalavaActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(PalavaActivity.this,R.color.bckgColor));
     }
 }

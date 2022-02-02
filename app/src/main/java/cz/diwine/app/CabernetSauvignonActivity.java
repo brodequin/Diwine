@@ -11,6 +11,6 @@ public class CabernetSauvignonActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_cabernetsauvignon);
-        getWindow().setStatusBarColor(ContextCompat.getColor(CabernetSauvignonActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(CabernetSauvignonActivity.this,R.color.bckgColor));
     }
 }

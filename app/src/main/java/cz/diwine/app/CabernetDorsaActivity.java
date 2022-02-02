@@ -11,6 +11,6 @@ public class CabernetDorsaActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_cabernetdorsa);
-        getWindow().setStatusBarColor(ContextCompat.getColor(CabernetDorsaActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(CabernetDorsaActivity.this,R.color.bckgColor));
     }
 }

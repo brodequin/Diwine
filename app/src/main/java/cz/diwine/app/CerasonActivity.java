@@ -11,6 +11,6 @@ public class CerasonActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_cerason);
-        getWindow().setStatusBarColor(ContextCompat.getColor(CerasonActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(CerasonActivity.this,R.color.bckgColor));
     }
 }

@@ -11,6 +11,6 @@ public class FratavaActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fratava);
-        getWindow().setStatusBarColor(ContextCompat.getColor(FratavaActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(FratavaActivity.this,R.color.bckgColor));
     }
 }

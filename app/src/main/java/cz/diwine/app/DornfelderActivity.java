@@ -11,6 +11,6 @@ public class DornfelderActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dornfelder);
-        getWindow().setStatusBarColor(ContextCompat.getColor(DornfelderActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(DornfelderActivity.this,R.color.bckgColor));
     }
 }

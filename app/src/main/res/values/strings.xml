@@ -12,6 +12,8 @@
     <string name="navbar_title_slovnik"><font color = "#B6B6B6">Vinařský slovník</font></string>
     <string name="navbar_title_kruhy"><font color = "#B6B6B6">Aromatické kruhy</font></string>
 
+    <!-- nav_header -->
+    <string name="popisek_navigacni_menu">Pokud jste našli chybu, nebo máte nějaké dotazy, pište na email: diwineshop@email.cz.</string>
 
     <!-- ODRŮDY -->
 
@@ -509,6 +511,525 @@ Udržovatel odrůdy v ČR: kód 604 Ing. Miloš Michlovský, CSc. Družstevní 8
 Držitel šlechtitelských práv v ČR: Ing. Miloš Michlovský.\n\n
         Zdroje informací: \n www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
     </string>
+
+    <!--LENA-->
+
+    <string name="barva_lena">Světle žlutá.</string>
+    <string name="vune_lena">Aroma je podobné vínům Irsai Oliver, obohacené je navíc jemně kořenitým a karamelovým tónem. Můžeme cítit vůni květin, medu, karamelu a muškátu.</string>
+    <string name="chut_lena">Plná, jemná, atraktivně harmonická s výraznou tříslovinou. Kořenitost, medové tóny.</string>
+    <string name="stolovani_lena">Asijské kuchyně. Vhodná pro přímý konzum.</string>
+    <string name="popis_lena">Lena je bílá poloaromatická moštová odrůda vzniklá křížením odrůd Lipovina x Irsai Oliver. Do Státní odrůdové knihy byla zapsaná v r. 2001. Vyšlechtěna ve šlechtitelské stanici
+        Perná Ing. Františkem Zatloukalem a Ing. Ludvíkem Michlovským. Hrozen je středně velký až velký, středně hustý. Bobule je středně velká, kulatá, žlutozelená. Sklizňová zralost je v 1. pol. září.
+        Víno má ve vůni jemné aromatické tóny po muškátovém oříšku. V chuti je lehké, charakteru Irsai Oliver.\n\n
+Zkratka Le.\n\n
+Udržovatel odrůdy v ČR: kód 604 Ing. Miloš Michlovský, CSc. Družstevní 818, 691 03 Rakvice.\n
+Držitel šlechtitelských práv v ČR: Ing. Miloš Michlovský.\n\n
+        Zdroje informací: \n www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--MALVERINA-->
+
+    <string name="barva_malverina">Slámově žlutá.</string>
+    <string name="vune_malverina">Jemná, kořenitá. Dále květinové a ovocné tóny zeleného jablka, hrušky. Typicky pak hlavně skořice, ale i lékořice či chlebovinka.</string>
+    <string name="chut_malverina">Extraktivní, kořenité tóny, u zralého vína charakterní skořicová chuť.</string>
+    <string name="stolovani_malverina">Víno lze velmi dobře kombinovat s masitými pokrmy tradiční české kuchyně, s jemným bílým masem, studenou kuchyní, ale i s telecím a mladým vepřovým.</string>
+    <string name="popis_malverina">Malverina je bílá interspecifická moštová PIWI odrůda vzniklá mezidruhovým křížením odrůd Merlan x Rakiš. Odrůda byla vyšlechtěna ve Vinselektu Perná, v genobankách v
+        Lednici, Břeclavi a Perné, skupinou šlechtitelů Doc. Ing. M. Michlovský, CSc., Ing. F. Mádl, Prof. Ing. V. Kraus, V. Peřina, L. Glos. Do státní odrůdové knihy zapsaná v roce 2001.
+Hrozen je střední až velký, na osluněné straně narůžovělý, jinak zelenožlutý. Odrůda dozrává v první polovině října. Má velmi dobrou odolnost k plísni révové (Plasmopara viticola) a padlí révovému
+        (Uncinula necator). Odolnost k plísni šedé a zimním mrazům je dobrá.\n\n
+Zkratka Mal.\n\n
+Udržovatel odrůdy v ČR: kód 604 Ing. Miloš Michlovský, CSc. Družstevní 818, 691 03 Rakvice.\n
+Držitel šlechtitelských práv v ČR: Ing. Miloš Michlovský.\n\n
+        Zdroje informací: \n www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--MEDEA-->
+
+    <string name="barva_medea">Žlutozelená.</string>
+    <string name="vune_medea">Květinová, ovocná, jemně aromatická, svěží.</string>
+    <string name="chut_medea">Ovocná, kořenitá.</string>
+    <string name="stolovani_medea">K variacím foie gras s kandovaným ovocem nebo dýňovým krémům s noky, k divoké pernaté.</string>
+    <string name="popis_medea">Medea je bílá moštová pozdní odrůda. List malý až středně velký, kruhovitého tvaru, profil čepele rovný. Hrozen malý, hustý. Bobule malá, tvar na profilu široce elipsovitý.
+        Barva slupky růžová. Při pěstování pod fungicidní ochranou odrůda středně odolná proti napadení plísní révy, středně odolná proti napadení padlím révy a odolná proti napadení plísní šedou.
+        Odrůda středně odolná sprchávání. Výnos hroznů nízký až středně vysoký, cukernatost moštu vysoká.\n
+        V roce 2003 ji na základě práce Ing. Josefa Veverky vyšlechtili jako křížence Tramínu červeného a Müller Thurgau doc. Ing. Miloš Michlovský, DrSc. a Ing. Pavel Veverka. Od 27. 8. 2014 je zapsaná
+        ve Státní odrůdové knize České republiky. \n\n
+        Zdroje informací: \n eagri.cz/, www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--MERLOT-->
+
+    <string name="barva_merlot">Tmavě rubínová až granátová.</string>
+    <string name="vune_merlot">Černé třešně, švestky, fíky, tabák, káva, lanýže, ostružiny, borůvky, černý rybíz.</string>
+    <string name="chut_merlot">Plná, hebká. Kořenité tóny, káva, čokoláda, tabák, černé třešně, švestky, kompot, ovocný koláč.</string>
+    <string name="stolovani_merlot">Vína Merlotu se dají pít samotná, bez doprovodu jídel. Podávají se k různým jemným paštikám, k srnčímu nebo jelenímu ragú, k telecím ledvinkám, k hříběcímu masu,
+        k pokrmům s výraznou chutí rajčat, k pokrmům z pernaté zvěře nebo k ementálu. Mladá vína z odrůdy Merlot (především z tzv. Nového světa – Chile, Argentina atd.) podávejte k lehkým pokrmům,
+        např. italská jídla. Těžší Merlot (z Francie) pak ke zvěřině.</string>
+    <string name="popis_merlot">Merlot je modrá moštová odrůda révy vinné původem ve Francii. Největší zastoupení má v oblasti Bordeaux. Oblíbenou odrůdou je rovněž v ostatních vinařských zemích,
+        celkem se pěstuje ve světě na ploše cca 200 tis ha. V české republice byl Merlot zapsaný do Státní odrůdové knihy v roce 2001, pěstuje se na cca 72 ha. Hrozen je středně velký, válcový,
+        bobule tmavě modrá až černá, slabě elipsovitého tvaru. Sklizňové zralosti se dosahuje ve druhé polovině října. Vínu sluší zrání v sudu nebo v láhvi, potom dominují výrazné vůně lesního ovoce
+        jako ostružiny a borůvky. V chuti jsou charakterní kořenité tóny, káva, čokoláda. Velmi vhodný je do kupáží s cabernety, které zjemňuje a dodává jim sametové tóny.\n\n
+Zkratka Me.\n\n
+Udržovatel odrůdy v ČR: kód 604 Ing. Miloš Michlovský, CSc. Družstevní 818, 691 03 Rakvice.\n
+Držitel šlechtitelských práv v ČR: Ing. Miloš Michlovský.\n\n
+        Zdroje informací: \n www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--MERY-->
+
+    <string name="barva_mery">Žlutozelená.</string>
+    <string name="vune_mery">Jemně aromatická, ovocná, květinová.</string>
+    <string name="chut_mery">Ovocná.</string>
+    <string name="stolovani_mery"></string>
+    <string name="popis_mery">Mery je bílá středně raná moštová odrůda, vyšlechtěna v roce 2008 RNDr. Zdeňkem Habrovanským a Ing. Aloisem Tománekem v Šlechtitelské stanici vinařské v Polešovicích,
+        jako křížence maďarské odrůdy EC 28 a Muškátu moravského. Od 15. 10. 2015 je zapsaná v Státní odrůdové knize České republiky.\n
+        List středně velký, pětiúhelníkovitého tvaru. Hrozen středně velký až velký, středně hustý až hustý. Bobule středně velká, kruhovitého tvaru. Barva slupky žlutá. Při pěstování pod fungicidní
+        ochranou odrůda středně odolná až odolná proti napadení plísní révy, středně odolná proti napadení padlím révy a středně odolná proti napadení plísní šedou. Odrůda odolná sprchávání. Výnos
+        hroznů nízký až středně vysoký. Cukernatost moštu vysoká.\n\n
+        Zdroje informací: \n www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--MODRÝ PORTUGAL-->
+
+    <string name="barva_portugal">Světlejší rubínová.</string>
+    <string name="vune_portugal">Květinové tóny, které zráním přechází k vůním čerstvého sena.</string>
+    <string name="chut_portugal">Červené ovoce, zralé hrušky, borůvky a třešně.</string>
+    <string name="stolovani_portugal">K drůbeži, ke studeným nasitým pokrmům, k těstovinám a k sýrům typu trapist.\n
+    Teplota podávání: 13-15°C</string>
+    <string name="popis_portugal">Modrý Portugal, starobylá evropská odrůda, jejíž původ není jasný. V Rakousku, odkud se dostala k nám, se rozšířila v 19. století. Do Státní odrůdové knihy ČR zapsaná v r. 1941.
+        Po určitém útlumu ze strany spotřebitelů se znovu po r. 2000 dostává do módy. Velmi vhodná jako ranější odrůda k výrobě Svatomartinského vína.
+    Odrůda dozrává ve druhé polovině září. Odolnost proti houbám o plísním je nízká. Hrozen je středně velký s křídlem, středně hustý. Bobule kulatá, středně velká, tmavě modrá, tenká a měkká slupka, dužnina
+        je měkká a řídká. Víno je lehčího typu s nižší intenzitou barvy, rubínové odstíny.\n
+    Povolené synonyma v ČR: Blauer Portugieser, Portugieser Blau.\n\n
+    Zkratka MP.\n\n
+    Udržovatel odrůdy v ČR: kód 603 Šlechtitelská stanice vinařská Velké Pavlovice, a.s. 691 06 Velké Pavlovice 565, kód 605 Šlechtitelská stanice vinařská, s.r.o. 687 37 Polešovice 634, kód 629 VÚRV
+        Praha-Ruzyně, Výzkumná stanice vinařská 267 18 Karlštejn 98, kód 749 Ing. Alois Tománek 687 09 Boršice 671.\n
+    Držitel šlechtitelských práv v ČR: není.\n\n
+        Zdroje informací: \n www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--MUŠKÁT MORAVSKÝ-->
+
+    <string name="barva_muskatmoravsky">Světle žlutá.</string>
+    <string name="vune_muskatmoravsky">Vysoce aromatická. Muškátový květ, citrusy, meruňky, broskve.</string>
+    <string name="chut_muskatmoravsky">Svěží, harmonická. Meruňka, broskev, pomeranč (obecně citrusy).</string>
+    <string name="stolovani_muskatmoravsky">Sušší vína se více hodí jako aperitiv, k husím játrům, k jemným paštikám, či ke chřestu. Sladší se pak více hodí k dezertům.\n
+    Teplota podávání: 11-13°C</string>
+    <string name="popis_muskatmoravsky">Muškát moravský je bílá moštová odrůda révy vinné, vznikla křížením odrůd Muškát Ottonel x Prachttraube. Do státní odrůdové knihy byla odrůda zapsaná v r. 1987
+        nejdříve jako MOPR, v r. 1991 jako Moravský muškát a v r. 1993 jako Muškát moravský. Odrůdu vyšlechtil v Polešovicích ing. Václav Křivánek.
+    Hrozen je střední až větší. Bobule žlutozelená, kulatá, slupka měkká, dužnina polomasitá, výrazné muškátové chuti. Plná zralost již koncem září.
+    Muškát moravský je velmi plodná odrůda, výnos na 1 hektar dosahuje lehce 10 – 15 tun. Při redukci výnosu na 5 – 6 tun se dosahují vysoce kvalitní vína schopné konkurence se všemi známými odrůdami.\n\n
+    Doporučená zkratka: MM\n\n
+    Držitel šlechtických práv v ČR: kód 605 Šlechtitelská stanice vinařská, s.r.o. 687 37 Polešovice 634, kód 749 Ing. Alois Tománek 687 09 Boršice 671.\n
+    Udržovatel odrůdy v ČR: kód 605 Šlechtitelská stanice vinařská, s.r.o. 687 37 Polešovice 634, kód 749 Ing. Alois Tománek 687 09 Boršice 671, kód 982 AMPELOS, ŠLECHTITELSKÁ STANICE VINAŘSKÁ ZNOJMO, a.s.
+        671 24 Vrbovec 274.\n\n
+        Zdroje informací: \n www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--MUŠKÁT OTTONEL-->
+
+    <string name="barva_muskatottonel">Světle žlutá.</string>
+    <string name="vune_muskatottonel">Růže, muškát, u přívlastkových vín med, citrusy, pryskyřice, toastové aroma.</string>
+    <string name="chut_muskatottonel">Středně plná či lehká, harmonická, kratší.</string>
+    <string name="stolovani_muskatottonel">Vína Muškátu Ottonel se nejčastěji kombinují s předkrmy z husích jater nebo se sladkými dezerty. Mohou sloužit jako lehký suchý aperitiv.
+        Jejich harmoničnost a výrazné aroma lahodí zvláště ženám a dívkám.</string>
+    <string name="popis_muskatottonel">Muškát Ottonel je bílá moštová odrůda, v minulosti využívaná jako stolní pro svoji jemnou muškátovou chuť – varibialita velikosti hroznu podle klonu.
+        Sklizňová zralost od konce září až do poloviny října. Hrozen malý až střední, hustota hroznu střední (za podmínky nesprchnutí bobulí), délka stopky je krátká. Bobule je malá až střední,
+        žlutozelená, kulatá. Plné zralosti dosahuje odrůda již ve druhé polovině září.
+        Původ odrůdy je ve Francii, kde vznikla křížením Chrupky bílé x Muškát žlutý nebo jako semenáč Chrupky. Vyšlechtil v r. 1852 Robert Moreau. Do Státní odrůdové knihy ČR zapsaná v r. 1952.
+        Víno není obecně příliš vhodné k archivaci, i když se vyskytnou vzácné výjimky, které si několikaleté zrání na láhvi zaslouží. V dobrých ročnících mohou být vína velmi plná se zbytkem cukru,
+        proslulá jsou například slovenská vína z lokality Modra. Muškátová vína mohou být suchá (Alsasko, Tunisko, Samos, Navarra, Lazio) nebo sladká (Itálie, Francie) či dokonce velmi sladká
+        (Navarra, Samos, francouzské AOC Beaumes-de-Venise a Frontignan, Maďarsko, Austrálie). Tato vína jsou vždy smyslná a mají silné kouzlo.\n
+        Povolené synonymum v ČR: Muscat Ottonel.\n\n
+        Zkratka: MO.\n\n
+        Udržovatel odrůdy v ČR: kód 603 Šlechtitelská stanice vinařská Velké Pavlovice, a.s. 691 06 Velké Pavlovice 565, kód 604 Ing. Miloš Michlovský, CSc. Družstevní 818, 691 03 Rakvice.\n
+        Držitel šlechtických práv v ČR: kód 605 Šlechtitelská stanice vinařská, s.r.o. 687 37 Polešovice 634, kód 749 Ing. Alois Tománek 687 09 Boršice 671.\n\n
+        Zdroje informací: \n www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--MÜLLER THURGAU-->
+
+    <string name="barva_thurgau">Světlá se zelenožlutým odstínem.</string>
+    <string name="vune_thurgau">Bez, grep, broskve, lehce muškát.</string>
+    <string name="chut_thurgau">Harmonická, svěží. Při dobré zralosti hroznů dostáváme broskve, meruňky a někdy dle ročníku i sauvignonové tóny. </string>
+    <string name="stolovani_thurgau">Vína odrůdy MT jsou vína ke každodennímu pití k prosté stravě a při společenské zábavě. Hodí se k předkrmům, zeleninovým polévkám, k rybě nebo k bílým měkkým sýrům.
+        Vyzrálé hrozny MT jsou vhodné i k přímé konzumaci, jsou příjemné, jemně muškátové chut.\n
+    Teplota podávání: 9-11°C</string>
+    <string name="popis_thurgau">Müller Thurgau je bílá moštová odrůda vzniklá křížením Ryzlinku rýnského x Madlenky královské. Odrůdu vyšlechtil Dr. Hermann Müller (1850-1924),  ve šlechtitelské
+        stanici Geisenheim v r. 1882. Švýcar Müller pocházel z kantonu Thurgau a spojení příjmení s názvem kantonu dalo jméno odrůdě, která z evropských vinic prakticky vytlačila odrůdy jako je
+        Sylvánské zelené či Neuburské. MT se z úspěchem pěstuje i v Novém světě (např. Nový Zéland, USA). Protože odrůda dozrává většinou již v polovině září daří se jí nejvíce v chladnějších
+        vinařských oblastech. V některých evropských státech se objevuje v názvu Sylvánské, protože se H. Müller domníval, že kříží Ryzlink rýnský x Sylvánské zelené.  Odrůda Müller Thurgau je
+        nejznámnější a nejrozšířenější kříženec révy vinné na světě. V ČR se pěstuje na 9,4% ploch, viz. též výměra vinic ČR.\n
+        Do Státní odrůdové knihy ČR byla odrůda zapsaná v r. 1941.\n
+        Hrozen je středně velký až velký, válcovitého tvaru, bobule střední, kulatá, zelenožluté barvy. Dužnina je řídká s jemnou muškátovou chutí. Víno je příjemné s nižšími kyselinami, muškátové
+        aroma vždy v pozadí. Při redukci výnosu a dosáhnutí vyšší cukernatosti, např. u pozdního sběru je víno kvalitou plně srovnatelné s ostatními odrůdami.\n
+        Povolené synonymum: Rivaner\n\n
+        Zkratka: MT\n\n
+        Držitel šlechtitelských práv v ČR: není\n
+        Udržovatel v ČR: 603 Šlechtitelská stanice vinařská Velké Pavlovice, a.s. 691 06 Velké Pavlovice 565, 605 Šlechtitelská stanice vinařská, s.r.o. 687 37 Polešovice, 629 VÚRV Praha-Ruzyně,
+        Výzkumná stanice vinařská 267 18 Karlštejn 98, 749 Ing. Alois Tománek 687 09 Boršice 671, 982 AMPELOS, ŠLECHTITELSKÁ STANICE VINAŘSKÁ ZNOJMO, a.s. 671 24 Vrbovec 274.\n\n
+        Zdroje informací: \n www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--NATIVA-->
+
+    <string name="barva_nativa">Tmavě červená, rubínová.</string>
+    <string name="vune_nativa">Jemně aromatická, ovocitá s tóny třešní a višní. Přidává se kořenitost a florální tóny.</string>
+    <string name="chut_nativa">Extraktivní, harmonická, s výraznější tříslovinkou a s poněkud vyšší aciditou. Maliny, ostružiny.</string>
+    <string name="stolovani_nativa"></string>
+    <string name="popis_nativa">Nativa je modrá interspecifická (PIWI) odrůda vyšlechtěná kolektivem šlechtitelů Resistant vedeným prof. ing. Vilémem Krausem CSc. Vznikla křížením odrůd Fratava
+        (Frankovka × Svatovavřinecké) a Merlan (Merlot × Seibel 13 666). Zapsaná do Státní odrůdové knihy v r. 2010. Hrozen je středně velký, kuželovitý, hustý.  Bobule je kulatá, malá až středně velká, tmavě modrá s řídkou dužninou. Sklizňové zralosti dosahuje
+        odrůda na přelomu září – říjen. Odrůda i při vyšší sklizni 9 – 12 t dosahuje průměrné střední cukernatosti 18 – 20°NM při průměrném obsahu kyselin 8,5 g*l-1. Skladba kyselin např. proti Frankovce
+        (srovnávací odrůda při uznávacích zkouškách) je příznivější v poměru kyselin vinná – jablečná, ve prospěch kyseliny vinné. Víno je kvalitní, kabernetového typu, vyšší tmavě červené barvy.
+        Charakterním znakem jsou maliny, ostružiny, hlavně u starších vín.\n\n
+        Zkratka Na.\n\n
+        Udržovatel odrůdy v ČR: Doc. Ing. Miloš Michlovský, DrSc., Rakvice.\n
+        Držitel šlechtitelských práv v ČR: dtto\n\n
+        Zdroje informací: \n www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--NERONET-->
+
+    <string name="barva_neronet">Tmavě rubínová až granátová, modročervená.</string>
+    <string name="vune_neronet">Květinová, bylinná, ovocná. Černé třešně, švestky, tabák, káva, lanýže, fíky.</string>
+    <string name="chut_neronet">Ovocná, plná s vyšší tříslovinou. Černý rybíz, višňový kompot, kabernetové tóny, borůvky, ostružiny.</string>
+    <string name="stolovani_neronet">K srnčímu nebo jelenímu ragů, k pokrmům s intenzivní chutí rajčat, k pernaté zvěři, k sýrům s bílou a modrou plísní.\n
+        Teplota podávání: 14-16°C</string>
+    <string name="popis_neronet">Neronet je modrá moštová odrůda (barvířka) vzniklá křížením (Svatovavřinecké x Modrý Portugal) x Alibernet. V r. 1991 zapsaná do Státní odrůdové knihy.
+        Vyšlechtěna prof. ing. Vilémem Krausem CSc. v Lednici na Moravě. Hrozen je středně velký s křídly, bobule je malá, kulatá, modročerná, dužnina je modročervená, barevnost moštu je vysoká.
+        Zrání odrůdy je na přelomu září a října. Víno je plné, tělnaté s vysokou intenzitou barvy. Při klasické technologii má víno vyšší třísloviny, běžné barvy lze dosáhnout i bez fermentace rmutu
+        pouze několika hodinovou macerací, potom je víno harmonické.\n\n
+        Zkratka: Ne.\n\n
+        Udržovatel odrůdy v ČR: kód 605 Šlechtitelská stanice vinařská, s.r.o. 687 37 Polešovice 634, kód749 Ing. Alois Tománek 687 09 Boršice 671.\n
+        Držitel šlechtitelských práv v ČR: není\n\n
+        Zdroje informací: \n www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--NEUBURSKÉ-->
+
+    <string name="barva_neuburske">Světle zelenožlutá, u vyšších přívlastků zlatožlutá.</string>
+    <string name="vune_neuburske">Muškátová až kopřivově broskvová, při zrání v láhvi malinová. Při redukované sklizni charakteristické zemité, ořechové tóny. Dále grep, kandované ovoce či avokádo.</string>
+    <string name="chut_neuburske">Harmonická, extraktivní, středně plná až plná, hebká, viskózní, s nižším obsahem kyselin. Dostáváme smetanové tóny a květinově-ovocitý charakter s nenapodobitelně
+        pikantní, mírně nahořklou skořicovou chutí.</string>
+    <string name="stolovani_neuburske">Neuburské výborně doprovází jídla s hustými omáčkami, pečenou drůbež nebo drůbeží paštiky, klobásy a guláš. Hodí se i k vařeným masům, přírodní úpravě hovězího,
+        k vydatnějším, ale neutrálním jídlům. Dále může doplňovat bílé sýry či zeleninové polévky. Dále se hodí k roštěné či pečenému bažantu.\n
+        Teplota podávání: 9-11°C</string>
+    <string name="popis_neuburske">Neuburské je bílá moštová odrůda vzniklá nahodilým křížením odrůd Veltlínské červené x Sylvánské zelené ve druhé polovině 19. stol. v Rakousku anonymními šlechtiteli.
+        Zde se pěstuje pod názvem Neuburger. Dle ústního podání zasadili vinaři v obci Arnsdorf vyplavené kusy réví z Dunaje a od r. 1872 z těchto vzrostlých keřů vyráběli dobré víno. Do Státní odrůdové
+        knihy byla odrůda zapsaná v r. 1941. Hrozen je středně velký, válcovitého tvaru, bobule střední, kulatá, zelenožluté barvy. Na slupce typická černé tečky. Dužnina je podobné konzistence jako u
+        stolních hroznů a proto v minulosti byly hrozny Neuburského používané k přímému konzumu. Víno je příjemné, neutrální, harmonické chuti s vyrovnanými kyselinami.\n
+        Povolené synonymum v ČR: Neuburger\n\n
+        Zkratka: Ng\n\n
+        Držitel šlechtitelských práv v ČR: není\n
+        Udržovatel odrůdy v ČR: kód 603 Šlechtitelská stanice vinařská Velké Pavlovice, a.s. 691 06 Velké Pavlovice 565, kód 605 Šlechtitelská stanice vinařská, s.r.o. 687 37 Polešovice 634.\n\n
+        Zdroje informací: \n www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--RINOT-->
+
+    <string name="barva_rinot">Žlutozelená.</string>
+    <string name="vune_rinot">Jemně aromatická, ovocitá s bylinnými tóny, ryzlinkového či rulandského typu.</string>
+    <string name="chut_rinot">Ovocitá s bylinnými tóny, ringle, vanilka, peckové ovoce.</string>
+    <string name="stolovani_rinot">Domácí paštika s kuřecích jater, polotvrdé či tvrdé sýry.</string>
+    <string name="popis_rinot">Rinot je bílá moštová odrůda vzniklá křížením odrůd Merzling x (Seyve Villard 12357 x Rulandské šedé). Zapsaná do Státní odrůdové knihy v r. 2008. Vyšlechtěna Doc. Ing.
+        Milošem Michlovským, DrSc. Hrozen je středně velký až velký, středně hustý, podlouhlého válcového tvaru. Bobule malá, kulatá, barva slupky žlutozelená, při plné zralosti tmavě žlutá. Odrůda
+        je odolná proti oidiu, středně odolná proti perenespoře a plísni šedé. Zralost odrůdy je v druhé polovině září. Víno je žlutozeleného odstínu, ovocité, jemně aromatické.\n\n
+        Zkratka: Ri \n\n
+        Udržovatel odrůdy v ČR: kód 604 Ing. Miloš Michlovský, CSc. Družstevní 818, 691 03 Rakvice.\n
+        Držitel šlechtitelských práv v ĆR: Ing. Miloš Michlovský.\n\n
+        Zdroje informací: \n www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--RUBINET-->
+
+    <string name="barva_rubinet">Tmavočervená až modročervená.</string>
+    <string name="vune_rubinet">Intenzivní, kořenitě kabernetová. Černý rybíz, plody černého bezu, koření.</string>
+    <string name="chut_rubinet">Velmi plná, viskózní, kabernetová, tříslovitá, charakteru jižních vín. Černý rybíz, plody černého bezu, koření.</string>
+    <string name="stolovani_rubinet"></string>
+    <string name="popis_rubinet">Rubinet  je modrá interspecifická moštová PIWI odrůda (barvířka), zápsaná do Státní odrůdové knihy v r. 2005. Odrůdu vyšlechtil prof. Vilém Kraus v Lednici na Moravě.
+        Středně raná odrůda, kříženec (Revolta x Alibernet) x André. Původní název Tintet. Hrozen je středně velký,kuželovitý, řídký až středně hustý se středně dlouhou stopkou. Bobule je středně velká,
+        elipsovitá, tmavě modrá, dužnina tmavočervená. Sklizňová zralost v polovině října. Proti napadení houbovými chorobami je středně odolná. Proti poškození zimními i jarními mrazy je odolná. Výnos
+        je středně vysoký. Víno je plné s vyšším obsahem tříslovin, tmavočervené až modročervené barvy, jemné kabernetové tóny harmonická chuť.\n\n
+        Zkratka Ru.\n\n
+        Držitel šlechtitelských práv v ČR: není\n
+        Udržovatel odrůdy v ČR: kód 1183 Vilém Kraus Přístavní 1282/30, 276 01 Mělník.\n\n
+        Zdroje informací: \n www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--RULANDSKÉ BÍLÉ-->
+
+    <string name="barva_rulandskebile">Světle žlutá, zelenožlutá.</string>
+    <string name="vune_rulandskebile">Květiny, hrušky, lískové oříšky, chlebová kůrka, vanilka.</string>
+    <string name="chut_rulandskebile">Minerální, pikantně svěží, plná, extraktivní, harmonická, elegantní. Dostáváme (podobně jako ve vůni) hrušky, broskev, červené ovoce, lískové oříšky, mandle,
+        hlebovou kůrku, máslo, vanilku, jemnou kouřovou příchuť, citrusové plody a lipový květ.</string>
+    <string name="stolovani_rulandskebile">Vína Rulandského bílého lze podávat při slavnostnějších příležitostech k bohatém výběru masitých jídel. Hodí se dobře i k uzeným rybám, k pečením, k sýrům s
+        ušlechtilými plísněmi. Také k hutnější, ale ne příliš výrazné úpravě hovězího i vepřového masa, k hustším polévkám, k výraznějším paštikám a k uzenému masu. Vína přívlastková jsou vhodná k
+        dezertům. Svěží Rulandské je vynikající aperitiv.\n
+        Teplota podávání: 10-12°C</string>
+    <string name="popis_rulandskebile">Rulandské bílé je starobylá francouzská bílá moštová odrůda původem z Burgundska, vznikla pravděpodobně pupencovou mutací z Rulandského šedého. Do Státní odrůdové
+        knihy byla odrůda zapsaná v r. 1941 jako Burgundské bílé, v r. 1993 došlo ke změně názvu ve Státní odrůdové knize na Rulandské bílé. Slovo „Rulandské“ bylo zapůjčeno z německé oblasti, jmenoval
+        se tak Johann Seger Ruland, který se zasloužil o rozšíření odrůdy Pinot gris v okolí německého Špýru. Celý problém s názvem nastal ke konci sedmdesátých roků minulého století, kdy Francie podala
+        podnět o neoprávněném používání značky „Burgundské“ na tehdejší Československou republiku u mezinárodního obchodního soudu v Haagu. K dohodě mezi Francií a ČSSR nikdy nedošlo, smlouva nebyla
+        podepsaná a muselo tedy dojít ke změně označování této odrůdy v ČR (stejně tak u odrůdy Rulandské šedé a Rulandské modré). Historický název v českých zemích byl Roučí bílé.\n
+        Hrozen je středně malý až malý, mírně kuželový, uzavřený, hustý. Bobule malá, kulatá, žlutozelená, slupka tenká, dužnina řídká. Zrání pozdní, plné zralosti odrůda dosahuje až v říjnu.
+        Víno je plné, extraktivní s příjemnými kyselinami, velmi vhodné k archivaci čímž se barevné tóny zvýrazní. Ve vůni jemné květinové vůně, u vyzrálého vína chlebnaté tóny. Chuť plná, dlouhotrvající,
+        bohatá na extraktivní látky, harmonická, elegantní. Ve vůni i chuti můžeme hledat hrušky, broskev, červené ovoce, lískové oříšky, mandle, chlebovou kůrku, máslo, vanilku.
+        Povolené synonymum v ČR: Pinot blanc\n\n
+        Doporučená zkratka: RB (SZPI používá vcelku nelogickou zkratku RUB)\n\n
+        Udržovatel odrůdy v ČR: kód 749 Ing. Alois Tománek 687 09 Boršice 671, kód 982 AMPELOS, ŠLECHTITELSKÁ STANICE VINAŘSKÁ ZNOJMO, a.s. 671 24 Vrbovec 274.
+        Držitel šlechtitelských práv v ČR: není.\n\n
+        Zdroje informací: \n www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--RULANDSKÉ MODRÉ-->
+
+    <string name="barva_rulandskemodre">Rubínová až cihlově červená, s oranžovým až nazlátlým okrajem u sklenky.</string>
+    <string name="vune_rulandskemodre">Ostružiny, maliny, jahody, švestky, cassis, banány, černé třešně, brusinky, kdoule, hloh, vřes, pivoňky, jasmín, máta, fialky, ve vyzrálých kůži, kouř hořícího dřeva,
+        tlející listí, datle, fíky, sušené švestky, povidla, jahodový džem, moruše, hořké mandle, hořká čokoláda, kakao, káva, hřebíček, ale i zvěřina a lanýže, jód, mořská sůl a oříšky,
+        v úpravě barrique se přidává smetanově-vanilkový rozměr.</string>
+    <string name="chut_rulandskemodre">Plná, víno má nízký obsah kyselin, velmi jemné třísloviny a hebkost při klouzání po jazyku. V chuti pak dostáváme stejné či podobné spektrum jako ve vůni.</string>
+    <string name="stolovani_rulandskemodre">Vyzrálá červená vína rulandského modrého se podávají v širokých „břichatých“ pohárech a platí pro ně pravidlo, které říká, že čím starší víno je, tím objemnější
+        pohár zvolíme, pohár se plní pouze do pětiny až čtvrtiny celkového objemu, aby se široká hladina vína mohla dobře provzdušnit. Archívní vína lze podávat bez pokrmů, k tichému obdivu jejich vůní
+        a skladby a k meditování s přáteli. Mladší vína se při stolování předkládají k pečeným masům, jemným úpravám zvěřiny i jiných tmavých mas, pernaté zvěři, nadívané drůbeži a doporučují se rovněž
+        k pokrmům z hub a k mnoha druhům sýrů. Jsou skvělá také k delšímu posezení s malým zákuskem.\n
+        Teplota podávání: 14-16°C</string>
+    <string name="popis_rulandskemodre">Rulandské modré je starobylá francouzská modrá moštová odrůda původem z Burgundska, vznikla pravděpodobně křížením odrůd Tramín červený a Mlynářka. Do Státní
+        odrůdové knihy byla odrůda zapsaná v r. 1941 jako Burgundské modré, v r. 1993 došlo ke změně názvu ve Státní odrůdové knize na Rulandské modré. Slovo „Rulandské“ bylo zapůjčeno z německé oblasti,
+        jmenoval se tak Johann Seger Ruland, který se zasloužil o rozšíření odrůdy Pinot gris (Rulandské šedé) v okolí německého Špýru. Celý problém s názvem nastal ke konci sedmdesátých roků minulého
+        století, kdy Francie podala podnět o neoprávněném používání značky „Burgundské“ na tehdejší Československou republiku u mezinárodního obchodního soudu v Haagu. K dohodě mezi Francií a ČSSR nikdy
+        nedošlo, smlouva nebyla podepsaná a muselo tedy dojít ke změně označování této odrůdy v ČR (stejně tak u odrůdy Rulandské bílé a Rulandské šedé). Historický název v českých zemích byl Roučí modré.
+        Hrozen je malý, uzavřený, válcový, připomínající šišku, odtud název Pinot. Bobule je malá až středně velká, kulatá, barva bobule je tmavě modrá až černá.\n
+        Víno je hebké a ležením získává na kvalitě, barva je od  světle granátové až po cihlové tóny, vždy slabšího odstínu. V chuti i ve vůni lze vysledovat zahradní jahodu, která je neklamným znakem
+        odrůdy, ležením v láhvi se můžou vyskytnout tóny sušené švestky.\n
+        Rulandské modré je v dnešní době legendární a internacionální odrůdou pěstovanou na celém světě. Mít ve skleničce RM znamená pro znalce vín výjimečný okamžik a téměř vždy se jedná o vrchol
+        ochutnávky nebo večera. O jeho oblíbenosti svědčí i množství synonym, které jsou zapsané v Evropské odrůdové knize – 265.\n
+        Povolené synonymum v ČR: Pinot noir\n\n
+        Doporučená zkratka: RM\n\n
+        Udržovatel odrůdy v ČR: kód 603 Šlechtitelská stanice vinařská Velké Pavlovice, a.s. 691 06 Velké Pavlovice 565, kód 605 Šlechtitelská stanice vinařská, s.r.o. 687 37 Polešovice 634, kód 749
+        Ing. Alois Tománek 687 09 Boršice 671, kód 982 AMPELOS, ŠLECHTITELSKÁ STANICE VINAŘSKÁ ZNOJMO, a.s. 671 24 Vrbovec 274.\n
+        Držitel šlechtitelských práv v ČR: není.\n\n
+        Zdroje informací: \n www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--RULANDSKÉ ŠEDÉ-->
+
+    <string name="barva_rulandskesede">Zlatožlutá.</string>
+    <string name="vune_rulandskesede">Hrušky (i sušené), fíky, broskev, kandované ovoce, pomeranč, med, lískové oříšky, mandle, chlebová kůrka.</string>
+    <string name="chut_rulandskesede">Velmi plná, hebká, extraktivní. Pomeranč, med, hrušky, karamel, květiny. Dále podobně jako ve vůni.</string>
+    <string name="stolovani_rulandskesede">Vína Rulandského šedého doprovázejí nejčastěji hutná a kořeněná jídla nebo rybí speciality, těžší úpravy drůbeže či hustší polévky. Ke kachně, k drůbeži s nádivkou,
+        k uzeným pařeným sýrům. Sladké výběry jsou vhodné k dezertům.\n
+        Teplota podávání: 10-12°C</string>
+    <string name="popis_rulandskesede">Rulandské šedé je starobylá francouzská bílá moštová odrůda původem z Burgundska, vznikla pravděpodobně pupencovou mutací z Rulandského modrého. Do Státní odrůdové
+        knihy byla odrůda zapsaná v r. 1941 jako Burgundské šedé, v r. 1993 došlo ke změně názvu ve Státní odrůdové knize na Rulandské šedé. Slovo „Rulandské“ bylo zapůjčeno z německé oblasti, jmenoval
+        se tak Johann Seger Ruland, který se zasloužil o rozšíření odrůdy Pinot gris v okolí německého Špýru. Celý problém s názvem nastal ke konci sedmdesátých roků minulého století, kdy Francie podala
+        podnět o neoprávněném používání značky „Burgundské“ na tehdejší Československou republiku u mezinárodního obchodního soudu v Haagu. K dohodě mezi Francií a ČSSR nikdy nedošlo, smlouva nebyla
+        podepsaná a muselo tedy dojít ke změně označování této odrůdy v ČR (stejně tak u odrůdy Rulandské bílé a Rulandské modré). Historický název v českých zemích byl Roučí šedivé.\n
+        Povolené synonymum v ČR: Pinot gris\n
+        Hrozen je středně malý, kuželový, tvaru šišky, uzavřený, hustý. Bobule malá, kulatá, šedá až šedočervená, slupka středně pevná, dužnina řídká. Zrání pozdní, plné zralosti odrůda dosahuje až v říjnu.
+        Víno je plné, extraktivní s příjemnými kyselinami, velmi vhodné k archivaci. Ve vůni jemné květinové vůně, medové a celá řada níže uvedených ovocných i jiných tónů. Chuť plná, dlouhotrvající,
+        bohatá na extraktivní látky, harmonická, elegantní.\n\n
+        Doporučená zkratka: RŠ\n\n
+        Držitel šlechtitelských práv v ČR: není\n
+        Udržovatel odrůdy v ČR: kód 603 Šlechtitelská stanice vinařská Velké Pavlovice, a.s. 691 06 Velké Pavlovice 565, kód 605 Šlechtitelská stanice vinařská, s.r.o. 687 37 Polešovice 634, 749 Ing.
+        Alois Tománek 687 09 Boršice 671, kód 982 AMPELOS, ŠLECHTITELSKÁ STANICE VINAŘSKÁ ZNOJMO, a.s. 671 24 Vrbovec 274\n\n
+        Zdroje informací: \n www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--RULENKA-->
+
+    <string name="barva_rulenka">Žlutozelená.</string>
+    <string name="vune_rulenka">Ovocná až květinová.</string>
+    <string name="chut_rulenka">Ovocná až kořenitá, harmonická, svěží.</string>
+    <string name="stolovani_rulenka"></string>
+    <string name="popis_rulenka">Rulenka je středně raná až pozdní bílá moštová odrůda vzniklá křížením odrůd (Rulandské šedé × Pesecká Leánka) × Ryzlink rýnský. Vyšlechtil ji prof. Ing. Vilém Kraus,
+        CSc. na Šlechtitelské stanici vinařské Velké Žernoseky. Od 9. 2. 2018 je zapsaná ve Státní odrůdové knize České republiky. List středně velký, pětiúhelníkovitého tvaru. Hrozen malý, hustý.
+        Bobule malá, kruhovitého tvaru. Barva slupky žlutozelená. Při pěstování pod fungicidní ochranou odrůda středně odolná proti napadení plísní révy, odolná proti napadení padlím révy a středně
+        odolná proti napadení plísní šedou. Odrůda odolná sprchávání. Výnos hroznů velmi nízký až nízký. Cukernatost moštu vysoká. Odrůda je vhodná především na speciální sladké či botrytické výběry.\n\n
+        Zdroje informací: \n hledamvino.cz, www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--RYZLINK RÝNSKÝ-->
+
+    <string name="barva_ryzlinkrynsky">Typická vína RR jsou světle zelenožlutá, s přibývající zralostí se objevují zlatavé odstíny, u výběrů z bobulí až jantarové tóny.</string>
+    <string name="vune_ryzlinkrynsky">Ovocné plody, kořenitost, minerální zemitá i kouřová, květinová, typická vůně je po lipovém květu, může být i muškátová, broskvová nebo jako luční květy,
+        z příliš horkých lokalit může zavánět petrolejem a kerosinem, to když je většina bobulí vlivem slunce hnědavě zbarvena.</string>
+    <string name="chut_ryzlinkrynsky">Chuť přechází od ocelové kyseliny v nezralých ročnících přes příjemně peprně kořenitě říznou až po svěže zralou, která je nezbytnou součástí velkých vín
+        výborných ročníků a současně oporou tvorby buketu a chuťových látek lahvové zralosti. Ve vůni a chuti můžeme hledat broskev, zelené i žluté jablko, pomeranč, citronovou kůru, kdouli a u
+        měkčích vín i meruňku nebo ananas, ale i med, marcipán, mandle a hrozinky, minerály, květ mučenky, lipový květ. Chuť je zvýrazněna pikantní kyselinkou, někdy i vyššími a delikátními
+        aromatickými látkami, jež zaujmou nevtíravým a přece dlouho trvajícím vjemem.</string>
+    <string name="stolovani_ryzlinkrynsky">Jakostní vína RR jsou vhodná k tučnějším masitým pokrmům a uzenému, k lehké úpravě ryb a drůbeže. Sladké výběry jsou vhodné k dezertům, kabinety ke
+        studeným předkrmům a telecímu masu, pozdní sběry k pstruhům a rybám v různých úpravách.\n
+        Teplota podávání: 9-11°C</string>
+    <string name="popis_ryzlinkrynsky">Ryzlink rýnský je bílá odrůda révy vinné. Její původ je pravděpodobně v Německu, kde se její název objevuje v zápisech již v roce 1435 (nárok na  původ si
+        dělají i v Itálii, a přenesení sadby římskými legiemi na Limes Romanus). Vznikla přírodním křížením z odrůdy Heunisch, Vitis sylvestris a Tramín červený. V českých zemích se prokazatelně
+        pěstuje od 17. století., v současné době na cca 7% ploch. Do Státní odrůdové knihy ČR byla odrůda zapsaná v roce 1941. Celková světová výměra odrůdy RR je cca 60 tis. ha, z toho v ČR cca
+        1300 ha, viz výměra vinic ČR. Historický název pro RR na Moravě je Lipka. \n
+        Hrozen je malý až středně velký, kuželovitého tvaru, se zahuštěnými bobulemi, které jsou středně velké, kulaté, žlutozelené. Víno je extraktivní, vysoce kvalitní s vyšší kyselinou.
+        Charakterem ve vůni jsou medové, lipové tóny, v chuti zralé meruňky a medové tóny.\n\n
+        Doporučená zkratka: RR\n\n
+        Povolené synonymum v ČR: Rheinriesling, Riesling\n
+        Držitel šlechtitelských práv v ČR: není\n
+        Udržovatel odrůdy v ČR: kód 603 Šlechtitelská stanice vinařská Velké Pavlovice, a.s. 691 06 Velké Pavlovice 565, kód 604 Ing. Miloš Michlovský, CSc. Družstevní 818, 691 03 Rakvice, kód 605
+        Šlechtitelská stanice vinařská, s.r.o. 687 37 Polešovice 634, kód 749 Ing. Alois Tománek 687 09 Boršice 671, kód 982 AMPELOS, ŠLECHTITELSKÁ STANICE VINAŘSKÁ ZNOJMO, a.s. 671 24 Vrbovec 274.\n\n
+        Zdroje informací: \n hledamvino.cz, www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--RYZLINK VLAŠSKÝ-->
+
+    <string name="barva_ryzlinkvlasky">Světle zelenožlutá.</string>
+    <string name="vune_ryzlinkvlasky">Květinová s nádechem květu lípy, hořkomandlová nebo jablečná (zelená jablka) po medové tóny. Grapefruit, červený rybíz, angrešt, kytice lučního kvítí,
+        hrozinky, sladký citron.</string>
+    <string name="chut_ryzlinkvlasky">Harmonická s příjemnými kyselinkami. Ve vůni a chuti můžeme hledat grapefruit, červený rybíz, angrešt, kytice lučního kvítí, hrozinky,
+        sladký citron, medové tóny.</string>
+    <string name="stolovani_ryzlinkvlasky">Vína Ryzlinku vlašského zachycují celou kvalitativní škálu bílých vín. Lehká, prostá, tvrdá vína stolní, která přinášejí osvěžení při namáhavé manuální
+        práci, se hodí ke svačinám s uzeninou. Suchá vína Ryzlinku vlašského se dobře uplatní jako aperitiv ke studeným předkrmům a k celé paletě jídel jednoduché, všední kuchyně. Hodí se k
+        zeleninovým jídlům i zeleninovým polévkám a bílým sýrům, k lehké úpravě ryb či jemným paštikám, ale i k šunce a vepřové pečeni. Jako vinný střik dobře uhasí žízeň.\n
+    Teplota podávání: 9-11°C</string>
+    <string name="popis_ryzlinkvlasky">Ryzlink vlašský je starobylá bílá odrůda révy vinné. Její původ je pravděpodobně v Itálii (Vlachy), nebo ve Francii. Ať tak, nebo tak, v dnešní době je nejvíce
+        rozšířený v zemích bývalé Rakousko – Uherské monarchie, většina z 35 tis ha celosvětové výměry RV (Sedlo). Největší výměra v ČR byla před rokem 1990, kdy podíl na celkové výměře dosahoval
+        14%. V dnešní době pouze 7% a očekává se další úbytek (Sedlo). Do Státní odrůdové knihy ČR byl Ryzlink vlašský zapsaný v r. 1941. Viz též výměra vinic ČR.\n
+        Hrozen je středně velký, válcový, hustý, má delší stopku, mívá často křidélko. Bobule malá – středně velká, kulatá, zelenožlutá. Víno bývá robustní, extraktivní, květinové tóny ve vůni,
+        v chuti až oříškové. V horších letech má vysoký podíl kyselin. Vhodné pro výrobu sektů.\n
+        Povolené synonymum v ČR: Welschriesling.\n\n
+        Doporučená zkratka: RV\n\n
+        Držitel šlechtitelských práv v ČR: není\n
+        Udržovatel odrůdy v ČR: kód 604 Ing. Miloš Michlovský, CSc., Družstevní 818, 691 03 Rakvice , kód 982 AMPELOS, ŠLECHTITELSKÁ STANICE VINAŘSKÁ ZNOJMO, a.s., 671 24 Vrbovec 274.\n\n
+        Zdroje informací: \n hledamvino.cz, www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--SAUVIGNON-->
+
+    <string name="barva_sauvignon">Světle zelenožlutá.</string>
+    <string name="vune_sauvignon">Černý rybíz, kopřiva, kočičí moč (mňam), zelený pepř, kiwi s nádechem citronu, grapefruity, broskve, nektarinky, meloun, u vín z obl.
+        Sancerre i minerální tóny a křemen. U sladkých výběrů meruňky, angrešt, broskve, pomeranče, ananas, med, marcipán, tropické ovoce, mango, mučenku, akátový a pomerančový květ, kosatec, fenykl, ale i
+        muškátové tóny.</string>
+    <string name="chut_sauvignon">Kořenitá, plná, často s minerální příchutí. Dostáváme (podobně jako ve vůni) travnaté, kopřivové či paprikové tóny. Dálší výčet viz. popis vůně.</string>
+    <string name="stolovani_sauvignon">Aromaticky výrazná a suchá vína Sg jsou vhodná jako aperitiv či ke studeným předkrmům, ke chřestu a kozím sýrům. Plnější a zralá vína jsou vhodná ke kořenitým
+        jídlům, těstovinám s gorgonzolou nebo rybí omáčkou, k vařené šunce, bílým masům se smetanovými omáčkami, k rybám s výraznější úpravou či k rybám uzeným. Výběry ke sladkým dezertům.\n
+    Teplota podávání: 11-13°C</string>
+    <string name="popis_sauvignon">Sauvignon je bílá odrůda révy vinné. Její původ je pravděpodobně v Bordeaux, v poslední době, na základě genetické analýzy se uvádí, že vznikla křížením Chenin
+        Blanc x Tramín. Sauvignon se pěstuje téměř ve všech vinařských zemích světa a je tedy odrůdou „internacionální“, její plocha je cca 45 tis. ha. V českých zemích se začala významně
+        rozšiřovat až od 50 let minulého století, v současné době se pěstuje na cca 5% ploch, tedy téměř tisíc ha (viz výměra vinic ČR). Do Státní odrůdové knihy ČR byla odrůda zapsaná v roce 1952.\n
+        Hrozen je malý, hustý s krátkou stopkou. Bobule je malá až středně velké, kulatá, žlutozelená. Charakter vína je silně ovlivněný  ročníkem. Plná zralost je v polovině října (Morava).
+        Ve vynikajících ročnících převládá broskev s lehkým nádechem listu černého rybízu, v méně vydařeném ročníku hluchavka, angrešt, černý rybíz. V průměrném a horším ročníku typická kopřiva
+        až trávové tóny. Víno mění významně svůj charakter i zráním, hlavně v prvním půl roce školení. Sklepmistři mnohdy používají pro Sauvignon výraz „chameleón“. Další tóny během vývoje,
+        které lze ve víně hledat: grapefruit, kiwi, citron, nektarinka, meloun cukrový, u sladkých výběrů meruňky, pomeranče, ananas, ostatní tropické ovoce, někdy i  marcipán.\n\n
+        Doporučená zkratka: Sg \n\n
+        Povolené synonymum v ČR: Sauvignon blanc\n
+        Držitel šlechtitelských práv v ČR: není\n
+        Udržovatelé v ČR: kód 603 Šlechtitelská stanice vinařská Velké Pavlovice s.r.o., kód 604 Doc. Miloš Michlovský CSc., Šlechtitelská stanice vinařská Polešovice s.r.o., kód 982 AMPELOS,
+        Šlechtitelská stanice vinařská Znojmo.\n\n
+        Zdroje informací: \n hledamvino.cz, www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+
+    <!--SAVILON-->
+
+    <string name="barva_savilon">Žlutá se zelenými odlesky až citrónově žlutá se zlatou jiskrou.</string>
+    <string name="vune_savilon">Extraktivní, široká, květinová až ovocná. Dostáváme i medové vůně a velmi slabě i vanilku.</string>
+    <string name="chut_savilon">Dlouhá, ovocná, citrusová. Dále broskve i kandované ovoce.</string>
+    <string name="stolovani_savilon"></string>
+    <string name="popis_savilon">Savilon je bílá interspecifická moštová odrůda sauvignonového typu. Vznikla křížením Rakiš (Villard blanc x Veltlínské červené rané) x Merlan. Vyšlechtěna kolektivem
+        šlechtitelů Resistant pod vedením Prof. Ing. Viléma Krause, CSc, který tvořili M. Michlovský, F. Mádl, V. Peřina, L. Glos. Zapsaná do Státní odrůdové knihy v r. 2010. Savilon patří do
+        skupiny PIWI odrůd, je odolný proti houbových chorobám, odrůda je vhodná pro pěstování hroznů v ekologické produkci pro výrobu biovín.\n
+        Hrozen je větší, dlouhý, řidší s křidélkem. Bobule je malá, kulatá, žlutozelená. Plná zralost je až od poloviny října (Morava). Charakter vína je podobný odrůdě Sauvignon. Převládají
+        žluté odstíny se zelenými odlesky. Charakterem ve vůni je hluchavka, angrešt, broskev a medové tóny. V chuti škála ovocných tónů, broskev, angrešt, u výběrů meruňka, ananas. Víno má
+        pikantní kyseliny.\n\n
+        Doporučená zkratka: Svl\n\n
+        Držitel šlechtitelských práv v ČR: kód 604 Doc. Miloš Michlovský CSc.\n
+        Udržovatel odrůdy v ČR: Doc. Miloš Michlovský CSc.\n\n
+        Zdroje informací: \n hledamvino.cz, www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--SEVAR-->
+
+    <string name="barva_sevar">Rubínová až tmavočervená.</string>
+    <string name="vune_sevar">Jemně až silně aromatická. Květinové a ovocné tóny - lesní jahody, ostružiny, maliny, rybíz a borůvky.</string>
+    <string name="chut_sevar">Lesní jahody, ostružiny.</string>
+    <string name="stolovani_sevar"></string>
+    <string name="popis_sevar">Odrůda Sevar vznikla křížením mateřské rostliny SEYVE VILLARD 12/58 F1 s otcovskou odrůdou SVATOVAVŘINECKÉ 116/55 F1. Toto hybridní křížení provedl už v roce 1964
+        šlechtitel ing. Václav Křivánek, který tehdy chtěl vyšlechtit odrůdu se zvýšenou odolností proti houbovým chorobám a mrazu, což je trendem a snahou šlechtitelů do dnešních dnů. Staniční
+        předzkoušky proběhly v letech 1982–1984 ve vinici „Meteorka“ v Polešovicích, kde byly révové sazenice vysazeny v roce 1974 ve sponu 1,8 m x 1 m. V tříletém zkušebním cyklu byl sledován
+        výnos, který činil v průměru 17,36 t/ha, cukernatost s průměrem 16,63 st.NM a kyseliny s průměrem 9,03 g/l.\n
+        Sevar je odolný proti peronospoře, oidiu i plísni šedé. Nevyžaduje chemickou ochranu a tudíž je plně využitelný pro ekologické vinařství. Odolnost proti mrazům je na úrovni hodnoty
+        Frankovky modré. Hrozen je malý až středně velký, středně hustý. Víno má zajímavý buket i chuť. Prolínají se vůně květinové a ovocné a ve vínu lze nalézt plody okraje lesa – maliny,
+        ostružiny, jahody, rybíz i borůvky. Dospělý list je malý až středně velký kruhovitého tvaru, profil čepele je tvaru V.\n
+        Víno je výborné kvality, tmavočervené barvy, jemně až silně aromatického typu s jemnou kyselinkou, která chybí u jižních vín. Důležité je, že víno dosahuje konzumní zralosti již v prvním
+        roce a vyhovuje moderním trendům, a to v konzumaci mladých svěžích vín. Při odpovídající technologii je možné dosáhnout tónů přírodně dezertního vína. Sevar se dá zařadit mezi barvířky.
+        Z uvedeného vyplývá, že nová odrůda Sevar může být velkým přínosem ve skupině červených vín. V Česku má odrůdu Sevar v portfoliu např. Školní zemědělský podnik MZLU Žabčice (3 ha) a
+        Vinařství Mikulášek Vičice (2 ha).\n
+        zdroj: RNDr. Habrovanský Zdeněk, Šlechtitelská stanice vinařská, s.r.o. Polešovice\n
+        Do Státní odrůdové knihy odrůda zapsaná v r. 2008.\n\n
+        Zkratka: Sev\n\n
+        Udržovatel odrůdy v ČR: kód 605 Šlechtitelská stanice vinařská, s.r.o. Polešovice, kód 749 Ing. Alois Tománek, Boršice.\n
+        Držitel šlechtitelských práv v ČR: není.\n\n
+        Zdroje informací: \n www.znalecvin.cz, hledamvino.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--SVATOVAVŘINECKÉ-->
+
+    <string name="barva_svatovavrinecke">Tmavočervená až fialová. Uvádí se také granátová a rubínová.</string>
+    <string name="vune_svatovavrinecke">Sametově plná s ovocnými a bylinnými tóny. Višně, černý rybíz, černé třešně, (sušené / zralé) švestky, povidla, skořice, sušené ovoce.</string>
+    <string name="chut_svatovavrinecke">Višně, černý rybíz, černé třešně, švestky, povidla, skořice, sušené ovoce.</string>
+    <string name="stolovani_svatovavrinecke">Svatovavřinecké se podává k běžné konzumaci všedních jídel a k sýrům. Velmi dobře se hodí jako doprovod tmavého masa a sýrů s intenzivní chutí.
+        Je dobrým doplňkem také ke kořeněnému vepřovému nebo ke zvěřině. Potěší rovněž v kombinaci s husou či kachnou.</string>
+    <string name="popis_svatovavrinecke">Svatovavřinecké je starobylá modrá odrůda révy vinné. Do Státní odrůdové knihy ČR byla zapsaná v roce 1941. Povolené synonymum v ČR je Saint Laurent.
+        Odrůda Svatovavřinecké se ve  světě pěstuje na cca 3 tis. ha, v ČR celkem na 8% ploch, což představuje 1335 ha a je u nás nejvíce pěstovanou modrou odrůdou. ČR je rovněž největším
+        pěstitelem odrůdy Svatovavřinecké na světě. Ve větším se začala pěstovat pro roce 1900, v r. 1935 byla výměra 1% ploch a největšího rozmachu odrůda zažila v devadesátých letech 20.
+        století kdy u nás zaujímala přes 10% ploch. Její původ není úplně jasný, pravděpodobně pochází z okolí města Saint Laurent ve Francii nebo z Alsaska. Dle genetické analýzy odrůda
+        vznikla jako semenáč z burgundských odrůd, což francouzský původ potvrzuje.\n
+        Hrozen je středně velký, kuželový, zahuštěný. Bobule je středně velká, kulatá až mírně oválná, modročerné barvy. Dužnina je řídká.\n
+        Víno bývá harmonické, rubínové až tmavě rubínové barvy s vyšším obsahem kyselin a třísel. Charakterem odrůdy jsou švestky, při dobře vyzrálých hroznech se ve víně objevují povidlové
+        tóny ve vůni i chuti. Ze škály ovoce lze ve víně ještě vysledovat černorybízové tóny.\n\n
+        Doporučená zkratka: Sv\n\n
+        Držitel šlechtitelských práv v ČR: není\n
+        Udržovatel odrůdy v ČR: kód 603 Šlechtitelská stanice vinařská Velké Pavlovice, a.s. 691 06 Velké Pavlovice 565, kód 629 VÚRV Praha-Ruzyně, Výzkumná stanice vinařská 267 18 Karlštejn 98,
+        kód 749 Ing. Alois Tománek 687 09 Boršice 671.\n\n
+        Zdroje informací: \n www.znalecvin.cz, hledamvino.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--SVOJSEN-->
+
+    <string name="barva_svojsen">Žlutozelená.</string>
+    <string name="vune_svojsen">Ovocná či bylinná.</string>
+    <string name="chut_svojsen">Ovocná či bylinná. Dle ročníku harmonická a plná.</string>
+    <string name="stolovani_svojsen"></string>
+    <string name="popis_svojsen">Svojsen je křížencem (Rulandské šedé × Leanka) × Ryzlink rýnský. Je to bílá moštová, pozdní odrůda. Dává víno je výborné kvality, žlutozelené barvy a jemně aromatické. Odrůdové víno má obvykle
+        ovocnou nebo bylinnou vůni a chuť. Převažuje svěží struktura chuti, dle typu ročníku bývá také harmonická a plná.\n
+        List středně velký, pětiúhelníkovitého tvaru. Hrozen malý, hustý. Bobule malá, kruhovitého tvaru. Barva slupky žlutozelená. Při pěstování pod fungicidní ochranou odrůda odolná proti
+        napadení plísní révy, odolná proti napadení padlím révy a středně odolná proti napadení plísní šedou. Odrůda odolná sprchávání. Výnos hroznů nízký až středně vysoký. Cukernatost moštu
+        vysoká. Od 2. 10. 2015 je zapsaná ve Státní odrůdové knize České republiky.\
+        Udržovatel: Vilém Kraus\n\n
+        Zdroje informací: \n www.znalecvin.cz, hledamvino.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+    <!--SYLVANSKÉ ZELENÉ-->
+
+    <string name="barva_sylvanskezelene">Žlutozelená.</string>
+    <string name="vune_sylvanskezelene">Pikantní, travnatá, angreštová, mírně kořenitá. Dále dostáváme květy akátu, mineralitu a vegetální tóny.</string>
+    <string name="chut_sylvanskezelene">Plná, extraktivní, mírně kořenitá, neutrální, v mládí s vyšší kyselinkou. </string>
+    <string name="stolovani_sylvanskezelene">Vína jsou výborná pro společenské události, neboť jejich pití neunavuje. Jsou to neutrální vína, která nenarušují chuť jemných jídel. Vhodná jsou
+        k pokrmům z králíka, k drůbeži či vepřovému masu, předkrmům a smetanové omáčce.</string>
+    <string name="popis_sylvanskezelene">Sylvánské zelené je bílá, moštová, starobylá středoevropská odrůda. Do Státní odrůdové knihy ČR zapsaná v r. 1941. Její původ sahá do římských dob a
+        pravděpodobně patřila do okruhu odrůd známých jako „Heunisch„. Postupem času došlo k samovolným mutacím a opylení s ostatními původními odrůdami. V dnešní době genetické studie uvádí
+        původ odrůdy ze samovolného opylení Tramínu červeného x Rakouské bílé, což částečný původ „Hunnic“ nepopírá. V Německu je odrůdou Sylvánské zelené/Silvaner osázeno přes 5 tis. ha a je
+        třetí nejrozšířenější bílou odrůdou za RR a MT. V ČR se pěstuje pouze na 117 ha.\n
+        Hrozen je většinou středně velký, válcový až kuželový, hustý. Bobule středně velká kulatá, zelenožlutá. Dužnina měkká, v chuti nevýrazná.\n
+        Víno mívá vyšší kyseliny, hlavně při nižší cukernatosti. Při větších sklizních jsou mladá vína tvrdá a hrubá. Kyseliny se ale rychle odbourávají a víno může být až fádní. ještě v
+        období mezi válkami sloužilo víno z odrůdy Sylvánské zelené jako běžné, suché, stolní víno k všedním jídlům. Potom odrůdu ze stolů vytlačilo Neuburské a obě dvě Müller Thurgau. Ve
+        vůni jsou chrakterem bylinky, pomeranč, zelené a žluté jablko, v chuti citrusy a banány.\n
+        Povolené synonymum: Sylvánské, Grüner Silvaner.\n
+        Starobylé a původní názvy: Morávka.\n\n
+        Zkratka: SZ\n\n
+        Držitel šlechtitelských práv v ČR: není\n
+        Udržovatel odrůdy v ČR: 605 Šlechtitelská stanice vinařská, s.r.o. 687 37 Polešovice 634, 629 VÚRV Praha-Ruzyně, Výzkumná stanice vinařská 267 18 Karlštejn 98, 749 Ing. Alois Tománek,
+        687 09 Boršice 671, 982 AMPELOS, ŠLECHTITELSKÁ STANICE VINAŘSKÁ ZNOJMO, a.s. 671 24 Vrbovec 274.\n\n
+        Zdroje informací: \n www.znalecvin.cz, hledamvino.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+    </string>
+
+
+
+
 
 
 

@@ -11,6 +11,6 @@ public class DominaActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_domina);
-        getWindow().setStatusBarColor(ContextCompat.getColor(DominaActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(DominaActivity.this,R.color.bckgColor));
     }
 }

@@ -11,6 +11,6 @@ public class HibernalActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hibernal);
-        getWindow().setStatusBarColor(ContextCompat.getColor(HibernalActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(HibernalActivity.this,R.color.bckgColor));
     }
 }

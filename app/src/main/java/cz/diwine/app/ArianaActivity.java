@@ -11,6 +11,6 @@ public class ArianaActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ariana);
-        getWindow().setStatusBarColor(ContextCompat.getColor(ArianaActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(ArianaActivity.this,R.color.bckgColor));
     }
 }

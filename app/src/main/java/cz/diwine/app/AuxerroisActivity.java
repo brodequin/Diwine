@@ -11,6 +11,6 @@ public class AuxerroisActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_auxerrois);
-        getWindow().setStatusBarColor(ContextCompat.getColor(AuxerroisActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(AuxerroisActivity.this,R.color.bckgColor));
     }
 }

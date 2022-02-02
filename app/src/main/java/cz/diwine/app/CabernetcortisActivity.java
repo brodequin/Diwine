@@ -11,6 +11,6 @@ public class CabernetcortisActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_cabernetcortis);
-        getWindow().setStatusBarColor(ContextCompat.getColor(CabernetcortisActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(CabernetcortisActivity.this,R.color.bckgColor));
     }
 }

@@ -11,6 +11,6 @@ public class AgniActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_agni);
-        getWindow().setStatusBarColor(ContextCompat.getColor(AgniActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(AgniActivity.this,R.color.bckgColor));
     }
 }

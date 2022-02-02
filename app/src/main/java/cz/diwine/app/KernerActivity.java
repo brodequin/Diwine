@@ -11,6 +11,6 @@ public class KernerActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_kerner);
-        getWindow().setStatusBarColor(ContextCompat.getColor(KernerActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(KernerActivity.this,R.color.bckgColor));
     }
 }

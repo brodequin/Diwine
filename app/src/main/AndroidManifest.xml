@@ -99,6 +99,84 @@
         <activity
             android:name=".LaurotActivity"
             android:exported="true" />
+        <activity
+            android:name=".LenaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MalverinaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MedeaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MerlotActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MeryActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PortugalActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MuskatmoravskyActivity"
+            android:exported="true" />
+        <activity
+            android:name=".OttonelActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ThurgauActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NativaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NeronetActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NeuburskeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RinotActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RubinetActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RulandskebileActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RulandskemodreActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RulandskesedeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RulenkaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RyzlinkrynskyActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RyzlinkvlaskyActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SauvignonActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SavilonActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SevarActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SvatovavrineckeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SvojsenActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SylvanskezeleneActivity"
+            android:exported="true" />
 
 
 

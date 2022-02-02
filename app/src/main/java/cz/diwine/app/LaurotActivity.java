@@ -11,6 +11,6 @@ public class LaurotActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_laurot);
-        getWindow().setStatusBarColor(ContextCompat.getColor(LaurotActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(LaurotActivity.this, R.color.bckgColor));
     }
 }

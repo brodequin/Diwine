@@ -11,6 +11,6 @@ public class AureliusActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_aurelius);
-        getWindow().setStatusBarColor(ContextCompat.getColor(AureliusActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(AureliusActivity.this,R.color.bckgColor));
     }
 }

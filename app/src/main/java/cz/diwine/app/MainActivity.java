@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity   {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        getWindow().setStatusBarColor(ContextCompat.getColor(MainActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(MainActivity.this, R.color.bckgColor));
         SearchView searchView=  findViewById(R.id.search_bar);
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
 

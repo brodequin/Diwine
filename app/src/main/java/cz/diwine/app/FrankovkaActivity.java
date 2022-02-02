@@ -11,6 +11,6 @@ public class FrankovkaActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_frankovka);
-        getWindow().setStatusBarColor(ContextCompat.getColor(FrankovkaActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(FrankovkaActivity.this,R.color.bckgColor));
     }
 }

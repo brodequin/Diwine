@@ -11,6 +11,6 @@ public class DevinActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_devin);
-        getWindow().setStatusBarColor(ContextCompat.getColor(DevinActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(DevinActivity.this,R.color.bckgColor));
     }
 }

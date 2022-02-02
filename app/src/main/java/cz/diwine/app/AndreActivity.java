@@ -11,6 +11,6 @@ public class AndreActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_andre);
-        getWindow().setStatusBarColor(ContextCompat.getColor(AndreActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(AndreActivity.this,R.color.bckgColor));
     }
 }

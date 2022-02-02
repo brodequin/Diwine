@@ -11,6 +11,6 @@ public class FloriankaActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_florianka);
-        getWindow().setStatusBarColor(ContextCompat.getColor(FloriankaActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(FloriankaActivity.this,R.color.bckgColor));
     }
 }

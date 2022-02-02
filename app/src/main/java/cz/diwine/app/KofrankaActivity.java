@@ -11,6 +11,6 @@ public class KofrankaActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_kofranka);
-        getWindow().setStatusBarColor(ContextCompat.getColor(KofrankaActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(KofrankaActivity.this,R.color.bckgColor));
     }
 }

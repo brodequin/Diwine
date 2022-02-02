@@ -11,6 +11,6 @@ public class AlibernetActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_alibernet);
-        getWindow().setStatusBarColor(ContextCompat.getColor(AlibernetActivity.this,R.color.bckgColorDetail));
+        getWindow().setStatusBarColor(ContextCompat.getColor(AlibernetActivity.this,R.color.bckgColor));
     }
 }
