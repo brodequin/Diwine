@@ -387,6 +387,26 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
                         Intent intent=new Intent(context,SylvanskezeleneActivity.class);
                         context.startActivity(intent);
                     }
+                    if (data[getAdapterPosition()].equals("TRAMÍN ČERVENÝ"))
+                    {
+                        Intent intent=new Intent(context,TramincervenyActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("TRISTAR"))
+                    {
+                        Intent intent=new Intent(context,TristarActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("JOHANNITER"))
+                    {
+                        Intent intent=new Intent(context,JohanniterActivity.class);
+                        context.startActivity(intent);
+                    }
+                    if (data[getAdapterPosition()].equals("SOLARIS"))
+                    {
+                        Intent intent=new Intent(context,SolarisActivity.class);
+                        context.startActivity(intent);
+                    }
 
 
                 }

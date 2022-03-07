@@ -177,6 +177,18 @@
         <activity
             android:name=".SylvanskezeleneActivity"
             android:exported="true" />
+        <activity
+            android:name=".TramincervenyActivity"
+            android:exported="true" />
+        <activity
+            android:name=".TristarActivity"
+            android:exported="true" />
+        <activity
+            android:name=".JohanniterActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SolarisActivity"
+            android:exported="true" />
 
 
 

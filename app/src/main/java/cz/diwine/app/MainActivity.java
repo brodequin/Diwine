@@ -20,6 +20,7 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.animation.RotateAnimation;
 import android.widget.ImageView;
 import android.widget.Toast;
 
@@ -36,10 +37,12 @@ public class MainActivity extends AppCompatActivity   {
 
     String varietyNames[]={"ACOLON","AGNI","ALIBERNET","ANDRÉ","ARIANA","AURELIUS","AUXERROIS","BLAUBURGER",
             "CABERNET CORTIS","CABERNET DORSA","CABERNET MORAVIA","CABERNET SAUVIGNON","CERASON","DĚVÍN","DOMINA","DORNFELDER","ERILON","FLORIANKA",
-            "FRANKOVKA","FRATAVA","HIBERNAL","CHARDONNAY","IRSAI OLIVER","JAKUBSKÉ","KERNER","KOFRANKA","LAUROT","LENA","MALVERINA","MEDEA",
+            "FRANKOVKA","FRATAVA","HIBERNAL","CHARDONNAY","IRSAI OLIVER","JAKUBSKÉ","JOHANNITER","KERNER","KOFRANKA","LAUROT","LENA","MALVERINA","MEDEA",
             "MERLOT","MERY","MODRÝ PORTUGAL","MUŠKÁT MORAVSKÝ","MUŠKÁT OTTONEL","MÜLLER THURGAU","NATIVA","NERONET","NEUBURSKÉ","PÁLAVA","RINOT",
-            "RUBINET","RULANDSKÉ BÍLÉ","RULANDSKÉ MODRÉ","RULANDSKÉ ŠEDÉ","RULENKA","RYZLINK RÝNSKÝ","RYZLINK VLAŠSKÝ","SAUVIGNON","SAVILON","SEVAR",
+            "RUBINET","RULANDSKÉ BÍLÉ","RULANDSKÉ MODRÉ","RULANDSKÉ ŠEDÉ","RULENKA","RYZLINK RÝNSKÝ","RYZLINK VLAŠSKÝ","SAUVIGNON","SAVILON","SEVAR","SOLARIS",
             "SVATOVAVŘINECKÉ","SVOJSEN","SYLVÁNSKÉ ZELENÉ","TRAMÍN ČERVENÝ","TRISTAR","VELTLÍNSKÉ ČERVENÉ RANÉ","VELTLÍNSKÉ ZELENÉ","VERITAS","VESNA","VRBOSKA","ZWEIGELTREBE"};
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

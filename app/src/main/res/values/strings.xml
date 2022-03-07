@@ -1024,31 +1024,87 @@ Držitel šlechtitelských práv v ČR: Ing. Miloš Michlovský.\n\n
         Držitel šlechtitelských práv v ČR: není\n
         Udržovatel odrůdy v ČR: 605 Šlechtitelská stanice vinařská, s.r.o. 687 37 Polešovice 634, 629 VÚRV Praha-Ruzyně, Výzkumná stanice vinařská 267 18 Karlštejn 98, 749 Ing. Alois Tománek,
         687 09 Boršice 671, 982 AMPELOS, ŠLECHTITELSKÁ STANICE VINAŘSKÁ ZNOJMO, a.s. 671 24 Vrbovec 274.\n\n
-        Zdroje informací: \n www.znalecvin.cz, hledamvino.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+        Zdroje informací: \n www.znalecvin.cz, hledamvino.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat,
+        Průvodce vínem 2014-2015
     </string>
 
     <!--TRAMÍN ČERVENÝ-->
 
-    <string name="barva_tramincerveny">Žlutozelená.</string>
-    <string name="vune_tramincerveny">Pikantní, travnatá, angreštová, mírně kořenitá. Dále dostáváme květy akátu, mineralitu a vegetální tóny.</string>
-    <string name="chut_tramincerveny">Plná, extraktivní, mírně kořenitá, neutrální, v mládí s vyšší kyselinkou. </string>
-    <string name="stolovani_tramincerveny">Vína jsou výborná pro společenské události, neboť jejich pití neunavuje. Jsou to neutrální vína, která nenarušují chuť jemných jídel. Vhodná jsou
-        k pokrmům z králíka, k drůbeži či vepřovému masu, předkrmům a smetanové omáčce.</string>
-    <string name="popis_tramincerveny">Sylvánské zelené je bílá, moštová, starobylá středoevropská odrůda. Do Státní odrůdové knihy ČR zapsaná v r. 1941. Její původ sahá do římských dob a
-        pravděpodobně patřila do okruhu odrůd známých jako „Heunisch„. Postupem času došlo k samovolným mutacím a opylení s ostatními původními odrůdami. V dnešní době genetické studie uvádí
-        původ odrůdy ze samovolného opylení Tramínu červeného x Rakouské bílé, což částečný původ „Hunnic“ nepopírá. V Německu je odrůdou Sylvánské zelené/Silvaner osázeno přes 5 tis. ha a je
-        třetí nejrozšířenější bílou odrůdou za RR a MT. V ČR se pěstuje pouze na 117 ha.\n
-        Hrozen je většinou středně velký, válcový až kuželový, hustý. Bobule středně velká kulatá, zelenožlutá. Dužnina měkká, v chuti nevýrazná.\n
-        Víno mívá vyšší kyseliny, hlavně při nižší cukernatosti. Při větších sklizních jsou mladá vína tvrdá a hrubá. Kyseliny se ale rychle odbourávají a víno může být až fádní. ještě v
-        období mezi válkami sloužilo víno z odrůdy Sylvánské zelené jako běžné, suché, stolní víno k všedním jídlům. Potom odrůdu ze stolů vytlačilo Neuburské a obě dvě Müller Thurgau. Ve
-        vůni jsou chrakterem bylinky, pomeranč, zelené a žluté jablko, v chuti citrusy a banány.\n
-        Povolené synonymum: Sylvánské, Grüner Silvaner.\n
-        Starobylé a původní názvy: Morávka.\n\n
-        Zkratka: SZ\n\n
+    <string name="barva_tramincerveny">Zelenožlutá až zlatožlutá.</string>
+    <string name="vune_tramincerveny">Kořenitě medová, divoká růže, fialky, broskev, meruňka, hrozinky, skořice. Některé tramíny se vyznačují aroma exotického ovoce, jako liči, mango či papája,
+        do které se mísí květnaté tóny muškátů a růží.</string>
+    <string name="chut_tramincerveny">Chuť je těžká, plná, velmi kořenná, extraktivní, s nižší kyselostí a s dominantním „parfémovým“ aroma. Pocit na patře a v ústech je jemný, plný, bohatý,
+        hřejivě alkoholický, hutný až olejnatý. Dochuť by měla být příjemná a velmi dlouhá. Nacházíme zde kořenitost typu hřebíček, zelený pepř, skořice. Dále kompotovaného ovoce – broskev,
+        meruňka, zralé jablko, hruška.</string>
+    <string name="stolovani_tramincerveny">Vína hlouběji vychlazená lze podávat jako sklenku aperitivu. Často se nabízejí jako doprovod předkrmů, zejména paštiky z husích jater. Suché Tramíny
+        se doporučují k cibulovému koláči nebo k uzeným rybám, k úhoři. Sladké výběry se zbytkem neprokvašeného cukru se hodí k sýrům s modrou plísní nebo k ovčím či kozím sýrům v závěru stolování.
+        Díky neobvyklému aroma a plnosti chuti po liči patří Tramín k těm málo vínům, která se hodí ke kořeněnému jídlu. Proto lze vína Tramínu podávat i k některým exotickým, silně kořeněným
+        pokrmům asijské kuchyně, případně ke sladkým úpravám masa. Velmi sladké Tramíny se často podávají na závěr stolování ke sladkým zákuskům, jako je tvarohový, nebo švestkový koláč.\n
+    Teplota podávání: 10-12°C</string>
+    <string name="popis_tramincerveny">Tramín červený je tradiční moštová odrůda určená pro výrobu bílých vín. Do Státní odrůdové knihy ČR zapsaná v r. 1941. V ČR relativně rozšířená odrůda,
+        která se pěstuje na 610 ha, což představuje 3,6 % z celkové výměry vinic. Její původ sahá do starověku a pěstoval se na území římské říše. Italové tvrdí, že odrůda vznikla v okolí
+        městečka Termeno (v údolí Adige, cca 2 km pod Bolzanem). Na náměstí v Tramínu (rakouský název městečka) je velká vinotéka s tisícovkami lahví Tramínu červeného z úpatí Dolomitských
+        Alp. Oficiální název ve VIVC je Traminer rot. Genetická stopa Tramínu se nachází v mnoha evropských soudobých odrůdách, což prokazuje její starobylý původ. Rovněž počet synonym a
+        místních názvů je toho dokladem, v těchto se objevují aromatické, chuťové a vzhledové projevy hroznu, či vína, také původ, viz.: Tirolensis (jižní Tyroly), Traminer aromatico, Tramín
+        kořenný (od kořenité chuti), Crvena ružica, Rosentraminer (růžové aroma – od divoké růže) ap.\n
+        Hrozen je malý, kuželový, zahuštěný. Bobule malá, kulatá, šedo-červené barvy, slupka poměrně odolná, dužnina aromatická, sladká s nízkou kyselinou, řídká a tedy dobře lisovatelná.\n
+        Víno velmi kvalitní, aromatické, v chuti kořenité a velmi mohutné. Charakterem dle vyzrálosti hroznů je: divoká růže, med, ovoce broskev, meruňka ap. ve vůni, v chuti potom tóny různého
+        koření typu hřebíček, zelený pepř, skořice, kompotovaného ovoce – broskev, meruňka, zralé jablko, hruška. Jedinou nevýhodou vína je nízká kyselina a suchá vína z této odrůdy se zdají
+        prázdná v chuti, protože absentuje jak kyselina, tak zbytkový cukr, které spolu vytvářejí největší chuťový zážitek v ústech. Proto největší obliby dosahuje Tramín červený ve třídě
+        polosuchých a polosladkých vín.\n
+        Povolené synonymum v ČR: Tramín, Gewürtztraminer.\n\n
+        Doporučená zkratka: TČ.\n\n
         Držitel šlechtitelských práv v ČR: není\n
-        Udržovatel odrůdy v ČR: 605 Šlechtitelská stanice vinařská, s.r.o. 687 37 Polešovice 634, 629 VÚRV Praha-Ruzyně, Výzkumná stanice vinařská 267 18 Karlštejn 98, 749 Ing. Alois Tománek,
-        687 09 Boršice 671, 982 AMPELOS, ŠLECHTITELSKÁ STANICE VINAŘSKÁ ZNOJMO, a.s. 671 24 Vrbovec 274.\n\n
-        Zdroje informací: \n www.znalecvin.cz, hledamvino.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat, Průvodce vínem 2014-2015
+        Udržovatel odrůdy v ČR: 603 Šlechtitelská stanice vinařská Velké Pavlovice, a.s. 691 06 Velké Pavlovice 565, 605 Šlechtitelská stanice vinařská, s.r.o. 687 37 Polešovice 634, 629 VÚRV
+        Praha-Ruzyně, Výzkumná stanice vinařská 267 18 Karlštejn 98, 749 Ing. Alois Tománek, 687 09 Boršice 671, 982 AMPELOS, ŠLECHTITELSKÁ STANICE VINAŘSKÁ ZNOJMO, a.s. 671 24 Vrbovec 274.\n\n
+        Zdroje informací: \n www.znalecvin.cz, hledamvino.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat,
+        Průvodce vínem 2014-2015
+    </string>
+
+    <!--TRISTAR-->
+
+    <string name="barva_tristar">Žlutozelená.</string>
+    <string name="vune_tristar">Květinová, ovocná.</string>
+    <string name="chut_tristar">Ovocná.</string>
+    <string name="stolovani_tristar"></string>
+    <string name="popis_tristar">Tristar je bílá středně raná až pozdní moštová odrůda. Šlechtění: (Ryzlink rýnský × Sylvánské zelené) × Rulandské bílé. Od 28. 12. 2013 je zapsaná ve Státní odrůdové
+        knize České republiky. Dává víno výborné kvality, žlutozelené barvy, ovocné chuti, květinové a ovocné vůně, harmonické, svěží, jemně aromatického typu. List malý, pětiúhelníkovitého tvaru,
+        profil čepele tvaru V. Hrozen malý, středně hustý až hustý. Bobule malá, kruhovitého tvaru. Barva slupky žlutozelená, dužnina bez antokyanového zbarvení. Při pěstování pod fungicidní ochranou
+        odrůda středně odolná proti napadení plísní révy, méně odolná proti napadení padlím révy a středně odolná proti napadení plísní šedou. Odrůda středně odolná sprchávání. Výnos hroznů nízký,
+        cukernatost moštu vysoká až velmi vysoká.\n\n
+        Zdroje informací: \n hledamvino.cz, www.znalecvin.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat,
+        Průvodce vínem 2014-2015
+    </string>
+
+    <!--JOHANNITER-->
+
+    <string name="barva_johanniter">Žlutozelená, zlatožlutá.</string>
+    <string name="vune_johanniter">Citrusy (grep), meruňky, meloun, hrušky, med a mandarinkové tóny.</string>
+    <string name="chut_johanniter">Ovocná, meloun, hrušky a mandarinkové tóny.</string>
+    <string name="stolovani_johanniter"></string>
+    <string name="popis_johanniter">Johanniter je bílá interspecifická odrůda, vhodná pro ekologickou výrobu hroznů. Byla vyšlechtěná v roce 1968 ve Freiburgu (SRN). Kříženec odrůd (Ryzlink rýnský x
+        Seyve-Villard 12481) x (Rulandské šedé x Chrupka). Hrozen je středně velký, středně hustý až hustý, válcovitý s krátkými křidélky. Bobule zlatožlutá, s pevnou slupkou, na vrcholu s typickou
+        tmavou tečkou. List je středně velký, 5-laločnatý se středně hlubokými výkroji. Při pětiletém pozorování (od r. 1993) odrůdy na klasickém stanovišti ve Švýcarsku s vysokým úhrnem srážek
+        (přes 1200 mm), prokázala odrůda střední rezistenci proti peronospoře, dobrou odolnost proti padlí a botrytidě, slabší odolnost je proti červené spále. Odrůda je středně raná, dozrává ve
+        druhé polovině září. Víno je ovocitého typu podobné Ryzlinku rýnskému a Rulandskému šedému. Dává vyší výnosy než RR a dosahuje i vyšší cukernatosti při nižších kyselinách.  Charakterní jsou
+        melounové, hruškové a mandarinkové tóny ve vůni i chuti.\n
+        Odrůda není zapsaná v české  Státní odrůdové knize.\n\n
+        Zdroje informací: \n www.znalecvin.cz, hledamvino.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat,
+        Průvodce vínem 2014-2015
+    </string>
+
+    <!--SOLARIS-->
+
+    <string name="barva_solaris">Žlutozelená až žlutá.</string>
+    <string name="vune_solaris">Muškátovo-ovocná, květinová, bylinná, kořenitá, ananas, lískový oříšek.</string>
+    <string name="chut_solaris">Ovocná, bylinná, kořenitá.</string>
+    <string name="stolovani_solaris"></string>
+    <string name="popis_solaris">Solaris je interspecifická (PIWI) bílá odrůda révy vinné. Byla vyšlechtěna v Ústavu vinohradnictví ve Freiburgu (SRN). Kříženec Merzling /Seyvel blanc x (RR x RŠ)/ x
+        GM 6493 (Saperavnyj x MO). Hrozen je válcového tvaru, středně velký, bobule střední kulatá. Listy jsou intenzívně lesklé. Velmi dobrá odolnost vůči peronospoře, dobrá proti padlí. Náchylná
+        proti hnilobám, v plné zralosti napadají hrozen vosy a mouchy. Zralost již v první polovině září, dosahuje vysoké cukernatosti, běžně přes 24°NM. Víno je plné, ovocné tóny ve vůni i chuti.
+        Není zapsaná ve Státní odrůdové knize ČR.\n\n
+        Zdroje informací: \n www.znalecvin.cz, hledamvino.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat,
+        Průvodce vínem 2014-2015
     </string>
 
 
