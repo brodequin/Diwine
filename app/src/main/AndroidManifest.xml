@@ -189,6 +189,9 @@
         <activity
             android:name=".SolarisActivity"
             android:exported="true" />
+        <activity
+            android:name=".VeltlineskecerveneraneActivity"
+            android:exported="true" />
 
 
 

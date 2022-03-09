@@ -1107,6 +1107,27 @@ Držitel šlechtitelských práv v ČR: Ing. Miloš Michlovský.\n\n
         Průvodce vínem 2014-2015
     </string>
 
+    <!--VELTLÍNSKÉ ČERVENÉ RANÉ-->
+
+    <string name="barva_veltlinskecervenerane">Zlatožlutá</string>
+    <string name="vune_veltlinskecervenerane">Neutrální, při vyšší cukernatosti moštů se objevují mandlové až medové tóny. Zahradní ovoce, chlebnatost.</string>
+    <string name="chut_veltlinskecervenerane">Chuť je plná, jemně ovocitá až kořenitá, širší a extraktivní, s jemnou kyselinkou ba se středním až vyšším obsahem alkoholu. Podobně jako ve
+    vůni - zahradní ovoce, mandle, med, chlebnatost.</string>
+    <string name="stolovani_veltlinskecervenerane">Většinou se vína Veltlínského červeného raného doporučují k běžné denní stravě, například k masu s omáčkami, hutným polévkám a studeným mísám.</string>
+    <string name="popis_veltlinskecervenerane">Veltlínské červené rané je starobylá bílá odrůda révy vinné. Její původ, dle pramenů, je pravděpodobně v Itálii nebo v Rakousku.
+        Na území českých zemí se o rozšíření odrůdy zasloužil August Wilhelm baron von Babo (1827 – 1894) zakladatel a první ředitel vinařské školy v Klosterneuburgu (1860 – 1893 Wien),
+        dnešní  Vyšší odborná škola a výzkumný ústav pro vinařství a ovocnictví. Příjmení „Babo“ se odrazilo v mnoha synonymech odrůdy v různých zemích. V několika zemích nese název slova
+        Malvasia – Malvasier. Do Státní odrůdové knihy ČR byla odrůda zapsaná v roce 1952. V ČR se pěstuje VČR na cca 210 ha ploch.
+        Hrozen je velký, kuželový s křídly. Bobule je středně velká, kulatá, světle červená. Dužnina je lehce aromatická, řídká, dobře lisovatelná. Víno bývá lehčí, méně extraktivní, ovocného
+        charakteru. Při vyšších přívlastcích, redukovaném výnosu a vhodně zvolené technologii zpracování lze dosáhnout plnějších vín, která lze využít i pro delší ležení.
+        Povolené synonymum v ČR: Malvasier, Malvasia.\n\n
+        Doporučená zkratka: VČR \n\n
+        Držitel šlechtitelských práv v ČR: není \n
+        Udržovatel odrůdy v ČR: kód 605 Šlechtitelská stanice vinařská, s.r.o. 687 37 Polešovice 634.\n\n
+        Zdroje informací: \n www.znalecvin.cz, hledamvino.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat,
+        Průvodce vínem 2014-2015
+    </string>
+
 
 
 
@@ -1255,6 +1276,420 @@ Držitel šlechtitelských práv v ČR: Ing. Miloš Michlovský.\n\n
    Je trojsytný alkohol nasládlé chuti, který dodává vínu plnou a hladkou chuť. Vzniká ve víně jako vedlejší produkt alkoholového kvašení.\n\n
    <b>Grappa</b>\n
    Destilát získaný ze zkvašených matolin po lisování bílých odrůd nebo z matolin po vylisování červeného vína. Jeho hrubá chuť se zjemňuje ležením. Pojmenování grappa se užívá v Itálii, ve Francii se tento destilát nazývá marc.\n\n
+<b>Gustativní</b>\n
+Chuťový (vjem).\n\n
+<b>Histamin</b>\n
+Histamin je chemicky 4-imidazolethylamin. Nachází se zvláště v jídlech bohatých na proteiny a kvašených nápojích. Byl historicky prvním popsaným mediátorem alergických reakcí. Patří do skupiny biogenních aminů, které vznikají dekarboxylací aminokyselin určitými mikroorganizmy. Nejvíce vznikají při kvašení moštu s větším přídavkem řepného cukru. Vedle histaminu se ve víně nachází spermidin a tyramin. Studie biogenních aminů není zajímavá jen z hlediska jejich toxicity, ale také jako indikátor kvality výrobku. Vína produkovaná za hygienických podmínek nemusí biogenní aminy vůbec obsahovat. Podle nejnovějších výzkumů byl navržen limit pro histamin v alkoholických nápojích, a to 5-10 mikrogramů/litr. Některé země, jako např. USA, Švédsko, Rakousko, mají již maximální limity pro histamin zavedeny.\n\n
+<b>Hmatový vjem</b>\n
+I víno se může hodnotit hmatem - vjem tlaku bublinek v ústech u šumivých vín a nebo např. také viskozita, vazkost a hutnost vín.\n\n
+<b>Hnědnutí vína</b>\n
+Víno přijímá vzdušný kyslík a není-li dostatečně zasířeno, pak hnědne. Viz oxidace vína.\n\n
+<b>Hodnocení vína</b>\n
+Při sensorickém hodnocení vína se smyslové vjemy – čistota, barva, vůně, chuť, celková harmonie – převádějí v závislosti na použitém schématu hodnocení na číselné vyjádření, které dovoluje srovnávání různých vín.\n\n
+<b>Hořknutí vína</b>\n
+Vyskytuje se hlavně u vín červených s vysokým obsahem tříslovin a nízkým obsahem kyselin. Mění se chuť vína, rozpadá se červené barvivo, případně se uvolňuje oxid uhličitý. Víno je třeba ihned přetočit, zasířit a filtrovat přes bakteriální filtr , případně snížit obsah tříslovin čiřením.\n\n
+<b>Hroznová léčba</b>\n
+Pravidelné požívání hroznů má příznivý vliv na trávicí ústrojí, jaterní funkce, krevní oběh a na výměnu látkovou. Hroznovou kúrou se léčí: nechutenství, úprava žaludeční sekrece, chronické zácpy a koliky, záněty ledvin a průdušek, chudokrevnost, podagra, jaterní choroby, nervové choroby a užívá se při rekonvalescenci. Podávají se 3 dávky denně: na lačný žaludek, 2 hodiny před obědem, 3 hodiny po obědě. Dávky se stupňují od 250 g do 1 kg na jednu dávku. Léčba trvá 3 týdny.\n\n
+<b>Hroznová šťáva</b>\n
+Pro výrobu hroznové šťávy se užívají mošty odrůd s nižším obsahem kyselin i cukrů. Mošty se upravují čiřením, filtrací a sterilováním za studena nebo za tepla. Často se mošty zahušťují a uchovávají v zahuštěném stavu. Pro přípravu hroznové šťávy se pak ředí vodou. Hroznovou šťávu nelze použít k výrobě vína.\n\n
+<b>Hroznový mošt</b>\n
+Podle nařízení Rady (ES) č. 1493/1999 definován jako tekutý neředěný produkt získaný z čerstvých vinných hroznů, u kterého nepřekračuje obsah alkoholu 1 % objemové.\n\n
+<b>Hutné víno</b>\n
+Víno pevné struktury, dostatečného extraktu, vyrovnané viskozity, výraznějšího charakteru. O velmi h. vínech se říká, že se dají kousat.\n\n
+<b>Chaptalisation</b>\n
+Zvyšování obsahu alkoholu ve víně cukřením moštů sacharózou nebo zahuštěným rektifikovaným moštem.\n\n
+<b>Chlebovina</b>\n
+Vůně a chuť vyzrálých vín připravovaných oxidativní technologií jako tomu je např. u vín tokajských.\n\n
+<b>Jakostní víno a jakostní víno s přívlastkem</b>\n
+Je to o třídu vyšší kategorie, než stolní či zemské víno. Může pocházet pouze z vinic vhodných pro získávání jakostního vína. Výše sklizně je omezena vinařském zákonem. Cukernatost moštu musela být nejméně 15 stupňů cukernatosti NM a cukernatost moštu mohla být zvýšena přicukřením.
+Jakostní víno musí být před uvedením do oběhu zatříděno státním orgánem (SZPI). Přidělené evidenční číslo jakosti musí být uvedeno na etiketě. Jakostní víno lze označit dovětkem \"známkové\" (pokud je vyrobeno ze směsi - max tří - odrůd), případně \"odrůdové\". Etiketa může kromě označení oblasti obsahovat také název podoblasti, vinařské obce a vinařské trati.
+Kromě jakostního vína existuje také jakostní víno s přívlastkem. Mošt na výrobu těchto vín se nesmí přislazovat. Jakostní víno s přívlastkem se dělí na kategorie kabinetní víno, pozdní sběr, výběr z hroznů, výběr z bobulí, výběr z cibéb, ledové víno a slámové víno.\n\n
+<b>Jednoduché víno</b>\n
+Víno prosté, nekomplikované, je snadné jej pít a je vhodné k běžnému pití. Je zpravidla lehčí, srovnané ve všech svých složkách.\n\n
+<b>Jiskra vína</b>\n
+Výraz pro nejvyšší čistotu vína.\n\n
+<b>Juchtovina</b>\n
+Výraz pro souhrnný projev buketních i chuťových látek vznikajících při dlouhodobém uložení vína v příliš teplém prostředí.\n\n
+<b>Kabinetní víno</b>\n
+Kategorie vín vzniklých z moštů, které dosáhly 19-21 ° cukernatosti a u nichž nebylo přikročeno ke zvyšování obsahu alkoholu cukřením. Cukernatost a hmotnost sklizených hroznů ověřuje ČZPI.\n\n
+<b>Karafa</b>\n
+Skleněná nádoba baňatého tvaru se zúženým hrdlem, někdy opatřená skleněnou zátkou. Slouží k dekantování starších ročníků červených vín. Někde je zvykem servírovat v karafách stolní vína volně točená ze sudů, malým karafám se říká karafon.\n\n
+<b>Komplexní víno</b>\n
+Označuje víno plné, bohaté, vyvážené a harmonické, a to jak ve vůni, tak v chuti.\n\n
+<b>Koňský pot</b>\n
+Vada vína, také někdy označovaná jako „vůně koňského sedla“, se vyskytuje hlavně u vín z jižních krajin. Tato vůně, podle posledních výzkumů vzniká činností kvasinkových mikroorganizmů rodu Brettanomyces, které produkují těkavé kyseliny ve vínech s vyšším obsahem zbytkového cukru. Vyskytuje se ve vínech skladovaných ve starších sudech typu barrique. Rozšíření Brattanomyces podporuje také nedostatečná sanitace při výrobě vína, při ošetřování sudů a výrobního zařízení. Slabší vůně koňského potu je vyhledávána některými spotřebiteli.\n\n
+<b>Korek</b>\n
+K výrobě korkových zátek se užívá korkové pletivo, které se tvoří jako epidermální vrstva vzduchem naplněných buněk na kmenech korkových dubů (Quercus suber), které se pěstují v jihozápadní Evropě, hlavně v Portugalsku. Nejlepší jakosti se dosahuje ze stromů 50-100 let starých. Sklízí se jednou za 8-10 let a z jednoho stromu se sklidí asi 600 kg korkové kůry. Stromy poskytují sklizeň až 200 let. Hlavní součástí korku je suberin, který vytváří elasticitu a obsahuje vosk způsobující neprostupnost pro tekutiny. Nevhodným skladováním korkové kůry vytvářejí plísně nepříjemně působící látky, hlavně chloranisol, způsobující obávanou příchuť po korku ve víně. K výrobě zátek se užívá i korková drť, případně překrytá ploškami přírodního korku.\n\n
+<b>Koštýř</b>\n
+Skleněná násoska na odebírání vína ze sudu, která je různě tvarovaná.\n\n
+<b>Krátké víno</b>\n
+Víno s krátkou perzistencí chuťového vjemu, což bývá u lehkých, případně málo kyselých vín.\n\n
+<b>Krvácení</b>\n
+Fr. Saignée, jedna z metod přípravy růžových vín. Po podrcení hroznů se nechává rmut určitou dobu naležet a ze slupek modrých hroznů se uvolňuje barvivo - hrozny krvácí. Volba doby krvácení je záležitostí sklepmistrovy zkušenosti.\n\n
+<b>Křísové kvasinky</b>\n
+Působením křísotvorných kvasinek, které patří k rodům Candida, Pichia, Hansenula a dalším se mění za přístupu vzduchu k hladině vína alkohol na ethanal nebo acetaldehyd za vzniku šedobílé kožky plující na hladině vína. Současně se vyvíjí nepříjemný ostrý zápach a škrábavá chuť.\n\n
+<b>Kulaté víno</b>\n
+Víno s dostatečnou plností, která je projevem vyššího obsahu alkoholu , extraktu a úměrných kyselin se jeví jako velmi vyrovnané ve všech složkách a přitom žádná nevyniká. Nezřídka může být svou vyrovnaností a kulatostí až nudné.\n\n
+<b>Kvasinky vinné</b>\n
+Jsou mikroskopické, bezchlorofylové, jednobuněčné organizmy, které se řadí mezi houby. Podle E. Minárika jsou u nás nejvíce rozšířeny ze sporogenních kvasinek druhy Saccharomyces cerevisiae, které naprosto převládají. Pak S. oviformis, S. uvarum, S. carlsbergensis, S. pastorianus, S. bayanus, Torulopsis rosei, Hansenula anomala. Z nesporogenních Kloeckera apiculata, Candida pulcherima, C. mycoderma. Kvasný proces zahajují obvykle kvasinky apikulátní, vytvářející zvláštní vůně. Nesnášejí vyšší množství etanolu (4-5 %), pak nastupují S. cerevisiae s vysokou produkci ethanolu. V praxi se ustálilo užívání čistých kultur, které jsou v určitých vlastnostech specializované a prodávají se jako suché preparáty. Vývoj ve šlechtění kvasinek je bouřlivý a každoročně se objevují nové kvasniční kmeny se speciálními vlastnostmi, zaměřenými na určité typy vín.\n\n
+<b>Kvasný buket</b>\n
+Mladá vína se vyznačují určitou dobu vůní po kvasnicích. Bývá to zvláště tehdy, když se nepoužívají čisté kultury kvasinek a kvašení se dlouho táhne.\n\n
+<b>Kvašení jablečno-mléčné</b>\n
+Přeměna kyseliny jablečné na kyselinu mléčnou a oxid uhličitý činností mléčných bakterií.\n\n
+<b>Kyselina askorbová</b>\n
+Je obsažena v hroznech a v moštech v množství kolem 50 mg/l. Askorbová kyselina - vitamin C - během kvašení mizí. Je-li přidána do vína, slučuje se rychle s kyslíkem za vzniku okysličené vody. Teoreticky víno nasycené kyslíkem na 8 mg/l spotřebuje 44 mg kys. askorbové, vytvoří se 8,5 mg okysličené vody, kterou lze redukovat 16 mg SO2. Maximální povolený přídavek 15 g/hl kyseliny askorbové. Běžně se užívá v rozmezí 4-8 g/h,l většinou před lahvováním k zábraně oxidačního šoku. K.askorbová zabraňuje do jisté míry zákalům z nadbytku železa.\n\n
+<b>Kyselina citronová</b>\n
+Kyselina citronová je trikarboxylová kyselina, která se vyskytuje již v nezralých bobulích hroznů. Zráním se její obsah nemění. Obsah kyseliny citronové v moštu bývá jen cca 100-300 mg/l. V hroznech napadených ušlechtilou hnilobou a v ledových vínech může obsah kyseliny citronové přesáhnout i 600 mg/l. Množství je odvislé od odrůdy. Vína z jižních oblastí ji obsahují obvykle více. Kyselina citronová, byla považována za nejstálejší kyselinu vína a jejím přidáním se zlepšovala kvalita vína. Mdlé a málo kyselé vína se přidáním kyseliny citronové zlepšila, ale mohou ji odbourat mléčné bakterie z rodu Leuconostoc, které ji rozkládají na kyselinu mléčnou, octovou a jiné produkty. Podle nařízení Komise (ES) č. 1622/2000 se může kyselina cintonová přidávat pouze do např. stolních či šumivých vín a to max. 1 g/l.\n\n
+<b>Kyselina jablečná</b>\n
+Patří k hlavním složkám révového moštu a tvoří v severních vinařských oblastech nejvyšší podíl obsahu titrovatelných kyselin. Při zrání hroznů se jí podstatná část snižuje. V mladém víně se odbourává biologickou činností mléčných bakterií za vzniku kyseliny mléčné a oxidu uhličitého.\n\n
+<b>Kyselina jantarová</b>\n
+Tvoří se během bouřlivého kvašení jako vedlejší produkt z kyseliny glutamové nebo pyrohroznové.\n\n
+<b>Kyselina metavinná</b>\n
+Monoester kyseliny vinné, používaný ke stabilizaci vinného kamene a k zabránění vzniku krystalů. Účinnost je omezená (půl roku). Povolené množství 0,1 g/l.\n\n
+<b>Kyselina mléčná</b>\n
+Vzniká již při kvašení, zvláště při vyšší teplotě, dále přeměnou kyseliny jablečné v období vývoje mladých vín, pokud nebylo použito vyšší zasíření. Toho se využívá, zvláště v technologii červených vín, kdy se jejich chuť zjemňuje biologickým odbouráváním kyselin (BOK). Mléčné bakterie mění ostře chutnající kyselinu jablečnou na zaoblenější kyselinu mléčnou a oxid uhličitý.\n\n
+<b>Kyselina ocelová</b>\n
+Ve vínech některých pozdních odrůd révy je mnoho kyseliny vinné, která vytváří ve zvýšeném množství tvrdou, až jakoby kovovou příchuť ve víně. Tentýž pocit může vzniknout při předávkování kyseliny vinné při dokyselování vín některých ročníků. Povolený přídavek je 1 g/l.\n\n
+<b>Kyselina octová</b>\n
+Ve víně je nežádoucí a vzniká především oxidací etanolu. Do vína ale může být zavlečena již hrozny. Malé množství může vzniknout i činností kvasinek bez přístupu vzduchu. Patří mezi těkavé kyseliny.\n\n
+<b>Kyselina sírová</b>\n
+Sírová kyselina H2SO4 vzniká sloučením oxidu siřičitého a vody v nádobách ošetřovaných spalováním sirných řezů. Projevuje se ostrou ostře kyselou drsnou příchutí, zjevnou na jazyku a zubech. Podle potravinářského kodexu je považováno víno s obsahem kyseliny sírové vyšším než 0,92 g na litr za závadné. V ČR zatím množstvo kyseliny sírové ve víně není upraveno.\n\n
+<b>Kyselina vinná</b>\n
+Většinu obsahu kyselin ve víně tvoří kyseliny vinná a jablečná. Kyselinu vinnou kvasinky nenapadají, ale během kvašení se část obsahu vysráží jako vinný kámen vznikem etanolu, který pozměňuje její rozpustnost. Další vysrážení vinného kamene nastává po ochlazení vína. Obsah kyseliny vinné se dá snížit odkyselováním.\n\n
+<b>Kyseliny moštu a vína</b>\n
+V révovém moštu jsou nejvíce zastoupeny kyselina jablečná a kyselina vinná, které přecházejí do vína. Obsah kyselin se zjišťuje titrací louhem. Obsah titrovatelných kyselin se udává v přepočtu na kyselinu vinnou ve středoevropských vinařských oblastech. Ve Francii a dalších jižních zemích v přepočtu na kyselinu sírovou. Francouzské údaje o obsahu kyselin je třeba násobit 1,53, abychom je mohli srovnávat s našimi údaji, a obráceně je třeba násobit 0,65. Při titraci se spolustanoví i kyselé soli, hlavně vinan draselný. V moštu je dále obsažena kyselina citronová, jantarová, glykolová, šťavelová. K.jablečná vzniká v procesu fotosyntézy a zpočátku zrání je jí v moštu více nežli k.vinné. K. jablečná se na keřích odbourává oxidací nejrychleji za slunečného a suchého počasí v listech dobře osvětlených. K. vinná vzniká z glukózy a vytváří s kationty vinný kámen. Proto je ke konci zrání v bobulích více k. vinné vázané. Při kvašení a po něm se obsah kyselin snižuje vypadnutím vinného kamene a rozkladem k. jablečné mléčnými bakteriemi za vzniku k. mléčné a CO2, nepatrně se zvýší obsah kyselin vznikem k. jantarové a k. těkavých, hlavně k. octové.\n\n
+<b>Lahvová zralost</b>\n
+Po nalahvování se víno v láhvi dále vyvíjí, což závisí na odrůdě, jakostní kategorii, teplotě uložení a jakosti i délce korkové zátky. Působí na to i půdní podmínky vinic a ročník. Z písčitých půd zraje víno rychleji nežli z hlinitých, z dobrých ročníků rychleji nežli z ročníků s vyšším množstvím kyselin. Nejdéle trvá vývoj láhvové zralosti u vín ze sudů barrique. Nástup lahvové zralosti přichází nejdříve za 3-5 měsíců, středně dlouho za 1-2 roky a u vín barrique za 3-4 roky.\n\n
+<b>Lahvové víno</b>\n
+Víno se v láhvi podává a prodává spotřebiteli již přes tisíc let. Podle předpisů ES smí být víno uvedeno do oběhu pouze v obalech následujících objemů: 0,1 l, 0,25 l, 0,375 l, 0,5 l, 0,75 l, 1,0 l, 1,5 l, 2,0 l a větších. Podle celního sazebníku ČR a EU se rozlišuje víno v obalech do 2 litrů a nad 2 l. Takže k tzv. lahvovém vínu podle celních předpisů se řadí i víno balené v papírových kartonech o objemech 1,0 l, 1,5 l a 2,0 l a víno v obalech o stejném objemu v PET-láhvích. V obou případech se však jedná zpravidla o víno nejnižší kvality, které odpovídá i cena.\n\n
+<b>Ledové víno</b>\n
+Stejně jako ostatní vína s přívlastkem je lze vyrábět pouze po ověření cukernatosti SZPI. Vyrábí se lisováním zmrzlých hroznů sklizených při teplotě alespoň – 7 oC a získaný mošt musí vykazovat alespoň 27 stupňů cukernatosti. Hrozny při lisování nesmí rozmrznout, proto zůstane část vody nevylisována v hroznech ve formě ledových krystalů.
+Ledová vína bývají velmi extraktivní, sladká a jsou poměrně vzácná a proto drahá.\n\n
+<b>Lehké víno</b>\n
+Hlavní složky vína – extrakt, alkohol , kyseliny vytvářejí chuťový vjem plnosti nebo prázdnoty, lehkosti nebo těžkosti vína. Výraz lehké víno se vztahuje na vína s nižším obsahem alkoholu , která mají současně i nižší množství extraktu. Lehká vína mohou být velmi harmonická, pitelná a jsou osvěžujícím nápojem během dne buď samotná nebo ředěná vodou.\n\n
+<b>Letní víno</b>\n
+Lehčí, suché víno s dostatkem kyselin, podávané často k jídlům z chřestu.\n\n
+<b>Letošní víno</b>\n
+Víno, které smí být uváděno do oběhu pod tímto označením do konce hospodářského roku, ve kterém byly sklizeny hrozny k jeho výrobě, tj. do 31. 7. roku bezprostředně následujícího po sklizni.\n\n
+<b>Likérové víno</b>\n
+Je definováno v příloze I nařízení Rady (ES) č. 1493/1999 jako výrobek, který vykazuje skutečný obsah alkoholu 15 až 22 % obj. a celkový obsah alkoholu nejméně 17,5 % obj. Musí být získán z částečně zkvašeného hroznového moštu a/nebo z vína za přídavku destilátu z vína nebo z produktů révy vinné a zahuštěného hroznového moštu.\n\n
+<b>Macerace oxidem uhličitým (karbonická macerace)</b>\n
+Je to jeden z nejstarších způsobů získávání červených vín nakvášením neporušených nebo jen částečně narušených bobulí plovoucích v kvasícím moštu bez přístupu vzduchu. Červená vína se zvláštními, reduktivními vůněmi se pijí mladá (Beaujolais).\n\n
+<b>Merkaptany</b>\n
+Thioalkoholy, sirné deriváty uhlovodíků. Vznikají reakcí alkoholů a sirných sloučenin, např. sirovodíku H2S. Silně zapáchají. Pokud se zabudují do vína, je jejich odstranění velmi problematické. Viz též sirka ve víně.\n\n
+<b>Mosty vína (zevnitř na sklenici)</b>\n
+Vína s vyšším obsahem alkoholu tvoří po zakroužení sklenicí pomalu stékající oblouky.\n\n
+<b>Moštoměry</b>\n
+Jsou to areometry konstruované k měření hustoty moštu při určité teplotě. Český normalizovaný moštoměr udává kg cukru ve 100 l moštu při 15 °C. Při 10 °C je korekce -0,3 °NM a při 20 °C +0,3 °NM. V Rakousku se užívá moštoměr klosterneuburský, který udává kg cukru ve 100 kg moštu. V Německu se užívá moštoměr Oechslův, což je zkrácená specifická hmotnost moštu. Srovnání moštoměrů: 20,2 °NM = 17,9 °KMW = 88 °Oe. Při cukření moštů podle NM se přidá 1,1 kg cukru ke zvýšení o 1° na 100 l moštu. Podle KMW se přidá 1,25 kg na 100 l moštu a podle Oe se přidá 0,24 kg na 100 litrů moštu. Orientační přepočty: 1. °Oe = 3,845 x °NM + 10,8 2. °KMW = 0,732 x °NM + 3,2.\n\n
+<b>Možný obsah alkoholu</b>\n
+Počet objemových jednotek čistého alkoholu při 20 stupních Celsia, které mohou vzniknout úplným prokvašením zbývajících cukrů obsažených ve výrobku.\n\n
+<b>Myšina</b>\n
+Bakteriální onemocnění vín, většinou s nízkým obsahem kyselin a nedostatečně sířených, vystavených oxidaci a s vysokým pH.\n\n
+<b>Nádoby na víno</b>\n
+Dřívější tradiční sudy jsou nahrazovány nádobami nerezovými nejrůznější konstrukce i velikosti a s odpovídající armaturou podle účelu nádoby. Většinou jsou zařízené k chlazení nebo oteplování vína. Postupně se opouštějí nádoby ocelové uvnitř opatřené nátěry, sklolaminátové nebo plastové. Sudovina se užívá hlavně k ležení a zrání červených vín.\n\n
+<b>Nedostatky vín</b>\n
+Rozumí se tím přirozenou cestou vzniklý nedostatek nebo přebytek některé složky. Nejčastějšími nedostatky je nízká cukernatost hroznů a nižší obsah alkoholu i extraktu ve víně. Nedostatkem je i přebytek kyselin, hlavně kyseliny jablečné.\n\n
+<b>Neharmonické víno</b>\n
+Převažuje-li některá z významných složek vína tak, že nepříjemně vyniká nad ostatní a způsobuje tím nepříjemný pocit při ochutnání vína, vzniká disharmonie – víno je neharmonické.\n\n
+<b>Nemoci vín</b>\n
+Změny ve víně způsobené napadením vína mikroorganizmy, hlavně bakteriemi: octění vína, vláčkovatění, máselné, manitové a mléčné kvašení, hořknutí červených vín, křís.\n\n
+<b>Netěkavé kyseliny</b>\n
+Po oddestilování těkavých kyselin v proudu vodní páry, zůstávají ve zbytku kyseliny netěkavé. Titrovatelné netěkavé kyseliny vína se zjišťují odečtením obsahu těkavých kyselin od obsahu veškerých titrovatelných kyselin.\n\n
+<b>Netypické tóny stárnutí</b>\n
+Vyskytuje se u bílých vín. Příčinou je 2-aminoacetofenon v množství vyšším nežli 0,5 mg/l, který vzniká při stresu révy suchem a nedostatkem dusíku nebo při nadměrném síření při zpracování hroznů. Důležitá je regulace úrody hroznů, případně omezení zatrávnění vinice.\n\n
+<b>O.I.V.</b>\n
+Office International de la Vigne et du Vin. Mezinárodní úřad pro révu a víno. Vznikl v roce 1924, Československo se stalo řádným členem v roce 1936. 17. března 2004 se konalo ustavující valné shromáždění nové nástupnické organizace - Organisation Internationale de la Vigne et du Vin (Mezinárodní organizace pro révu a víno).\n\n
+<b>Oblasti vinařské</b>\n
+Dle vinařského zákon 321/2004 Sb. 1 jsou v ČR dvě vinařské oblasti: Čechy a Moravy. Vinařská oblast Čechy se dělí na podoblasti mělnickou a litoměřickou. Vinařská oblast Morava se dělí na podoblasti znojemskou, mikulovskou, velkopavlovickou a slováckou.\n\n
+<b>Obsah alkoholu</b>\n
+Podle nařízení Rady (ES) č. 1493/1999 se rozlišuje skutečný, možný, celkový a přirozený obsah alkoholu. Každý z nich se vyjadřuje v % objemových nebo hmotnostních.\n\n
+<b>Oceňování vína</b>\n
+Termín, který se užíval pro senzorickou kontrolu jakosti vína v období socialismu. V současné době je senzorická kontrola součástí celkové kontroly jakosti včetně analytického rozboru a kontroly při zpracování hroznů na vína s přívlastkem. Viz zatřídění vína.\n\n
+<b>Octovatění</b>\n
+Víno má ostře kyselou chuť a vůni po octu. Obsahuje zvýšené množství těkavých kyselin - nad 1,1 g/l u bílých a 1,2 g/l u červených vín. Je to nejtěžší onemocnění vína, které nelze vyléčit. Při lehkém případu víno sterilně zfiltrovat, pak scelit se zdravým vínem.\n\n
+<b>Odalkoholizované víno</b>\n
+Víno vyrobené běžným způsobem a po té speciální šetrnou destilací zbavené alkoholu tak, aby ostatní složky zůstaly zachovány. Existuje i šumivé odalkoholizované víno.\n\n
+<b>Odbourání kyselin</b>\n
+Snižování obsahu kyseliny jablečné biologicky (mléčná + CO2) a snížení kyseliny vinné vznikem vínanů.\n\n
+<b>Odrůda révy</b>\n
+Soubor jedinců vegetativně množených z původního keře si po určitou dobu udržuje stejné vlastnosti všech jedinců. Po mnoha letech dochází k rozrůznění vlastností a vyskytují se mutace, které člověk zachycuje a jsou-li hospodářsky příznivé dále množí jako nové odrůdy. Stejně tak vybíral mezi samovolně vzniklými semenáči vhodné typy, z nichž vznikaly odrůdy. O pravost odrůd se dnes stará udržovací šlechtění a o vznik nových odrůd novošlechtění.\n\n
+<b>Odrůdová vůně</b>\n
+Ve vrstvách dužniny těsně pod slupkou je uloženo množství různých aromatických látek typických pro danou odrůdu. Tyto primární aromatické látky se přenášejí do vína. Nejvíce se jich tvoří v místech, kde jsou horké dny a studené noci (povodí řek apod.). Při šetrném a rychlém zpracování hroznů a chlazeném kvašení, stáčení bez přístupu vzduchu a opatrném zacházení s vínem se lehce těkavé primární odrůdové vůně povede ve víně udržet.\n\n
+<b>Odrůdy evropské révy</b>\n
+Vznikaly postupně v několika geograficko-ekologických areálech z volně rostoucí lesní révy v Evropě Vitis vinifera subspecies silvestris typica a v Asii aberrans. Podle toho vznikly geograficko ekologické skupiny odrůd na určitých územích: Kolem Černého moře rodina Proles pontica, Negr., která obsahuje odrůdy balkánské (subproles balcanica) a odrůdy kavkazské (subproles georgica). V západní Evropě se vyvinuly jakostní moštové odrůdy ve skupině Proles occidentalis, Negr. V Asii z typu aberrans rodina odrůd Proles orientalis, Negr., která má starší skupinu převážně moštových odrůd subproles caspica a mladší skupinu typicky stolních odrůd subproles antasiatica. Viz systematika révy.\n\n
+<b>Ochrana původu vína</b>\n
+Základním prvkem pro ochranu původu v románském systému je vymezení katastrálního území, které dává předpoklady pro vysokou originalitu vína, a současně dohoda všech vinařů na způsobu produkce (odrůda, způsob pěstování, výnosy, způsob zpracování hroznů, technologie vína, kontrolní opatření, marketing ). Na žádost vinařů daného území sdružených do profesní organizace vyvolá ministerstvo zemědělství jednání o ochraně původu, která je pak vyhlášena parlamentem nebo dekretem prezidenta republiky. Název vína s chráněným původem smí pak užívat jen vymezená oblast a je mezinárodně chráněn. Germánský systém preferující odrůdu byl a zatím je aplikován i v ČR, ale postupně se od něj ustupuje.\n\n
+<b>Olfaktivní, olfaktorický</b>\n
+Čichový, vztahující se k čichu.\n\n
+<b>Organoleptické posouzení vína</b>\n
+Organoleptické (senzorické) posouzení vína je jedna z metod analýzy vína. Provádět by ji měl vyškolený znalec. Toto posouzení spočívá ve zkoumání vína lidskými smysly (zrak, čich, chuť, hmat, sluch). Zrakem lze hodnotit čistotu a stupeň čirosti a dále intenzitu a odstín barvy. Čich stanoví čistotu, intenzitu, jemnost a harmoničnost vůně. Chuť charakterizuje opět čistotu, intenzitu, jemnost a harmoničnost chuti, dále také plnost, perzistenci (délku vjemu) a dochuť vína. Celkové hodnocení vína se odrazí v tzv. celkovém dojmu, který se hodnotí až na závěr jednotlivých smyslových analýz. Méně známé je využití hmatu a sluchu – hmatem jazyka v dutině ústní zjišťujeme viskóznost vína, popř. u sektů perlení, a tím i tlak CO2. Stupeň perlení u vín šumivých se dá hodnotit také sluchem.\n\n
+<b>Otesané, strhané víno</b>\n
+Takové víno, s nímž bylo činěno přespříliš technologických úkonů a ne vždy správnými prostředky a ve správný čas. Bývá méně výrazné, neosobité, útlé, netypické pro odrůdu ani místo původu.\n\n
+<b>Oxidace moštu, vína</b>\n
+Šťáva vytékající z bobulí podléhá na vzduch oxidačním procesům vyvolaným enzymy polyfenoloxidázami. Oxidační procesy zpomaluje vysoký obsah kyselin a kyselina askorbová . Ve zdravých hroznech je hlavně oxidační enzym tyrosináza, který se dá snadno inaktivovat přídavkem 40 mg/l SO2. V hroznech napadených plísní šedou je enzym laccáza, kterou ani dvojnásobná dávka SO2 neinaktivuje. Tyrosináza se dá též inaktivovat přídavkem 200 g/hl bentonitu do moštu, ale laccázu inaktivuje bentonit jen nepatrně. Nejúčinnější inaktivací oxidačních enzymů je bleskový záhřev moštu na 70 °C a okamžité ochlazení. Oxidační enzymy přilnou na kalící částečky moštu, a proto rychlé vyčištění moštu zabraňuje oxidaci. Následující rychlé rozkvašení moštu uvede do pohybu redukční procesy, a tím se zahladí mírné oxidace. Po dokvašení postupují oxidace ve víně znova, a to nejrychleji po zmizení CO2 z vína. Pak dochází nejen k oxidacím enzymovým, ale i k oxidacím neenzymovým vlivem vázání kyslíku na sloučeniny vína, přičemž působí katalyticky kovy Fe, Cu. Rychlé vyčištění mladého vína a zamezení jeho styku se vzduchem je nejlepší ochranou. Nejpomaleji probíhají oxidace v nerezových nebo skleněných nádobách.\n\n
+<b>Označování zbytkového cukru ve víně</b>\n
+Pro slovní vyjádření obsahu cukru ve víně lze použit tyto výrazy:
+a) „suché“ pouze tehdy, jestliže víno obsahuje: – nejvýše 4 g zbytkového cukru v litru nebo – nejvýše 9 g zbytkového cukru v 1 litru, pokud obsah kyselin přepočtených na kyselinu vinnou je nejvýše o 2 g v 1 litru nižší než obsah zbytkového cukru
+b) „polosuché“ pouze tehdy, jestliže dané víno obsahuje: – zbytkový cukr v množství přesahujícím hodnotu uvedenou v písmenu a) nejvýše 12 g v litru nebo – nejvýše 18 g zbytkového cukru v 1 litru, pokud obsah kyselin splňuje podmínku uvedenou v písmenu a) bod 2
+c) „polosladké“ pouze tehdy, jestliže dané víno obsahuje zbytkový cukr v množství přesahujícím hodnotu uvedenou v písmenu b), nejvýše 45 g v 1 litru
+d) „sladké“ pouze tehdy, jestliže dané víno obsahuje zbytkový cukr v množství minimálně 45 g v 1 litru.\n\n
+<b>Ožehnutí sudu</b>\n
+Spojení jednotlivých dužin sudu umožňuje jeho vnitřní ožehnutí při teplotě asi 200 stupňů Celsia, přičemž dochází samozřejmě i k opálení vnitřního povrchu dužin, který bude ve styku s vínem. Intenzita ožehnutí se na sudu barrique označuje od lehké přes střední až po silné, vše včetně mezistupňů. Dřevo se tak chemicky pozměňuje do hloubky 2 až 4 mm - dochází k termodegradaci především celulózy, ligninu, lipidů a taninů.\n\n
+<b>Pachuť po korku</b>\n
+Projevuje se jen u lahvových vín po delší době ležení vína v láhvi. Příčinou silné pachuti jsou vždy nekvalitní korkové zátky, případně nedodržení předepsané přípravy korkových zátek. Mírná pachuť u archivních vín se toleruje.\n\n
+<b>Pachuť po třapinách</b>\n
+Vzniká u neodzrněného rmutu když mají hrozny třapiny ještě zelené, jak u bílých tak červených vín. Projevuje se v chuti jako drsná trávová příchuť, označovaná také jako chlorofylová příchuť. Příchuť se snižuje čiřením vyššími dávkami želatiny a scelováním s jinými víny.\n\n
+<b>Pachuť po ztuchlině</b>\n
+Je způsobena nedostatečně ošetřovaným nářadím a skladovacích nádob a nedostatečným větráním sklepa. Vzniká když se nechají nádoby po vyprázdnění delší dobu nevymyté a neuzavřené. Ztuchlina (zatuchlina) se projevuje ve vůni i v chuti vína naplněného do takové nádoby. Slabší příchuť se dá odstranit čiřením želatinou, silnější čiřením kvasnicemi a silná aktivním uhlím.\n\n
+<b>Pachuť zemitá</b>\n
+Je charakteristická pro vína vyrobená z hroznů silně znečistěných hlínou kterých mošt nebyl odkalený. Objevuje se někdy také při vyšších dávkách uhličitanu vápenatého při odkyselování. Někdy je také tato příchuť i osobitou vlastností hroznů z určitých půd a poloh. Zmírnit tuto vadu je možné jen scelením s jiným vínem.\n\n
+<b>Pachuť zvětralého vína</b>\n
+Vína která byla často přetáčena nebo nebyla pravidelně dolévána a měl k nim přístup vzduch více než normálně, ztratí svoji svěžest a jejich chuť se změní na mdlou, prázdnou, bezvýraznou, která přechází až do stařiny. Náprava se dosáhne zvýšením obsahu síry, překvašením anebo vyčiřením vinnými kvasnicemi.\n\n
+<b>Pektin</b>\n
+V hroznech révy vinné vzniká pektin v době zrání, kdy bobule zaměkají. Protopektin se mění na pektin a bobule přestávají asimilovat a přijímají pouze cukr vyrobený v listech. Čistý pektin, označovaný též jako kyselina pektinová, vznikl polymerizací monosacharidů a je tvořený řetězcem polygalakturonových jader. Hrozny obsahují 1-2 g/kg pektinu, víno obsahuje 0,1-1 g/l. Pektiny ve víně jsou schopné za přítomnosti kyselin a cukru tvořit rosol, který ztěžuje samočištění vína.\n\n
+<b>Perlení vína</b>\n
+U mladých vín se po nalití vína do sklenky často objeví perlení způsobené uvolněním oxidu uhličitého. Taková vína mají svěží chuť. U vín šumivých, kvašených na láhvi a delší dobu skladovaných na kvasnicích, je perlení většinou velmi jemné a perly vystupují v jemných řetízcích ode dna vzhůru, kde vytvářejí korunu kolem stěn sklenky. Perlení šumivých vín vyrobených kvašením v tanku je poněkud hrubší a největší bublinky vystupují z vín perlivých impregnovaných CO2 z bomby. U nich perlení během krátké doby ustává. Perlení je možné nejlépe pozorovat ve vysoké sklence tvaru „flétna.\n\n
+<b>Perlivé víno</b>\n
+Perlivá vína se nesmějí označovat jako šumivá nebo jako sekty a vyrábějí se z tuzemských vín stolních nebo jakostních sycením oxidem uhličitým. Obsah celkového alkoholu musí být nejméně 9 % obj., z toho nejméně 7 % skutečného a přetlak v láhvi při teplotě 20 °C musí být v rozsahu 0,1-0,25 MPa.\n\n
+<b>Perzistence</b>\n
+Délka trvání čichového a chuťového vjemu vína. Jde o významný ukazatel determinující kvalitu vína. Začíná polknutím určitého množství vína a končí s posledními známkami vjemu chutnaného vína. Určuje se v kaudáliích.\n\n
+<b>Pěstitel révy</b>\n
+Pěstitelem révy vinné se rozumí osoba zabývající se vinohradnictvím.\n\n
+<b>Pěstitelská oblast</b>\n
+Podle předpisů ES a zákona č. 115/1995 Sb., ve znění zákona č. 216/2000 Sb., je za pěstitelskou oblast považována vinařská oblast, která musí být uvedena na etiketě vína kategorie jakostní víno a víno s přívlastkem. V předpisech ES je této záležitosti věnována značná pozornost, protože souvisí s označením původu vína.\n\n
+<b>Pinot</b>\n
+Souhrnný název pro rodinu burgundských odrůd. Nejdříve vznikla Mlynářka – Pinot meunier, pak Pinot noir, Pinot blanc, Pinot gris. Viz Rulandské bílé, šedé a modré.\n\n
+<b>Pitelné víno</b>\n
+Lehčí, svěží, suché víno s přiměřenou kyselinou a nižším nebo středně vysokým extraktem. Na jižní Moravě většinou směsi odrůd Ryzlink vlašský a Veltlínské zelené, případně s menším přídavkem vína odrůdy Müller Thurgau nebo směs vín odrůd Neuburské a Ryzlink vlašský. Z červených vín nejčastěji směs Frankovky a Modrého Portugalu. Též vína růžová.\n\n
+<b>Plná zralost hroznů</b>\n
+Při zrání hroznů se rozlišuje: Buketní zralost, kdy bylo dosaženo úplné odrůdové aroma. Plná zralost (fyziologická zralost) při dosažení maximálního obsahu cukru pomocí asimilace, plnosti vybarvení, vyzrálosti peciček. Přezrálost při zvýšeném odparu vody, kdy se obsah bobulí zahušťuje.\n\n
+<b>Plnost vína</b>\n
+Vztahuje se na chuťový vjem projevující se voluminozností vína pociťovanou na povrchu jazyka a při polykání doušku. Čím je víno plnější, tím hmotnější nám na jazyku připadá a tím pomaleji protéká při polykání a současně zanechává delší dojem. Plnost způsobuje extrakt, alkohol ,cukr, glycerin. Plná vína dávají hlavně odrůdy jakostní při nízké sklizni hroznů.\n\n
+<b>Ploché víno</b>\n
+Pocit plochosti se dostavuje, když žádná z hlavních složek vína nevzbudí pocit libosti a ve víně není nic co by stálo za zmínku. Je to podobné víno jako víno fádní, kde většinou chybějí kyseliny, ale ostatní složky mohou být vyrovnané.\n\n
+<b>Polosladké víno</b>\n
+Obsah zbytkového cukru v dotyčném víně je větší než nejvyšší hodnota stanovená pod písmenem b) odstavce 16 Nařízení Komise 753/2002, ale dosahuje nejvýše 45 gramů na jeden litr.\n\n
+<b>Polosuché víno</b>\n
+Víno se zbytkovým cukrem, který nepřesahuje 12 g v litru vína a nebo 18 g, byl-li minimální celkový obsah kyselin stanoven členským státem podle odstavce 2 Nařízení Komise 753/2002, článek 16.\n\n
+<b>Polymerizace</b>\n
+Chemický děj, při kterém se vazebně propojí řada stejných nebo podobných molekul. Polymerizační reakce jsou důležité pro upevnění vazeb mezi antokyany a tříslovinami za přítomnosti acetaldehydu a kyslíku při vzniku a zrání červených vín.\n\n
+<b>Popeloviny</b>\n
+V moštu i víně jsou obsaženy minerální látky, které se tam dostávají z půdy. Převážnou část tvoří kationty K, Mg, Ca. Většinou ve formě fosfátů nebo síranů. Další minerální látky jsou Na, Fe, Cl, B, Si, Cu, Mn, J aj. Obsah minerálních látek v moštu bývá 3-5 g/l a ve vínech 1,5-4 g/l. Při hodnotách pod 2 g/l se většinou jedná o horší ročníky, větší sklizně nebo falšované víno.\n\n
+<b>Popis vína</b>\n
+Písemná či ústní charakteristika konkrétního vína. Může začínat přímo popisem senzorických znaků vína, tedy vzhledu, barvy, vůně a chuti, a nebo může být doplněna o některé primární údaje o původu - ročník, odrůda, vinařská oblast, obec a trať, popis terroir (půda, podloží, mikro a makroklima), agrotechnická data (expozice, svažitost, spon, stáří vinice apod.) a nebo také vinifikační postupy (řízené kvašení, zrání v sudu, délka nakvášení aj.).\n\n
+<b>Pořadí vín</b>\n
+K plynulému senzorickému hodnocení vín se užívá určitá posloupnost vín. Seřazují se podle ročníků od mladších ke starším. Nejprve bílá před červenými. Lehká a suchá před plnými a se zbytkem cukru. Kyselejší před harmoničtějšími, neutrální před aromatickými. Nakonec šumivá a likérová.\n\n
+<b>Pozdní sběr</b>\n
+Sklizeň hroznů v pozdějším termínu, teprve když cukernatost hroznů dosáhne 21-24 °NM. Současně pozdní sběr znamená i kategorii vína s přívlastkem.\n\n
+<b>Prázdné víno</b>\n
+Víno s nízkým extraktem, většinou z vysoké sklizně nebo z hroznů stolních odrůd.\n\n
+<b>Predikátní víno</b>\n
+Víno s přívlastkem: kabinet, pozdní sběr, výběr z hroznů, výběr z bobulí, ledové, slámové.\n\n
+<b>Prezentace vína</b>\n
+Někdy také adjustace. Je to v podstatě konečná úprava obalů před uváděním vína do oběhu a způsob jeho nabízení. Tento termín souvisí s označováním vína. Povinnosti a možnosti uvádí nařízení Rady (ES) č. 1493/1999 a rozpracovává je nařízení Komise (ES) č. 753/2002, národní odlišnosti jsou pak uvedeny v zákonu č. 321/2004 Sb. a vyhlášce č. 323/2004 Sb.\n\n
+<b>Prodej ze dvora, ze sklepa</b>\n
+Také prodej vína ze sklepa nebo přímý prodej. Vyžaduje po výrobci věnovat se více i obchodu, ale za to dosáhne vyšší prodejní ceny vína a neocenitelný je i přímý kontakt se spotřebitelem, kterému může odpovědět na jeho dotazy, pomoci mu s výběrem vína. V Česku se na celkovém objemu prodeje vína podílí zanedbatelnou měrou, v Rakousku a Německu je to podstatně více. Prodej vína ze dvora, označovaný někdy jako prodej pod víchem, je založený na přímém prodeji vína od výrobce malospotřebiteli ke konzumaci přímo na dvoře nebo v přilehlých prostorách obytného domu vinaře. Spotřebitelé jsou většinou stálí zákazníci z blízkého okolí vinaře nebo účastníci různých zájezdů. Důležitým prvkem je přímý kontakt vinaře se zákazníkem. Prodej ze dvora je nejnákladnější, ale finančně nejzajímavější. Vinař při této příležitosti prodává také ostatní výrobky a podává i jednoduchá jídla, v oblibě jsou jeho speciality nebo speciality místní, zabíjačkové výrobky, pečené husy, domácí uzeniny apod. Mimo čepovaného vína prodává i víno do přinesených nádob či v lahvích s etiketou vinaře. Pod pojmem prodej vína ze sklepa, se rozumí prodej většího množství vína sudového nebo lahvového přímo odběrateli, tj. vinárnám, vinotékám anebo případně pořadatelům různých společenských akcí, a to přímým stykem nebo prostřednictvím družstev či zprostředkovatelů.
+Ve všech případech je velmi důležité vytvoření si dobrého jména u zákazníků a to pořádáním různých akcí jako degustace přímo u výrobce nebo u odběratelů, poskytováním bezplatných vzorků pro tyto degustace, vydáváním reklamních materiálů, využíváním mediálních akcí apod.\n\n
+<b>Provzdušení vína</b>\n
+Současná technologie je zaměřena na vína reduktivní, svěží, s jemnými aromatickými látkami – jak se dnes říká „s ovocností. U bílých vín nepřichází provzdušení v úvahu, jen při onemocnění (sirka ). U červených vín vyráběných v uzavřených nádobách je provzdušení většinou potřebné a praktikuje se ve spojení s remontáží.\n\n
+<b>Přesíření</b>\n
+Při překročení zákonem stanoveného maximálního množství oxidu siřičitého ve víně, dojde k jeho přesíření, což je zdravotně závadné a způsobuje bolesti hlavy. Náprava je jen ve spojení s vínem málo sířeným.\n\n
+<b>Přezrávání hroznů</b>\n
+Ponechají-li se hrozny na keřích révy i po dosažení plné zralosti, začíná vyzrávat i jejich třapina, přerušuje se přívod vody a bobule se scvrkávají – cibébovatí. Z přezrálých hroznů se vyrábějí hrozinkové výběry.\n\n
+<b>Přiboudlina</b>\n
+Kromě etanolu vznikají při kvašení i vyšší alkoholy , jejichž směs se nazývá přiboudlina, která se nachází ve větším množství v destilátu vína. Vznikají z aminokyselin, které štěpí kvasinky enzymem amidázou. Z leucinu vzniká isoamylalkohol, z isoleucinu l-amylalkohol, z valinu isobutylalkohol, z kys. alfaamynomáselné propylalkohol. V přiboudlině jsou dále hexylalkohol, acetaldehyd , kys. máselná a z pentóz fural. Na 100 l vinného destilátu je 230-250 g přiboudliny. V malém množství mají vyšší alkoholy příznivý vliv na vývoj aromatických látek destilátů.\n\n
+<b>Příchuť kvasničná</b>\n
+Kvasničná příchuť je vadou vína až tenkrát kdy přijde k rozkladu kvasnic a víno dostane odpornou páchnoucí hnilobnou vůni a chuť, někdy také za současného vzniku těkavých kyselin a myšiny. Vyskytuje se často u slabě alkoholických a málo kyselých vín skladovaných v teplejších prostorách. V počátcích se vada dá zmírnit provzdušením, sířením a později aktivním uhlím. V pokročilém stadiu vady se víno nedá zachránit.\n\n
+<b>Příchuť po filtračních deskách</b>\n
+Vzniká nedostatečným propláchnutím filtračních desek před filtrováním. Tyto se musí proplachovat tak dlouho až při ochutnání odtékající vody se nezjistí ani nepatrná příchuť po deskách. Na propláchnutí jedné desky rozměru 40x40 se počítá 20-25 litrů vody. Příchuť se časem ztrácí a po několika týdnech ji překryje aroma vína.\n\n
+<b>Přírodní víno</b>\n
+Dřívější označení pro vína přívlastková vznikající bez cukření.\n\n
+<b>Přirozený obsah alkoholu</b>\n
+Celkový obsah alkoholu příslušného výrobku před zvýšením jeho cukernatosti nebo před dodáním alkoholu.\n\n
+<b>Původ vína</b>\n
+Od nejstarších dob hrál původ vína důležitou roli v oceňování jeho kvality. Každé místo vhodné pro vinice vytváří určitý genius loci, který se přenáší až do přívlastkového vína vzniklého z usměrněné úrody hroznů vhodné odrůdy pro ono místo. Pokud se vinaři v určité geografické lokalitě dávající tamním vínům nezaměnitelný charakter shodnou na kontrolovaných podmínkách výroby určitého druhu vína z oné lokality, mohou nechat původ takového vína chránit (viz AOC vína).\n\n
+<b>Pyžmová, animální vůně</b>\n
+Evokující živočišné výměšky, popř. pot, kůži, srst. Výskyt zejména v těžkých červených jižního typu. Vzniká kombinací několika faktorů z nichž k nejdůležitěším patří mikrobní činnost. Viz též koňský pot.\n\n
+<b>Reziduální CO2</b>\n
+CO2 (oxid uhličitý), který ve víně zůstal po alkoholické fermentaci a nepřesahuje limit přetlaku stanovený pro tichá vína. Někdy je pozůstatkem biologického odbourávání kyselin. Celkově je v mladých a svěžích vínech vítán, neboť zvyšuje pitelnost.\n\n
+<b>Rezistentní odrůdy</b>\n
+Pro účely ekologického vinohradnictví se intenzivně šlechtí odrůdy odolné proti houbovým chorobám a případně i proti révokazu. Šlechtění je založeno na mezidruhovém (interspecifickém ) křížení, při němž dodávají novým odrůdám jakost hroznů odrůdy evropské révy a odolnost několik druhů amerických rév. Rezistence by měla být pokud možno komplexní proti všem houbovým chorobám, což je těžko dosažitelné, má-li být současně dostatečně vysoká jakost hroznů pro výrobu vína. Stupeň rezistence je značně proměnlivý podle stanovištních podmínek a většina rezistentních odrůd potřebuje 1-2 chemická ošetření.\n\n
+<b>Rmut</b>\n
+Rozdrcením hroznů vzniká drť. Jestliže se napřed odzrní a pak rozdrtí, vzniká odzrněná drť. Při výrobě červených vín se drť nakvašuje k vyluhování barviva a tříslovin. Rmutem se nazývá kvasící drť , v níž došlo k vyluhování některých látek do moštu.\n\n
+<b>Ročník vína</b>\n
+Pro jakost vína má rozhodující vliv nejen odrůda, poloha, půda, způsob zpracování hroznů, ale i rok sklizně hroznů a jeho povětrnostní podmínky během vegetace a hlavně v jejím závěru. Proto vzniklo přísloví: Co srpen neuvaří, to neupeče září. Smysl sledování ročníků dobrých a špatných vynikne hlavně tehdy, když se sledují po řadu let z téže plochy vinic a ze stejných odrůd nebo ze stejných kupáží. V posledním době patřily v ČR mezi nadprůměrné ročníky svou kvalitou ročníky 1991, 1992, 1993, 1997, 1999, 2000, 2002 a 2003.\n\n
+<b>Rosé, růžové víno, rose</b>\n
+Samostatný druh, mezistupeň mezi červeným a bílým vínem. Zahrnuje širokou škálu barev a odstínů (pivoňka, fialka, losos, koroptví oko, meruňka), vůní a chutí. Připravuje se z modrých hroznů, a to zpravidla třemi základními metodami, které zahrnují množství variací: 1. přímé lisování celých hroznů - použítí u odrůd s obsahem barviv v dužnině bobule a nebo v případě požadavku na přípravu klaretu, 2. krvácení - samovolné odtékání moštu ze rmutu, šťáva je obohacena o barviva a tříslovité látky obsažené ve slupkách, 3. krátká macerace - tato metoda je nejnáročnější na zkušenosti a odhad vinaře, délka a způsob macerace či mírného nakvášení závisí na odrůdě, ročníku a požadavku na výsledné víno. Kvalitní růžové víno musí být připraveno z vyzrálé suroviny nejlépe v kategorii pozdního sběru a mít dobrý minerální podtext s pevnou kořenitostí v dochuti.\n\n
+<b>Rozinky</b>\n
+Nebo hrozinky jsou sušené bobule bezsemenných odrůd révy. Sultánky jsou větší a pocházejí z odrůdy Sultanina (Thompson Seedles, Kišmiš) nebo Korintky, které jsou menší, sladší, aromatičtější a jsou bílé nebo tmavé z odrůdy Korintka bílá nebo modrá.\n\n
+<b>Ruční sklizeň hroznů</b>\n
+V Česku je zatím přes 95 % ploch vinic každoročně sklízeno ručně. V Německu a Rakousku trvale narůstá plocha sklízená stroji, která již převažuje. Přesto i v budoucnu zůstane ruční sklizeň nenahraditelná pro nejvyšší kategorie vína s přívlastkem, zatímco hrozny pro jakostní víno budou sklízeny převážně mechanizovaně.\n\n
+<b>Růžák, ryšák</b>\n
+Dle současné legislativy povolené označení pro růžové víno, které bylo vyrobeno ze směsi vinných hroznů nebo hroznového moštu z bílých, příp. červených, a modrých hroznů.\n\n
+<b>Řízené kvašení</b>\n
+Řízené kvašení je soubor opatření v technologii výroby, které vedou k co nejvyšší kontrole a ovlivňování biochemických procesů při vinifikaci, a to cestami nejenom biologickými, ale také fyzikálními. Mezi tato nejhlavnější opatření patří odkalení moštů, zakvašení ušlechtilými kvasinkami, regulace teploty, reduktivní podmínky kvašení aj.\n\n
+<b>
+Sacharóza</b>\n
+Disacharid, který vzniká v listech révy a během proudění do bobulí hroznů se rozkládá na jednoduché cukry glukózu a fruktózu. V moštu se nachází jen ve stopách. Přídavek sacharózy se používá k úpravě cukernatosti moštu. Kvasinky rozkládají sacharózu na zkvasitelné jednoduché cukry. Ke zvýšení o 1%obj. alkoholu v budoucím víně je nutné přidat na 1 litr upravovaného moštu 17 g sacharózy.\n\n
+<b>Sec</b>\n
+Francouzský výraz pro suché víno, užívaný hlavně u šumivých vín.\n\n
+<b>Sekt</b>\n
+Označení jakostního šumivého vína.\n\n
+<b>Sekundární aroma vína</b>\n
+Sekundární aroma vína je jednou ze složek aroma vína. Vzniká biochemickými reakcemi při zpracování, kvašení a zrání vína vazbami těkavých složek na sebe navzájem a na složky primárního aroma. Charakter sekundárního aroma vína, které je nejdůležitější složkou aroma vína, určuje již výchozí surovina pro zpracování – hrozny, dále pak podmínky zpracování a kvašení a případné technologické zásahy. Mezi jeho složky patří vyšší alkoholy (některé z nich mají příjemnou ovocnou vůni), těkavé kyseliny (k. octová, k. mravenčí apod.) a další látky jako např. diacetyl, kyselina mléčná, aldehydy , ketony, acetáty, estery apod. Projev sekundárního aroma vína je ovlivněn také obsahem CO2 ve víně.\n\n
+<b>Sklenky na víno</b>\n
+K dokonalému ohodnocení všech vlastností vína jsou nejvhodnější sklenky z krystalového, čirého, průhledného skla. Musí být prosty jakéhokoliv broušení nebo zdobení potisky. Musí mít dostatečně dlouhou nožku s kruhovou základnou. Degustátor drží sklenku za nožku nebo podstavu a nedotýká se vlastního balonu sklenky rukou. Objem balonu by měl být alespoň 250 ml, lepší je 350 ml a více. Vína se nalévá 70-80 ml, aby měl degustátor možnost sklenkou zatočit a vnímat uvolňující se vůně. Balon sklenky pro bílá vína se k hornímu konci tulipánovitě zužuje a otvor by měl mít průměr 46 mm. Pro vína červená je balon ve spodní části rozšířenější a nahoře otevřenější, otvor by měl mít v průměru 60 mm. Pro červená vína je důležitý větší styk se vzduchem a proto větší plocha hladiny vína. Pro šumivá vína jsou vysoké a úzké sklenky – flétny, v nichž je dobře vidět perlivost vína.\n\n
+<b>Skutečný obsah alkoholu</b>\n
+Skutečným obsahem alkoholu v objemových procentech je počet objemových jednotek čistého alkoholu, které obsahuje výrobek při 20 stupních Celsia ve 100 objemových jednotkách výrobku. Lze tedy přímo stanovit analytickým rozborem výrobku.\n\n
+<b>Sladké víno</b>\n
+Víno s vyšším obsahem zbytkového neprokvašeného cukru a to jak senzoricky tak analyticky. Zpravidla se jedná o vína speciální, určená pro dlouhé zrání. Mohou mít vyšší obsah alkoholu (15-22%, např. některá vína portská či jiná fortifikovaná - marsala, malaga, mistelle, nebo také tokajské putňové výběry aj.) a nebo naopak nižší (7-11%, toto je časté u vín slámových, ledových či bobulových výběrů). Dle legislativních předpisů se jedná o víno se zbytkovým cukrem ve výši nejméně 45 g na litr.\n\n
+<b>Slámové víno</b>\n
+Název vína s přívlastkem, které vzniklo z hroznů dosoušených po sklizni na slámě. Pro takovou výrobu se musí nechat hrozny dobře vyzrát a nesmějí být poškozené. Kladou se na slámu nebo na rákos či mohou být zavěšeny ve větraném prostoru po dobu nejméně 3 měsíců. Tím se odpaří část vody z bobulí a koncentruje se obsah extraktivních látek. Většinou se užívá hroznů bílých odrůd. Získaný mošt musí vykazovat nejméně 27 °NM.Slámová vína bývají velmi extraktivní, sladká a jsou poměrně vzácná a proto drahá.\n\n
+<b>Sluchový vjem</b>\n
+I víno se může hodnotit sluchem - např. intenzita a délka perlení u šumivých vín.\n\n
+<b>Směs vín</b>\n
+K výrobě známkových vín se užívá nejčastěji směsí vín několika odrůd, což umožňuje udržovat charakter a jakost na stabilnější úrovni nezávisle na ročníkových změnách. Je to velmi obvyklé u červených vín z jižních vinařských oblastí, kde ke stabilitě přispívá nejen směs několika vín, ale i další scelující prvek – školení v sudech barrique. Náhodné směsi, které vznikají a zanikají nejsou nikdy příliš ceněny. Nejvíce se uznávají směsi tradiční, charakterizující určitou oblast, kde všichni vinaři dělají směs ze stejných odrůd a víno stejně nazývají, většinou geografickým pojmenováním, a vytvoří organizaci k ochraně původu směsného vína.\n\n
+<b>Sommelier</b>\n
+Osoba, která je v gastronomii pověřena vína vybírat, nakupovat, vhodně skladovat, doporučovat, sestavovat vinný lístek a popř. menu a kombinaci jídla a jednoho či více vín. Zajišťuje též servis vína u stolu. V minulosti byli s. nazýváni i pracovníci větších komunit a obydlí, kteří zajišťovali prádlo, nádobí a zásobování, zejména sklepa.\n\n
+<b>Stabilizace vína</b>\n
+Souhrnný pojem pro celou řadu technologických zásahů, které vedou k tomu , aby se víno naplněné do láhví uchovalo čiré a barevně i chuťově doznávalo jen pomalé změny vyvolávané stárnutím. Stabilitu vína ohrožují hlavně zákaly bílkovinné, mikrobiální, z nadbytku Fe nebo vysrážení vinného kamene.\n\n
+<b>Stárnutí vína</b>\n
+Stárnutí vína se projevuje změnou barvy i aromatických látek. Po nalahvování se napřed projeví zralost vína, později ležácký buket, jehož podstatnou část tvoří estery vzniklé působením kyselin a alkoholů ve víně. Vznikají: vínan ethylnatý, jablečnan ethylnatý, laktát ethylnatý, octan ethylnatý. Biologická esterifikace probíhá rychleji a při tvorbě buketu se zúčastňují aldehydy , ketony, aminokyseliny i cukry. Stárnutí má probíhat pomalu a proto je důležitá optimální teplota. Pro bílá vína do 10-12 °C a pro červená do 12-14 °C. Jednoduchá vína stárnou rychle a mají se konzumovat mladá.\n\n
+<b>Stolní víno</b>\n
+Stolní víno je víno, které může pocházet z hroznů vyprodukovaných v kterékoliv zemi EU, a to z odrůd moštových, stolních a neregistrovaných. Je to nejnižší katerogie vín. Nesmí být označeno názvem odrůdy, oblasti, vinařské obce, viniční tratě nebo jiným zeměpisným názvem. V závislosti na vinařských zákonech to bývají vína lehčí se 7-11 % obj. alk., méně extraktivní, vhodná k běžnému stolování.\n\n
+<b>Střik vinný</b>\n
+Směs vína s vodou nebo minerální vodou nebo sodovkou. Poměr si určuje konzument sám. Většinou to je jedna čtvrtina až jedna třetina vína. Vhodné je hlavně víno bílé, s vyšším obsahem kyselin nebo víno růžové. Neobčerstvuje víno se zbytkovým cukrem nebo nízkým obsahem kyselin.\n\n
+<b>Studená macerace</b>\n
+K získání vyššího množství aromatických látek z drti hroznů se užívá studená macerace drti vychlazené různými způsoby na 4 - 5°C. Vychlazením se zabrání rozkvašení a vyluhování nežádoucích složek.\n\n
+<b>Studené kvašení</b>\n
+Cílem studeného kvašení je rovnoměrný průběh teploty během kvašení a odstranění teplotních špiček. V podstatě jde o dostatečně vysokou startovní teplotu a dostatečnou teplotu dokvášení. Ve střední části průběhu kvašení se jedná o udržení nižší teploty kvasného procesu.\n\n
+<b>Stupně cukernatosti</b>\n
+Cukernatost moštu je jedním z ukazatelů jeho kvality. Udává se ve stupních cukernatosti a nejčastěji se určuje v odměrném válci speciálním hustoměrem. Rozeznáváme několik stupnic, u nás je používán °NM (normalizovaný moštoměr ) – udává počet kg cukru ve 100 l moštu. Naproti tomu v sousedním Rakousku je používán stupnice klosterneuburská, kde 1 °Kl znamená obsah 1 kg cukru ve 100 kg moštu. °Rf – refraktometrické stupně – stanovují se refraktometrem (princip změny indexu lomu) a udávají obsah sušiny v %. V Německu je používána stupnice Oechsleho moštoměru (°Oe), který je cejchován na 20 °C (většina ostatních hustoměrů na 15 °C) a udává rozdíl hustot moštu a vody. °Bg – Ballingova sacharometru – udávají hmotnostní procento cukru v čistých cukerných roztocích. °Wg – Wagnerův moštoměr – starý typ – 1 °Wg odpovídá přibližně 1,5 °Kl. °Bx – stupně podle Brixe – rovnají se přibližně refrakci a jsou často používány v USA. °Bé – hustoměr Baumé – stupně tohoto hustoměru odpovídají objemovým procentům alkoholu, který vznikne prokvašením hroznového moštu.\n\n
+<b>Sudová zralost vína</b>\n
+Sudová zralost vína je stav, kdy víno ležením v sudech, případně v jiných nádobách, dosáhne nejvyšší organoleptické hodnoty a kdy je předpoklad, že delším ležením v sudech by se tyto hodnoty snižovaly. Určení tohoto bodu se dá zjistit jen organolepticky odpovědnými osobami s dostatečnými teoretickými a praktickými znalostmi.
+Dosažení sudové zralosti musí předcházet příprava vína, to je výběr vína, scelení vína, vyškolení a ošetřování za současného vytvoření podmínek pro zrání vína. Víno, které dosáhlo sudové zralosti je připraveno na láhvování, případně pro další výrobu (vína šumivého, perlivého, aromatizovaného, likérového ).\n\n
+<b>Sudové víno</b>\n
+Sudové víno je víno, jehož spotřebitelský obal má větší objem jak 2 litry.
+Jako sudové víno nemohou být dodávána do tržní sítě vína s přívlastkem, vína šumivá a perlivá. Sudové víno musí splňovat všechny požadavky stanovené vinařským zákonem.\n\n
+<b>Suché víno</b>\n
+Víno, které prokvasilo na nízký obsah zbytkového cukru. Smí obsahovat do 9 g cukru v litru, přičemž čím nižší je obsah celkových kyselin vína, tím nižší je tato hranice (až k 4 g).\n\n
+<b>Sur lie</b>\n
+Sur lie, ve francouzštině doslova „na kvasnicích“, je metoda při které se mladé víno ponechává ležet delší dobu na kvasnicích „élevage“, někdy za současného intenzivního promíchávání „battonage“. Ležením na kvasnicích probíhající autolýzou kvasnic vznikají sloučeniny dusíku, polysacharidy glykoproteiny, které usměrňují patrné zlepšení kvality vín. Hodnotí se zvláště vznikající kulatost, mazlavost a jemnost čištění vína. U červených vín se činnost kvasnic spojuje s přínosem rozpustných polysacharidů, které působí na úroveň redox potenciálu. Metoda sur lie zvyšuje intenzitu ovocného charakteru aromy vína. V některých případech se víno stáčí do láhví přímo z vína na kvasnicích, nebo se kvasnice přidávají do vína na dosáhnutí charakteristické příchutě, která je ceněna u vín muškátových, zvláště ve Švýcarsku. Použitím přípravků vyrobených z buněčných stěn kvasinek, rozrušených enzymaticky, odstraňuje potřebu intenzivního promíchávání vín na kvasnicích. Základní činností kvasnic při metodě sur lie je jejich antioxidační činnost, hlavně u červených vín u kterých zpomaluje stárnutí a změnu barvy a chuti. Použití metody je vysoce individuální, je odvislé od charakteru vína a výsledku který by měla metoda přinést.\n\n
+<b>Svařené víno</b>\n
+Většinou se svařuje víno červené. Zahřeje se na 90 °C (nesmí se vařit) za přídavku cukru, skořice, hřebíčku, případně vanilky. Pije se horké pro zahřátí nebo k vyvolání pocení při nachlazení. Požívá v předpisech ES jistých výsad, může být prodáváno již upravené tak, že postačuje je pouze svařit. To znamená, že může být prodáváno již okořeněné a oslazené.\n\n
+<b>Svatomartinské</b>\n
+Viz Víno martinské.\n\n
+<b>Svěží víno</b>\n
+Svěží jsou většinou mladá vína, která obsahují zbytky oxidu uhličitého a mají dostatečné množství příjemných kyselin. Důležitým předpokladem je reduktivní školení vína, středně vysoký obsah alkoholu, včetně primárních aromatických látek, které svěžest podtrhují.\n\n
+<b>Svíravá chuť</b>\n
+Viz adstringentní.\n\n
+<b>SZPI (Státní zemědělská a potravinářská inspekce)</b>\n
+Podle zákona č. 146/2002 Sb. a zákona č. 321/2004 Sb. je orgánem dozoru pro vinařství. Kontroluje vedení vinařské evidence, má pravomoc zakázat uvádět víno do oběhu, případně udělit pokutu až do výše 3 milionů Kč. Provádí zatřídění vína. Sídlem SZPI je Brno, má svá pracoviště v 7 krajských městech. Mimo vína kontroluje také všechny ostatní potraviny a nápoje.\n\n
+<b>Šarže</b>\n
+Množství druhově stejných výrobků, které byly vyrobeny za stejných podmínek a stejným způsobem.\n\n
+<b>Šumivé víno</b>\n
+Šumivé víno se třídí na několik druhů: a) Šumivé víno, které se nesmí označovat jako sekt a lze ho vyrábět ze stolního vína, které dosáhlo 8,5 % obj. alk. prvotním i druhotným kvašením a musí mít 0,3 MPa přetlaku při 20 °C. b) Jakostní šumivé víno (sekt) se vyrábí z domácí nebo dovezené suroviny a celková výrobní doba při kvašení v tancích musí být 60 dnů, při kvašení na láhvi 9 měsíců, přetlak musí být 0,35 MPa a celkový alkohol nejméně 10 % obj. V této kategorii též aromatický sekt prvotním kvašením z aromatických odrůd. c) Jakostní šumivé víno vinařské oblasti se vyrábí jen uvnitř oblasti z jakostních odrůdových vín a výroba musí trvat 6 měsíců v tanku nebo 9 měsíců v láhvi. d) Pěstitelský sekt má podobná kriteria jako předchozí a výroba se uskutečňuje u pěstitele.\n\n
+<b>Tanin</b>\n
+Třísloviny vína jsou složité fenolové sloučeniny, které se projevují trpkou, až svíravou (adstringentní ) chutí na kořeni jazyka, vznikající vysrážením mucinů obsažených ve slinách a jazyk přestává klouzat, slinné žlázy se stáhnou a vzniká pocit drsnosti. Taniny jsou hydrolyzovatelné třísloviny a skládají se z glukózy esterifikované především kyselinou galovou a jejími depsidy. Nacházejí se ve dřevě révy, třapině a semenech. Do vína se dostávají i z dřeva dubových sudů.\n\n
+<b>Těkavé kyseliny</b>\n
+V průměru obsahují vína 0,3-0,6 g/l kyseliny octové a dalších těkavých kyselin. Při obsahu kolem 1 g/l již bývá nepříjemná chuť kyseliny octové cítit při degustaci vína. Projevuje se hrubými, škrablavými tóny na kořeni jazyka. Octové bakterie oxidují alkohol na kys.octovou, část této kyseliny vzniká i činností kvasinek. Octové bakterie se rozvíjejí nejčastěji ve vínech se zbytkem cukru, která zůstávají delší dobu kalná, jsou v neplných nádobách s přístupem vzduchu, a při vyšší teplotě skladovaného vína. Z leucinu vzniká kyselina mravenčí, která patří též mezi těkavé kyseliny.\n\n
+<b>Tělo vína</b>\n
+Vztahuje se na látky vytvářející celkový extrakt vína a současně i na alkohol a další těkavé látky. Tělo vína je vztaženo nejen na obsahové látky, ale i na jejich strukturu a na mnohovrstevnatost dojmů, které se vytvářejí při převalování vína v dutině ústní. Při tom hraje roli i hmatový pocit jazyka, na který působí viskozita vína.\n\n
+<b>Teplota vína</b>\n
+Při hodnocení jakosti vína velmi záleží na jeho teplotě. Dvě sklenky téhož vína s rozdílnou teplotou mohou být označeny jako dvě různá vína. Aromatické látky se při 16 °C uvolňují velmi rychle a proto je jejich koncentrace nad hladinou vína vysoká, při 11 °C je jejich množství nižší a při 8 °C cítíme jen slabou neutrální vůni. Víno o teplotě 10 °C se v ústech zahřeje za 10 sekund na 25 °C. Při teplotách kolem 7 °C jsou chuťové bradavky hluché. Při takové teplotě necítíme zbytkový cukr do 5 g/l, ale současně vnímáme ve zvýšené míře obsah kyselin i tříslovin. Proto se plná, vyzrálá červená vína s vyšším obsahem tříslovin podávají při vyšší teplotě – 16 °C, mladá červená vína při teplotě 12-14 °C a růžová 10-12 °C. Jen lehká bílá a šumivá vína se podávají při teplotě 8-10 °C.\n\n
+<b>Termolabilní víno</b>\n
+Termolabilní víno je víno obsahující látky, které změnou teploty vína změní svoji konzistenci, a tím změní i vizuální stav vína vytvořením zákalu. Příčinou zákalu jsou většinou vysrážené bílkoviny, případně soli kyseliny vinné. Srážení bílkovin neprobíhá vždy rovnoměrně, je závislé od charakteru bílkovin a chemického složení vína, zvlášť obsahu taninu a kyselin. Na srážení bílkovin má vliv i obsah dusíkatých látek. Čím je jejich obsah vyšší tím je také náchylnost k vysrážení vyšší. Samotné vysrážení bílkovin je zdlouhavé (2-3 roky). Nejúčinnější způsob vysrážení je zahřátí vína na 70-80 °C, ale při této teplotě se snižují organoleptické hodnoty vína. Eliminace termolabilních bílkovin je též možná enzymaticky pomocí měničů iontů a použitím bentonitu. Použití bentonitu se jeví jako nejjednodušší a nejúčinnější, přičemž se nemění organo-leptické hodnoty vína, ale v některých případech se kvalita vína i zvyšuje.\n\n
+<b>Tiché víno</b>\n
+Tichá vína jsou všechna vína nešumivá bez oxidu uhličitého. Toto označeni se používá hlavně pro zatřídění vín při soutěžích a konkurzech vína. Používá se také jako označení výroby ve statistických ukazatelích.\n\n
+<b>Tiráž</b>\n
+Tirážní likér je směsí kupáže s příslušnou dávkou cukru a čisté kultury kvasinek určené pro plnění do sektových lahví, v nichž bude probíhat kvašení.\n\n
+<b>Trpké víno</b>\n
+Vlivem nedostatečné vyzrálosti hroznů v severních vinařských oblastech a vlivem nadměrného sucha, bývají některá vína natrpklá.\n\n
+<b>Třídění šumivého vína</b>\n
+Podle § 9a zákona č. 216/2000 Sb. se šumivé víno třídí podle druhů: a) šumivé víno, b) jakostní šumivé víno (sekt ), c) jakostní šumivé víno vinařské oblasti (sekt vinařské oblasti ), d) pěstitelský sekt. Označení šumivého vína podle obsahu cukru podle vyhlášky č. 299/2000 Sb. k zákonu č. 216/2000 Sb.: – „brut nature“ – nebo „přírodní tvrdé“, pokud obsah cukru je pod 3 g/l, – „extra brut “ – nebo „přírodně tvrdé“, jestliže obsah cukru je mezi 0 g/l a 6 g/l, – „brut “ nebo „tvrdé“, jestliže obsah cukru je nižší než 15 g/l, – „extra dry“ nebo „zvláště suché“, jestliže obsah cukru je mezi 12 a 20 g/l, – „sec“ nebo „suché“, jestliže obsah cukru je mezi 17 a 35 g/l, – „demi sec“ nebo „polosuché“, jestliže obsah cukru je mezi 33 g a 50 g/l, – „doux“ nebo „sladké“, jestliže obsah cukru je větší než 50 g/l. Jestliže obsah cukru daného produktu umožňuje použití dvou uvedených výrazů, použije se jen jeden z nich. Pro jakostní šumivá vína aromatická lze nahradit použití uvedených výrazů označením obsahu cukru v gramech na 1 litr. Povolená tolerance činí ± 5 g/l. Výrazy „doux“ nebo „sladké“ mohou být nahrazeny uvedením skutečnosti, že obsah cukru je vyšší než 50 g/l.\n\n
+<b>Třídění vín</b>\n
+Podle zákona č. 321/2004 Sb. se víno pocházející z Česka třídí na stolní víno, jakostní víno, jakostní víno s přívlastkem, víno originální certifikace (VOC), šumivé víno, perlivé víno, aromatizované víno , likérové víno , vinný nápoj, odalkoholizované a nízkoalkoholické víno. Víno lze získat pouze z hroznů révy vinné. Ovocné víno nenáleží pod vinařský zákon, ale pod zákon o potravinách a musí být na jeho označení vždy uvedeno přídavné jméno ovocné nebo přímo druh ovoce, ze kterého bylo získáno.\n\n
+<b>Třísloviny vína</b>\n
+Patří do velké skupiny fenolových látek, jejichž biosyntéza se odvíjí od aromatických aminokyselin. Hydroxylačními procesy se za pomoci enzymů z chalkonu syntetizuje flavanon a z něho hydroxylací flavanol, který je výchozím produktem pro katechnin a anthokyanidin. Vzájemnou reakcí mezi kyselinou šikimovou a p-hydroxybenzoovou vzniká kyselina gallová, která je základem pro kondenzační pochody, při nichž se vytvářejí taniny s různě velkou molekulou. Sloučeniny katechinů a leukoanthokyanidinů vytvářejí hnědočervené látky flobafeny, které jsou hlavně v semenech révy.\n\n
+<b>Tvrdé víno</b>\n
+Když z celkové konstituce vína vyniká nepříjemně kyselina, pak je víno tvrdé.\n\n
+<b>Udělování cen vínům</b>\n
+Udělení ceny vínu může být podle předpisů ES a zákona č. 321/2004 Sb. uvedeno na etiketě, pokud víno i soutěž, ve které víno získalo cenu, splní stanovená náročná kritéria. Soutěž podléhá schválení ministerstva zemědělství, vzor žádosti je uveden ve vyhlášce č. 323/2004 Sb.\n\n
+<b>Ušlechtilá hniloba</b>\n
+Pokud infikuje plíseň šedá (Botryotinia fuckeliana) zralé hrozny vznikají na bobulích hnědé skvrny, které se postupně rozšiřují na celou bobuli. Následkem poškození slupky dochází za teplého počasí k urychlení odparu vody, cukernatost se rychleji zvyšuje a bobule cibébovatějí. Zvýšený obsah cukru brzdí další rozvoj houby, nedochází k fruktifikaci. Bobule mají charakteristickou chuť, vysoký obsah cukru a harmonický poměr cukru a kyselin. Vína vyrobená z hroznů napadených ušlechtilou hnilobou jsou přírodně sladká s typickým botrytidovým buketem.\n\n
+<b>Uzavřené víno</b>\n
+V průběhu výroby a zrání vína dochází k jeho výrazným změnám a v některých situacích se ani jeho aromatické složky, ani složky extraktu neprojevují tak, jak by odpovídalo jejich obsahu. Bývá to na přelomu mezi mladým vínem a počátkem zrání, když z mladého vína vyprchal oxid uhličitý, nebo po zasíření vín, po stažení s čiřidel a také při nízké teplotě. O takových vínech se říká, že jsou uzavřená. Otevřou se až vyzrají nebo až stoupne teplota vína na optimální hranici podle jejich osobitosti.\n\n
+<b>Vázaný SO2</b>\n
+Oxidem siřičitým se ve víně váže rozpuštěný kyslík, a tím se víno chrání před oxidací. Dále se váže acetaldehyd vznikající při kvašení. Tato vazba je pevná a zpětně se z ní oxid siřičitý neuvolňuje. Labilní vazby vznikají s kyselinou pyrohroznovou, ketoglutarovou a s glukózou . Po kvašení je třeba vázat veškerý acetaldehyd , aby se docílilo určité množství volného oxidu siřičitého, který jedině chrání víno před oxidací.\n\n
+<b>Vermut</b>\n
+Aromatizované a dolihované víno. Při aromatizování hraje důležitou roli pelyněk (Artemisia absinthium), jeho silice obsahují thujon, azulen, fytoncidní látky, glykosidní hořčinu absinthin a působí na zvýšení vylučování žaludečních šťáv. Doporučuje se používat v malých dávkách před jídlem. Nemá být užíván často, překrvuje se žaludeční sliznice a může to vést ke klinickým poruchám. Mohou být suché nebo sladké, mívají 16-18 % obj. alkoholu a nízký obsah kyselin 4-6 g/l.\n\n
+<b>Veškeré kyseliny</b>\n
+Pojem veškeré kyseliny udává výsledek stanovení titrovatelných kyselin.\n\n
+<b>Veškerý extrakt</b>\n
+Veškerý extrakt je součtem netěkavých složek vína, které po odpaření vody zůstanou jako zbytek. Uvádí se v gramech na litr vína. Kvalitní vína mají v průměru 20 - 30 g/l veškerého extraktu. Odečtením hodnoty zbytkového cukru zůstává bezcukerný extrakt jehož hodnota by u bílých tichých vín neměla klesnout pod 17 g/l.\n\n
+<b>Vinařská obec</b>\n
+Vinařské obce jsou na základě zákona č. 321/2004 Sb. stanoveny prováděcí vyhláškou č. 323/2004 Sb. Vinařské obce jsou součástí jednotlivých vinařských podoblastí a oblastí. Jakostní víno a jakostní víno s přívlastkem může být označeno názvem vinařské obce, z níž pocházejí hrozny použité pro jeho výrobu. K největším vinařským obcím plochou vinic patří Velké Bílovice, Valtice, Čejkovice, Novosedly, Mikulov, Dolní Dunajovice, Velké Pavlovice, Mutěnice, Vrbovec a Kobylí na Moravě, počtem pěstitelů je doplňují Rakvice, Blatnice p. sv. A., Prušánky a Strážnice.\n\n
+<b>Vinařská zóna</b>\n
+Podle klimatických podmínek a politických rozhodnutí je EU rozdělena do vinařských zón, podle kterých pak jsou povoleny konkrétní enologické postupy. Česká republika je rozdělena do dvou zón - vinařská oblast Čechy do zóny A a vinařská oblast Morava do zóny B. V zóně A je spolu s Lucemburskem větší část Německa. Dále existují jižní vinařské zóny C I a), C I b), C II, C III a) a C III b).\n\n
+<b>Vinařství</b>\n
+V širším pojetí zahrnuje tento pojem vinohradnictví a sklepní hospodářství. V užším pojetí se zabývá pouze zpracováním hroznů na víno a jeho ošetřováním.\n\n
+<b>Viniční trať</b>\n
+Podle zákona č. 321/2004 Sb. viniční trať tvoří pozemek nebo část pozemku či jejich soubor tvořící souvislý celek v jedné vinařské podoblasti, splňující předpoklady pro pěstování révy z hlediska zeměpisné polohy, svažitosti, délky oslunění a půdně klimatických vlastností. Tratě jsou stanoveny prováděcí vyhláškou č. 323/2004 Sb. K výrobě vín s přívlastkem mohou být použity pouze hrozny sklizené ve viničních tratích.\n\n
+<b>Vinifikace</b>\n
+Doslovná definice slova vinification je ve francouzských materiálech uváděna následovně: Vinifikace je souhrn operací uskutečněných na přeměnu hroznů, nebo moštu z hroznů, na víno. Vinifikace je téměř vždy choulostivá operace, vyžadující nutnost sledování jejího průběhu ve všech okamžicích a využívání všech známých technických prostředků. Vinifikace začíná přípravou na kampaň, zpracováním hroznů na mošt, ošetřováním kvasícího moštu, zpracováním výlisků, pokračuje ošetřováním mladých vín a speciální výrobou (mistely, likérová vína, mošty alkoholizované, koncentrované, sterilizované). Vinifikace končí, ve zpracovatelském sklepě, odevzdáním vína na přípravu pro lahvování, nebo prodejem vína v transportním obalu.\n\n
+<b>Vinný kámen</b>\n
+Kyselý vinan draselný, který je ve vodě nesnadno rozpustný, právě tak jako v alkoholu. Vzniká neutralizací kyseliny vinné draslíkem již v bobulích révy, vysráží se při kvašení moštu a srážení pokračuje ve víně, hlavně když se mění teplota. V nádobách se vinným kamenem povlékají stěny a těžko se z nich odstraňuje. Za silné krusty vinného kamene se dostávají kvasinky a bakterie a způsobují reinfekci vyškolených vín. Vysráží se i ve víně nalahvování, což sice není na závadu v chuti vína, ale je to optická závada, zvláště když dojde k vysrážení ve velkých šupinách. Ze stěn nádob se odstraňuje teplým 10% roztokem uhličitanu sodného. Ze stěny nerezových nádob se nesmí škrábat, na poškrabané stěně by se pak usazoval ještě více. Vinný kámen je surovinou pro výrobu kyseliny vinné.\n\n
+<b>Vinný nápoj</b>\n
+Nápoj obsahující nejméně 50 % vína.\n\n
+<b>Víno</b>\n
+Produkt získaný úplným nebo částečným alkoholovým kvašením rmutu nebo hroznového moštu z odrůd révy vinné, registrovaných ve Státní odrůdové knize nebo odrůd neregistrovaných, používaných za stanovených podmínek jen pro víno stolní.\n\n
+<b>Víno originální certifikace</b>\n
+Víno originální certifikace (VOC, V.O.C.) je novou kategorií vín podle vinařského zákona 321/2004 Sb. Musí odpovídat minimálně požadavkům na jakostní víno, ale nepodléhá státnímu zatříďování, jako jiné jakostní vína. Naopak zatříďování těchto vín provádí sdružení vinařů, kterým musí být vinař, který toto víno vyrábí, členem. Právo udělovat označení VOC uděluje příslušnému sdružení vinařů Ministerstvo zemědělství za přísných podmínek.
+Vína originální certifikace se vyrábí pouze několika z odrůd typických pro danou oblast. Tato vína by měla mít v dané oblasti VOC podobný charakter a měla by být typická pro danou oblast a odrůdu.\n\n
+<b>Víno Svatomartinské (Martinské)</b>\n
+Na sv. Martina (11. 11.) jsou většinou vína z raných odrůd vykvašená a vyčištěná. Dají se ochutnávat jako mladá vína, která mají svůj půvab, protože jsou svěží, s primárním aromatem, se zbytky nedokvašeného cukru. Proto se těší zvýšenému zájmu konzumentů. U nás je „Svatomartinské\" chráněná známka pro mladé červené či růžové víno z Modrého Portugalu nebo Svatovavřineckého, růžové z Zweigeltrebe či mladé bílé víno odrůd Müller Thurgau, Veltlínské červené rané nebo Muškát moravský. Podobně jako Beaujolais Primeur, které přichází každoročně do prodeje třetí čtvrtek v listopadu. Taktéž Vino Nuovo v Itálii.\n\n
+<b>Vinotéka</b>\n
+Specializovaný obchod vínem s poradenskou činností pro konzumenty vína.\n\n
+<b>Vínovice</b>\n
+Vinný destilát. Může být různého typu. Hrozny se rozdrtí, drť se prokvasí a destiluje, pak to je hroznový destilát, který je aromatičtější. Nebo se destiluje mladé, necukřené víno i s vinnými kaly, což dává jemné destiláty. Destilují se starší vína a destiláty jsou neutrální, spíše k dalšímu zpracování při výrobě likérových vín. Destilují se vinné kaly, destiláty jsou neutrální. A konečně se destilují prokvašené matoliny, které dávají hrubý destilát: terkelice, grappa, marc apod.\n\n
+<b>Vjem smyslový</b>\n
+Souhrn pocitů a smyslových odrazů vnímané věci.\n\n
+<b>Vůně vína</b>\n
+Viz aroma vína.\n\n
+<b>Výběr z bobulí</b>\n
+Název přívlastkového vína vyrobeného z vybraných hronů, které zrály velmi dlouho na vinici a získaný mošt obsahoval alespoň 27 °NM (stupňů normalizovaného moštoměru) cukernatost moštu byla ověřena SZPI.
+Bývají to extraktivní, polosladká či sladká vína.\n\n
+<b>Výběr z cibéb</b>\n
+Název přívlastkového vína vyrobeného z hroznů, které vyzrály na vinici na min. 27 °NM a jejichž cukernatost byla ověřena SZPI. Takto vyzrále hrozny se díky extrémně dlouhé době zrání na vinici většinou změnily na hrozinky - cibéby. Bývá to víno velmi extraktivní, sladké, vzácné a proto drahé.\n\n
+<b>Výběr z hroznů</b>\n
+Název přívlastkového vína vyrobeného z hroznů, které vyzrály na 24-27 °NM a jejichž cukernatost byla ověřena SZPI. Bývá to víno extraktivní, s vyšším obsahem alkoholu, někdy s vyšším obsahem zbytkového cukru.\n\n
+<b>Výlisnost</b>\n
+Výlisností se označuje podíl moštu v litrech získaný z určité hmotnosti vylisovaných hroznů v kg a vyjadřuje se v %. Výlisnost je ovlivňována: – odrůdou lisovaných hroznů, – stupněm vyzrálosti hroznů, – stavem hroznů, – typem použitého lisu, – délkou lisování. Každá odrůda má jiný podíl dužniny (80-90 %), slupek (9-11%), semen (3-4 %) a třapin (3-5 %). Nedozrálé hrozny mají vždy méně dužniny a ta je tužší konzistence, hrozny přezrálé odpařováním vody ztrácejí hmotnost, u hroznů ponechaných účinku mrazu voda vymrzne.
+U hroznů zdravých je vždy výlisnost vyšší než u hroznů napadených houbovými chorobami. Také ztráty vzniklé náletem špačků a požerem zvěří mohou podstatně ovlivnit výlisnost. Typ lisu a délka lisování podstatně ovlivňují výlisnost. U starých lisů kládových a šroubových, které se někde k úplné spokojenosti vinařů užívají, je výlisnost 60-70 %, u lisů šroubových – mechanických, hydraulických, pneumatických a kombinovaných je možné dosáhnout výlisnost až 80 % a u lisů kontinuálních více než 80 %. Stoupající výlisností klesá kvalita vína způsobená vyšším obsahem chlorofylových látek a taninu, zvyšuje se obsah kalů v moštech a kvasnic ve vínech.\n\n
+<b>Vyrovnané víno</b>\n
+Ve všech jakostních kategoriích se po určité době zrání dostává víno do rovnovážného, tedy vyrovnaného stavu, kdy se po určité období příliš nemění.\n\n
+<b>Vyšší alkoholy</b>\n
+Vznikají ve víně během kvašení a jsou zastoupeny v malém množství (150 - 700 mg/l). Jejich vznik závisí na obsahu aminokyselin v moštu. Mají význam pro tvorbu aromatických látek vína.\n\n
+<b>Vývrtka</b>\n
+Dle druhu korek vytahujícího ústrojí se rozeznávají vývrtky klasické (s běžným vřetenem) a tzv. kleštiny, jenž mají dvě protilehlé, nestejně dlouhé kleštinky s mírným žlábkem, které se používají zejména u starých, drobících se a promáčených korkových zátek. Vývrtky klasické mohou být jednoduché (tzv. T-vývrtky s rukojetí ze dřeva z révy, plastu, kovu, kosti, alabastru či stříbra) a nebo s různými typy pákových mechanismů (tento typ je praktičtější a jednodušší na použití). Zajímavostí je vývrtka pracující na principu vytlačení zátky plynem vstříknutým tenkou jehlou proniknuvší zátkou. K otvírání šumivých vín používají labužníci také např. šavle, bajonety, masivní nože, velké klíče od sklepa, křišťálové pohárky aj., což už ovšem vyžaduje značnou dávku odvahy, zručnosti a cviku.\n\n
+<b>Vyzrálé víno</b>\n
+Vyzrálé víno je víno připravené na láhvování – víno s lahvovou zralostí. Období zrání vína je charakterizováno chemickými, biochemickými a fyzikálními změnami. Tyto změny mají vliv na vytváření chuti, buketu a celkového charakteru vína. Nejdůležitější procesy, které ve víně v období zrání probíhají, jsou odbourávání kyselin působením bakterií, vysrážení vinného kamene a esterifikace. Velkou úlohu zde mají oxidační a redukční procesy. Dosažení lahvové zralosti je přeměna pomalá a je odvislá od odrůdy, od obsahu kyselin, alkoholu, cukru a od prostředí ve kterém zrání probíhá. Zrání probíhá až do určité výšky a potom se jeho kvalita snižuje. Vrcholný bod zrání se dá určit jen organolepticky, odborně a prakticky vyspělými menology.\n\n
+<b>Zakrytá degustace</b>\n
+Zakrytá degustace se nazývá také anonymní. Záleží na pořadateli degustace, jak určí ve statutu, ale obecně se hodnotí bez vědomí o výrobci vína, často je nespecifikována i odrůda a vína jsou rozdělena do kategorií podle aromatičnosti a zbytkového cukru. Ročník vína je zpravidla znám. Některé mezinárodní degustace, kde v komisi zasedají odborníci naprosto nezaujatí a nespjatí s výrobci a obchodníky, mohou degustovat s odkrytými údaji o víně.\n\n
+<b>Zátky</b>\n
+Zátky jsou nejrůznější kvality od zátek z přírodního korku, přes zátky z korkové drti se dvěma ploškami přírodního korku, po zátky pouze z korkové drti až k zátkám plastovým, které jsou ve vývoji. Tradiční jsou zátky z přírodního korku, jejich nevýhodou je nejistota, zda se ve víně neobjeví obávaná korková příchuť. Lepší jakosti se dodávají sterilizované. Výběr korků je závislý na hodnotě vína.\n\n
+<b>Zatřídění vína</b>\n
+Veškerá tuzemská vína, podle zákona č. 321/2004, s výjimkou stolního (včetně zemského), podléhají hodnocení a zatřídění. Za tím účelem je při Státní zemědělské a potravinářské inspekci vytvořena komise expertů, která víno posuzuje. Víno originální certifikace ale hodnotí a zatřiďuje příslušné pověřené sdružení vinařů.\n\n
+<b>Zbytkový cukr</b>\n
+Též reziduální cukr, který neprovasil a zůstal ve víně. Podle výše z. c. se rozeznává víno suché, polosuché, polosladké a sladké.\n\n
+<b>Zemské víno</b>\n
+Je podle předpisů ES a zákona č. 321/2004 Sb. v podstatě lepší stolní víno. Může být na rozdíl od stolního vína označeno odrůdou, ročníkem a oblastí. Zemské víno uvádí na trh přímo vinař, bez nutnosti zatřídění státním orgánem (SZPI). Mimo geografického označení, které může být uvedeno na etiketě (české zemské víno, moravské zemské víno), používá i dalších výsad, ty jsou ale v různých členských zemích odlišné.\n\n
+<b>Známkové víno</b>\n
+Známkové víno je většinou vyrobeno ze směsi několika odrůd, ale může být i z odrůdy jedné. Rozeznáváme známková vína podniková, kdy příslušnou známku vyrábí jen jeden podnik, většinou velkokapacitní. Taková známková vína se u nás z minulosti značně zdiskreditovala, protože to byly většinou směsi našich a dovážených vín s vyšším obsahem cukru uměle vytvořeným. Dobrou pověst mají hlavně známková vína s tradicí, pojmenovaná geografickými názvy, která vyrábějí všichni vinaři daného obvodu nebo oblasti a která mají přesně vymezené a veřejně známé parametry pěstitelské i technologické a jejich kvalita je určitým způsobem vinaři oblasti kontrolována.\n\n
+<b>Zrání vína v láhvi</b>\n
+Víno je biologicky činné i po nalahvování. Přestože bylo zbaveno mikroorganismů, procházejí v něm významné chemické i biochemické změny (oxidace, esterifikace,
+        případně krystalizace a koagulace, vytváří se složky buketu). K optimálnímu projevu příjemných chuťových změn při zrání vína v láhvi je důležitá stabilní teplota
+        (pro bílá vína 8 - 10°C, pro červená 10 - 12°C), přiměřená relativní vzdušná vlhkost (76%), absolutní temnota a klid prostředí bez otřesů. Čistota prostředí bez vůní a zápachů.\n\n
 
 
    </string>

@@ -407,6 +407,11 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
                         Intent intent=new Intent(context,SolarisActivity.class);
                         context.startActivity(intent);
                     }
+                    if (data[getAdapterPosition()].equals("VELTLÍNSKÉ ČERVENÉ RANÉ"))
+                    {
+                        Intent intent=new Intent(context,VeltlineskecerveneraneActivity.class);
+                        context.startActivity(intent);
+                    }
 
 
                 }
