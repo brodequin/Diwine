@@ -412,6 +412,11 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
                         Intent intent=new Intent(context,VeltlineskecerveneraneActivity.class);
                         context.startActivity(intent);
                     }
+                    if (data[getAdapterPosition()].equals("VELTLÍNSKÉ ZELENÉ"))
+                    {
+                        Intent intent=new Intent(context,VeltlineskezeleneActivity.class);
+                        context.startActivity(intent);
+                    }
 
 
                 }

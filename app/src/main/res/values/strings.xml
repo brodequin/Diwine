@@ -13,7 +13,7 @@
     <string name="navbar_title_kruhy"><font color = "#B6B6B6">Aromatické kruhy</font></string>
 
     <!-- nav_header -->
-    <string name="popisek_navigacni_menu">Pokud jste našli chybu, nebo máte nějaké dotazy, pište na email: diwineshop@email.cz.</string>
+    <string name="popisek_navigacni_menu">Pokud jste našli chybu, nebo máte nějaké dotazy, pište na email: info@diwineshop.cz.</string>
 
     <!-- ODRŮDY -->
 
@@ -1109,11 +1109,12 @@ Držitel šlechtitelských práv v ČR: Ing. Miloš Michlovský.\n\n
 
     <!--VELTLÍNSKÉ ČERVENÉ RANÉ-->
 
-    <string name="barva_veltlinskecervenerane">Zlatožlutá</string>
+    <string name="barva_veltlinskecervenerane">Zlatožlutá.</string>
     <string name="vune_veltlinskecervenerane">Neutrální, při vyšší cukernatosti moštů se objevují mandlové až medové tóny. Zahradní ovoce, chlebnatost.</string>
-    <string name="chut_veltlinskecervenerane">Chuť je plná, jemně ovocitá až kořenitá, širší a extraktivní, s jemnou kyselinkou ba se středním až vyšším obsahem alkoholu. Podobně jako ve
-    vůni - zahradní ovoce, mandle, med, chlebnatost.</string>
-    <string name="stolovani_veltlinskecervenerane">Většinou se vína Veltlínského červeného raného doporučují k běžné denní stravě, například k masu s omáčkami, hutným polévkám a studeným mísám.</string>
+    <string name="chut_veltlinskecervenerane">Chuť je plná, jemně ovocitá až kořenitá, širší a extraktivní, s jemnou kyselinkou ba se středním až vyšším obsahem alkoholu.
+        Ve vůni a chuti můžeme hledat směs zahradního ovoce, mandle, med, chlebnatost.</string>
+    <string name="stolovani_veltlinskecervenerane">Většinou se vína Veltlínského červeného raného doporučují k běžné denní stravě, například k masu s omáčkami, hutným polévkám a
+        studeným mísám.</string>
     <string name="popis_veltlinskecervenerane">Veltlínské červené rané je starobylá bílá odrůda révy vinné. Její původ, dle pramenů, je pravděpodobně v Itálii nebo v Rakousku.
         Na území českých zemí se o rozšíření odrůdy zasloužil August Wilhelm baron von Babo (1827 – 1894) zakladatel a první ředitel vinařské školy v Klosterneuburgu (1860 – 1893 Wien),
         dnešní  Vyšší odborná škola a výzkumný ústav pro vinařství a ovocnictví. Příjmení „Babo“ se odrazilo v mnoha synonymech odrůdy v různých zemích. V několika zemích nese název slova
@@ -1124,6 +1125,29 @@ Držitel šlechtitelských práv v ČR: Ing. Miloš Michlovský.\n\n
         Doporučená zkratka: VČR \n\n
         Držitel šlechtitelských práv v ČR: není \n
         Udržovatel odrůdy v ČR: kód 605 Šlechtitelská stanice vinařská, s.r.o. 687 37 Polešovice 634.\n\n
+        Zdroje informací: \n www.znalecvin.cz, hledamvino.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat,
+        Průvodce vínem 2014-2015
+    </string>
+
+    <!--VELTLÍNSKÉ ZELENÉ-->
+
+    <string name="barva_veltlinskezelene">Světle zelená až zelenožlutá</string>
+    <string name="vune_veltlinskezelene">Lipový květ, med, kořenitost, zelený pepř, zelené jablko, byliny, citrusy, nektarinky, kosatce, estragon.</string>
+    <string name="chut_veltlinskezelene">Mandle, kořenitost, ovocitost (citrusy), byliny, med, bílý pepř, medovina.</string>
+    <string name="stolovani_veltlinskezelene">Vína VZ jsou vhodná pro denní stolování. Ředěna vodou jako vinný střik tiší žízeň. Lze je kombinovat se širší škálou pokrmů. Mladá jsou vhodná ke
+        studeným masům, omáčkám a slaným předkrmům, vyzrálá k hovězímu, filé z mořských ryb a k neutrálním omáčkám.</string>
+    <string name="popis_veltlinskezelene">Veltlínské zelené je tradiční moštová odrůda určená pro výrobu bílých vín. Do Státní odrůdové knihy ČR zapsaná v r. 1941. V ČR je nejrozšířenější
+        pěstovanou odrůdou na výměře 1 662 ha, což představuje 9,7 % z celkové výměry vinic. Na Moravě byly v minulosti pro odrůdu používané názvy Bělošpičák a Muškatel. Její původ sahá
+        pravděpodobně až do starověku a odrůda vznikla buď na území Itálie, nebo Rakouska, kde je v dnešní době pěstovaná na největší výměře ve Světě (cca 24 tis. ha). V Rakousku se distribuuje
+        většinou pod značkou Weinviertel DAC.
+        Hrozen je velký s křídly, hustý. Bobule je středně velká, kulatá, zelenožlutá. Slupka je středně silná, dužnina šťavnatá, chuť šťávy hroznu kořenitá s jemným muškátovým aroma. Víno při
+        redukované sklizni velmi kvalitní, žluto zeleného odstínu. Ve vůni je charakterem zelený pepř, lipový květ, zelené jablko. V chutí zelené jablko, mandlové a kořenité tóny. Víno je vhodné
+        pro výrobu sektů a pro zrání v láhvi.\n
+        Povolené synonymum v ČR: Grüner Veltliner\n\n
+        Doporučená zkratka: VZ\n\n
+        Držitel šlechtitelských práv v ČR: není\n
+        Udržovatel odrůdy v ČR: kód 603 Šlechtitelská stanice vinařská Velké Pavlovice, a.s. 691 06 Velké Pavlovice 565, kód 604 Ing. Miloš Michlovský, CSc. Družstevní 818, 691 03 Rakvice,
+        kód 749 Ing. Alois Tománek, 687 09 Boršice 671, kód 982 AMPELOS, ŠLECHTITELSKÁ STANICE VINAŘSKÁ ZNOJMO, a.s. 671 24 Vrbovec 274.\n\n
         Zdroje informací: \n www.znalecvin.cz, hledamvino.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat,
         Průvodce vínem 2014-2015
     </string>

@@ -192,6 +192,9 @@
         <activity
             android:name=".VeltlineskecerveneraneActivity"
             android:exported="true" />
+        <activity
+            android:name=".VeltlineskezeleneActivity"
+            android:exported="true" />
 
 
 
