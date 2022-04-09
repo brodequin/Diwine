@@ -4,7 +4,6 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.SearchView;
-import androidx.appcompat.widget.Toolbar;
 import androidx.core.content.ContextCompat;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
@@ -12,17 +11,13 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.Intent;
-import android.graphics.PorterDuff;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.Gravity;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
-import android.view.animation.RotateAnimation;
 import android.widget.ImageView;
-import android.widget.Toast;
 
 import com.google.android.material.navigation.NavigationView;
 
@@ -66,9 +61,14 @@ public class MainActivity extends AppCompatActivity   {
                         startActivity(intent);
                         break;
                     }
-                    case R.id.nav_circle: {
-                        Intent intent2=new Intent(MainActivity.this,AromatickeActivity.class);
+                    case R.id.nav_circle_b: {
+                        Intent intent2=new Intent(MainActivity.this, AromatickeActivityBile.class);
                         startActivity(intent2);
+                        break;
+                    }
+                    case R.id.nav_circle_c: {
+                        Intent intent3=new Intent(MainActivity.this, AromatickeActivityCervene.class);
+                        startActivity(intent3);
                         break;
                     }
                 }

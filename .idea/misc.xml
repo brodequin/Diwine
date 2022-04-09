@@ -4,12 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/_Diwine/_Byznys/Aplikace/Fiverr/DiwineApp/app/src/main/res/drawable/ic_book.xml" value="0.4630208333333333" />
+        <entry key="..\:/_Diwine/_Byznys/Aplikace/Fiverr/DiwineApp/app/src/main/res/drawable/ic_circle.xml" value="0.3405" />
         <entry key="..\:/_Diwine/_Byznys/Aplikace/Fiverr/DiwineApp/app/src/main/res/layout/activity_acolon.xml" value="0.446875" />
         <entry key="..\:/_Diwine/_Byznys/Aplikace/Fiverr/DiwineApp/app/src/main/res/layout/activity_agni.xml" value="0.42857142857142855" />
         <entry key="..\:/_Diwine/_Byznys/Aplikace/Fiverr/DiwineApp/app/src/main/res/layout/activity_alibernet.xml" value="0.446875" />
         <entry key="..\:/_Diwine/_Byznys/Aplikace/Fiverr/DiwineApp/app/src/main/res/layout/activity_andre.xml" value="0.446875" />
         <entry key="..\:/_Diwine/_Byznys/Aplikace/Fiverr/DiwineApp/app/src/main/res/layout/activity_ariana.xml" value="0.446875" />
         <entry key="..\:/_Diwine/_Byznys/Aplikace/Fiverr/DiwineApp/app/src/main/res/layout/activity_aromaticke.xml" value="0.446875" />
+        <entry key="..\:/_Diwine/_Byznys/Aplikace/Fiverr/DiwineApp/app/src/main/res/layout/activity_aromaticke_cervene.xml" value="0.4427083333333333" />
         <entry key="..\:/_Diwine/_Byznys/Aplikace/Fiverr/DiwineApp/app/src/main/res/layout/activity_aurelius.xml" value="0.446875" />
         <entry key="..\:/_Diwine/_Byznys/Aplikace/Fiverr/DiwineApp/app/src/main/res/layout/activity_auxerrois.xml" value="0.446875" />
         <entry key="..\:/_Diwine/_Byznys/Aplikace/Fiverr/DiwineApp/app/src/main/res/layout/activity_blau_burger.xml" value="0.446875" />

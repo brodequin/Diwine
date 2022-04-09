@@ -12,9 +12,13 @@
             android:icon="@drawable/ic_book"
             android:title="@string/navbar_title_slovnik" />
         <item
-            android:id="@+id/nav_circle"
+            android:id="@+id/nav_circle_b"
             android:icon="@drawable/ic_circle"
-            android:title="@string/navbar_title_kruhy" />
+            android:title="@string/navbar_title_kruhy_bile" />
+        <item
+            android:id="@+id/nav_circle_c"
+            android:icon="@drawable/ic_circle"
+            android:title="@string/navbar_title_kruhy_cervene" />
 
     </group>
 
