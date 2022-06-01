@@ -14,7 +14,7 @@
     <string name="navbar_title_kruhy_cervene"><font color = "#B6B6B6">Aromatické kruhy - červené</font></string>
 
     <!-- nav_header -->
-    <string name="popisek_navigacni_menu">Pokud jste našli chybu, nebo máte nějaké dotazy, pište na email: info@diwineshop.cz.</string>
+    <string name="popisek_navigacni_menu">Kontakt: info@diwineshop.cz\n Fotky odrůd jsou použity s povolením vinařského fondu.</string>
 
     <!-- ODRŮDY -->
 
@@ -1149,6 +1149,77 @@ Držitel šlechtitelských práv v ČR: Ing. Miloš Michlovský.\n\n
         Držitel šlechtitelských práv v ČR: není\n
         Udržovatel odrůdy v ČR: kód 603 Šlechtitelská stanice vinařská Velké Pavlovice, a.s. 691 06 Velké Pavlovice 565, kód 604 Ing. Miloš Michlovský, CSc. Družstevní 818, 691 03 Rakvice,
         kód 749 Ing. Alois Tománek, 687 09 Boršice 671, kód 982 AMPELOS, ŠLECHTITELSKÁ STANICE VINAŘSKÁ ZNOJMO, a.s. 671 24 Vrbovec 274.\n\n
+        Zdroje informací: \n www.znalecvin.cz, hledamvino.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat,
+        Průvodce vínem 2014-2015
+    </string>
+
+    <!--VERITAS-->
+
+    <string name="barva_veritas">Sytější zelenožlutá</string>
+    <string name="vune_veritas">Lipové, ovocné a medové tóny.</string>
+    <string name="chut_veritas">Ovocná (limetka, žluté jablko), med.</string>
+    <string name="stolovani_veritas">Víno odrůdy Veritas můžeme podávat k pokrmům s neutrálními omáčkami.</string>
+    <string name="popis_veritas">Veritas je bílá moštová odrůda révy vinné, vznikla křížením odrůd Ryzlink červený x Bouvierův hrozen. Do Státní odrůdové knihy byla odrůda zapsaná v r. 2001.
+        Odrůdu vyšlechtili v roce 1963 Cyril Míša a Miloš Zbořil ve Šlechtitelské stanici Vrbovec, pod pracovním názvem (RČ x BH) I-5/3. Hrozen je středně velký, kuželový, hustý. Bobule
+        žlutozelená, kulatá, střední. Slupka je odolná, dužnina řídká. Plná zralost ve druhé polovině září a dosahuje výnosy běžně přes 10 tun/ha. Víno mívá střední obsah kyselin, harmonické.
+        Charakterem ve vůni jsou lipové a medové tóny. V chuti ovocné (limetka, žluté jablko).\n\n
+        Doporučená zkratka: Ve \n\n
+        Držitel šlechtických práv v ČR: kód 982 AMPELOS, ŠLECHTITELSKÁ STANICE VINAŘSKÁ ZNOJMO, a.s. 671 24 Vrbovec 274.\n
+        Udržovatel odrůdy v ČR: kód 982 AMPELOS.\n\n
+        Zdroje informací: \n www.znalecvin.cz, hledamvino.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat,
+        Průvodce vínem 2014-2015
+    </string>
+
+    <!--VESNA-->
+
+    <string name="barva_vesna"></string>
+    <string name="vune_vesna">Ovocné a květinové tóny.</string>
+    <string name="chut_vesna">Chuť extraktivní, vysoce kvalitní.</string>
+    <string name="stolovani_vesna">Víno odrůdy Veritas můžeme podávat k pokrmům s neutrálními omáčkami.</string>
+    <string name="popis_vesna">Vesna je nová bílá moštová odrůda révy vinné se zvýšenou odolností proti houbovým chorobám. Vznikla křížením odrůd Rakiš (Villard blanc x Veltlínské červené rané)
+        x Merlan. Do Státní odrůdové knihy byla odrůda zapsaná v r. 2012. Odrůdu vyšlechtil Doc. Ing. Miloše Michlovského, DrSc. ve společnosti Vinselekt. Hrozen je středně velký,
+        válcovitě – kuželový, hustý. Bobule žlutozelená, v plné zralosti žlutá, kulatá, malá. Slupka odolná, dužnina řídká. Plná zralost v polovině října. Dosahuje pravidelně cukernatosti 21 – 23°NM.
+        Víno je ryzlinkového typu s pikantní kyselinou, v horších ročnících je vhodná jablečno – mléčná fermentace.\n\n
+        Doporučená zkratka: Ves \n\n
+        Držitel šlechtických práv v ČR: kód 604 Doc. Ing. Miloš Michlovský, DrSc, Družstevní 818, 691 03 Rakvice.\n
+        Udržovatel odrůdy v ČR: kód 604 Doc. Ing. Miloš Michlovský, DrSc.\n
+        Zdroj: článek Vinařský obzor, autor doc. Ing. Pavel Pavloušek, Ph.D.\n\n
+        Zdroje informací: \n www.znalecvin.cz, hledamvino.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat,
+        Průvodce vínem 2014-2015
+    </string>
+
+    <!--VRBOSKA-->
+
+    <string name="barva_vrboska">Zelenožlutá až narůžovělá.</string>
+    <string name="vune_vrboska">Muškátově kořenitá.</string>
+    <string name="chut_vrboska">Muškátově kořenitá, bylinná. Lékořice.</string>
+    <string name="stolovani_vrboska">Víno běžné denní spotřeby, vhodné k neutrálním a lehkým pokrmům, líbivý hrozen je možno využít i pro přímou konzumaci.</string>
+    <string name="popis_vrboska">Vrboska je bílá moštová odrůda, kříženec odrůd Tramín červený x Čabaňská perla. Vyšlechtěna byla ve Šlechtitelské stanici vinařské ve
+        Znojmě šlechtiteli Ing. Milošem Zbořilem, Ing. Jaroslavem Tomáškem, Ing. Jindřichem Ševčíkem, Ing. Ivanou Ludvíkovou a Jiřím Hladíkem. Hrozen je středně velký,
+        většinou kuželovitý, hustý. Bobule středně velká, kulatá, červená. Zapsaná do Státní odrůdové knihy v roce 2004. Víno je jemně aromatické, lehké s muškátovými tóny.
+        Odrůda velmi vhodná pro výrobu burčáku.\n\n
+        Zkratka Vr.\n\n
+        Udržovate odrůdy v ČR: kód 982 AMPELOS, ŠLECHTITELSKÁ STANICE VINAŘSKÁ ZNOJMO, a.s., 671 24 Vrbovec 274 \n
+        Držitel šlechtitelských práv v ČR:  AMPELOS.\n\n
+        Zdroje informací: \n www.znalecvin.cz, hledamvino.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat,
+        Průvodce vínem 2014-2015
+    </string>
+
+    <!--ZWEIGELTREBE-->
+
+    <string name="barva_zweigeltrebe">Tmavě červená, rubínová, při dobré vyzrálosti až granátová.</string>
+    <string name="vune_zweigeltrebe">Třešně, višně, švestky, borůvky, ostružiny, povidla, kořenitost.</string>
+    <string name="chut_zweigeltrebe">Ostružiny, višně, višňový kompot, lesní ovoce.</string>
+    <string name="stolovani_zweigeltrebe">Víno běžné denní spotřeby, vhodné k neutrálním a lehkým pokrmům, líbivý hrozen je možno využít i pro přímou konzumaci.</string>
+    <string name="popis_zweigeltrebe">Zweigeltrebe je rakouská modrá moštová odrůda vzniklá křížením odrůd Svatovavřinecké x Frankovka. V r. 1980 zapsaná do Státní
+        odrůdové knihy ČR. Vyšlechtěna Fridrichem Zweigeltem ve Vyšší odborné škole a výzkumném ústavu pro vinařství a ovocnictví v Klosterneuburgu u Vídně. Nejdříve
+        se nová odrůda jmenovala Rotburger, v r. 1975 přejmenovaná na Blaue Zweigeltrebe, v Rakousku zkráceně Zweigelt. Hrozen je středně velký, kuželový s křídly,
+        hustý. Bobule je malá až středně velká, kulatá, tmavě modrá. Slupka pevná, dužnina rozplývavá, řídká. Víno je při redukované úrodě hroznů plné, harmonické,
+        tmavě červené s jemnější tříslovinou. Ve vůni charakterově velmi podobné odrůdě Svatovavřinecké, u zralých vín aromatické tóny borůvek, ostružin a povidel.\n\n
+        Doporučená zkratka: Zw.\n\n
+        Udržovatel odrůdy v ČR: kód 603 Šlechtitelská stanice vinařská Velké Pavlovice a.s., 691 06 Velké Pavlovice 565, kód 605 Šlechtitelská stanice vinařská,
+        s.r.o. Polešovice, kód 749 Ing. Alois Tománek, Boršice.\n
+        Držitel šlechtitelských práv v ČR: není\n\n
         Zdroje informací: \n www.znalecvin.cz, hledamvino.cz, www.vinoadestilaty.cz, www.vinazmoravyvinazcech.cz, Wikipedie, publikace: Vše, co byste měli vědět o víně…a nemáte se koho zeptat,
         Průvodce vínem 2014-2015
     </string>

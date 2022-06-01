@@ -198,6 +198,18 @@
         <activity
             android:name=".VeltlineskezeleneActivity"
             android:exported="true" />
+        <activity
+            android:name=".VeritasActivity"
+            android:exported="true" />
+        <activity
+            android:name=".VesnaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".VrboskaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ZweigeltrebeActivity"
+            android:exported="true" />
 
 
 
