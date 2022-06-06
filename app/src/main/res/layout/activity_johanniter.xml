@@ -17,6 +17,7 @@
         android:background="@drawable/background"
         tools:context=".JohanniterActivity">
 
+
         <TextView
             android:id="@+id/textView"
             android:layout_width="wrap_content"
